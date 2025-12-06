@@ -1,3 +1,4 @@
+<div class="hero-home"></div>
 ---
 layout: default
 title: Home
@@ -33,7 +34,7 @@ People often come to me in moments when life stops making sense---when the story
 Sometimes the shift is sudden:
 
 - a breakup or divorce you didn’t see coming  
-- career burnout that hits harder than expected  
+- career burnout that hits hard
 - a diagnosis that rearranges everything  
 - a moment when you realize you can't keep going the way you have  
 
@@ -105,9 +106,9 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 
 ---
 
-## If something here resonates
+## If something here resonates . . .
 
-I see clients through **[Symmetry Counseling](https://symcounseling.com)**.  
+I see clients through **[Symmetry Counseling](https://symcounseling.com/sara-rands/)**.  
 You're welcome to reach out there, or contact me directly:
 
 📧 **sara@sararands.com**

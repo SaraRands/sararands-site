@@ -4,6 +4,7 @@ title: Speaking & Media
 ---
 
 # Speaking & Media
+<img src="/assets/images/speaking.jpg" alt="Sara speaking at conference" class="speaking-img">
 
 My talks explore how to live a meaningful, grounded, connected life, especially after religion. I’m interested in what “best practices” look like for people who no longer have a built-in roadmap.
 

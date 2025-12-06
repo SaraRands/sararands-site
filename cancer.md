@@ -1,3 +1,4 @@
+<div class="cancer-hero"></div>
 ---
 layout: default
 title: Cancer Survivorship Support
@@ -95,6 +96,10 @@ You get to have a place where you can fall apart, question everything, talk hone
 My survivorship experience led me to write about the gaps in early detection for young women and the limitations in our current systems. You can read my recent op-ed on KevinMD:
 
 **[Early-onset breast cancer: A survivor’s story](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)**
+
+You can also read a personal reflection on my 20-year survivorship milestone on my blog:
+
+**[Twenty Years Out: What Cancer Taught Me](../blog/twenty-years-later.md)**  
 
 I continue to advocate for better research, better tools, and better support for survivors — especially younger ones, whose needs are often overlooked.
 

@@ -6,7 +6,7 @@ title: Contact
 # Contact
 
 Reaching out for therapy can feel like a big step.  
-You don’t need to have the right words or the perfect explanation — just a sense that something in you is ready for support.  
+You don’t need to have the right words or the perfect explanation, just a sense that something in you is ready for support.  
 If you feel drawn to my work or think we might be a good fit, I’d love to hear from you.
 
 ## Email

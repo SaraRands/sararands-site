@@ -86,8 +86,23 @@ footer {
   border-top: 1px solid #eee;
 }
 
+.site-footer {
+  margin-top: 4rem;
+  padding: 1.5rem 0;
+  border-top: 1px solid #e0e0e0;
+  font-size: 0.85rem;
+  color: #555;
+  text-align: center;
+  line-height: 1.4;
+}
+
+.site-footer strong {
+  font-weight: 600;
+  color: #333;
+}
+
 .hero-home {
-  background-image: url('/assets/images/hero-home.jpg');
+  background-image: url("{{ '/assets/images/hero-home.jpg' | relative_url }}");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -105,7 +120,7 @@ footer {
 }
 
 .cancer-hero {
-  background-image: url('/assets/images/cancer-header.jpg');
+  background-image: url("{{ '/assets/images/cancer-header.jpg' | relative_url }}");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
