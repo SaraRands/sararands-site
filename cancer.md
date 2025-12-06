@@ -1,8 +1,9 @@
-<div class="cancer-hero"></div>
 ---
 layout: default
 title: Cancer Survivorship Support
 ---
+
+<div class="cancer-hero"></div>
 
 # Cancer changes everything---including who you become.
 

@@ -101,17 +101,6 @@ footer {
   color: #333;
 }
 
-.hero-home {
-  background-image: url("{{ '/assets/images/hero-home.jpg' | relative_url }}");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 350px;  /* adjust up/down as desired */
-  border-radius: 6px;
-  margin-bottom: 2rem;
-}
-
 .portrait-img {
   width: 260px;
   border-radius: 8px;
@@ -119,16 +108,13 @@ footer {
   margin: 0 0 1.5rem 1.5rem;
 }
 
-.cancer-hero {
-  background-image: url("{{ '/assets/images/cancer-header.jpg' | relative_url }}");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 280px;
-  border-radius: 6px;
-  margin-bottom: 2rem;
-  opacity: 0.85; /* optional, softens image behind text */
+.portrait-right {
+  float: right;
+  width: 260px;
+  max-width: 40%;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
 }
 
 .speaking-img {
@@ -137,4 +123,14 @@ footer {
   border-radius: 6px;
   margin: 0 auto 2rem auto;
   display: block;
+}
+
+@media (max-width: 700px) {
+  .portrait-right {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem auto;
+    width: 70%;
+    max-width: 300px;
+  }
 }

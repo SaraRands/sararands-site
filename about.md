@@ -4,6 +4,7 @@ title: About
 ---
 
 # Hi, I’m Sara.
+
 <img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Sara Rands portrait" class="portrait-img">
 
 I’m a therapist for people who think and feel deeply: the ones who’ve spent years trying to make sense of themselves in a world that prefers simpler stories. Many of my clients wonder whether they’re too sensitive, too intense, too analytical, too emotional, or somehow “not built like everyone else.”

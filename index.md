@@ -1,8 +1,9 @@
-<div class="hero-home"></div>
 ---
 layout: default
 title: Home
 ---
+
+<div class="hero-home"></div>
 
 # Therapy for People Who Think Deeply, Feel Fully, and Have Always Been A Little Different
 *A grounded space for highly sensitive, gifted, intuitive, analytical, and thoughtful adults navigating complexity, identity shifts, and profound inner change.*
