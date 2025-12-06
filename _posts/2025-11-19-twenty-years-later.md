@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Twenty Years Later"
-date: 2025-11-01
 ---
 
 Twenty years ago, I was diagnosed with stage 3C breast cancer. My children were 7, 5, and 3. The odds were not in my favor, but I’m still here. Here’s what I’ve learned.

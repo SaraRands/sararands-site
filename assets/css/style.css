@@ -77,6 +77,42 @@ section {
   margin-bottom: 3rem;
 }
 
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.nav-left a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.nav-left a:hover {
+  text-decoration: underline;
+}
+
+.site-name {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+@media (max-width: 700px) {
+  .site-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .nav-left {
+    margin-bottom: 0.5rem;
+  }
+}
+
 /* ---- Footer ---- */
 footer {
   margin-top: 4rem;
