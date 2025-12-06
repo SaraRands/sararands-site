@@ -78,9 +78,9 @@ I work with people who want a therapist who:
 - offers warmth, anchor, presence, and depth  
 - works gently and without urgency, at the pace of your nervous system  
 
-My primary modality is **NARM (NeuroAffective Relational Model)**, a gentle, present-moment, attachment-focused approach that helps people reconnect with agency, presence, and internal safety after overwhelming experiences.
+My primary modality is [**NARM (NeuroAffective Relational Model)**](https://narmtraining.com/what-is-narm/), a gentle, present-moment, attachment-focused approach that helps people reconnect with agency, presence, and internal safety after overwhelming experiences.
 
-I also use **ART (Accelerated Resolution Therapy)** for survivors carrying specific medical trauma---frightening moments in the hospital, disturbing images, needle phobia, invasive procedures, or sensory imprints that remain long after treatment. ART is often surprisingly effective at easing the emotional charge around these memories without requiring you to retell them in detail.
+I also use [**ART (Accelerated Resolution Therapy)**](https://acceleratedresolutiontherapy.com/what-is-art/) for survivors carrying specific medical trauma---frightening moments in the hospital, disturbing images, needle phobia, invasive procedures, or sensory imprints that remain long after treatment. ART is often surprisingly effective at easing the emotional charge around these memories without requiring you to retell them in detail.
 
 And I offer **Ketamine-Assisted Psychotherapy (KAP)** for survivors navigating existential distress, medical trauma, spiritual crisis, or identity shifts. KAP can open new pathways into meaning, connection, and emotional flexibility that are often inaccessible through talk therapy alone, especially when grief or fear feel frozen.
 
@@ -100,9 +100,9 @@ My survivorship experience led me to write about the gaps in early detection for
 
 You can also read a personal reflection on my 20-year survivorship milestone on my blog:
 
-**[Twenty Years Out: What Cancer Taught Me](../blog/twenty-years-later.md)**  
+**[Twenty Years Out: What Cancer Taught Me](../blog/twenty-years-later)**  
 
-I continue to advocate for better research, better tools, and better support for survivors — especially younger ones, whose needs are often overlooked.
+I continue to advocate for better research, better tools, and better support for survivors, especially younger ones, whose needs are often overlooked.
 
 ---
 
