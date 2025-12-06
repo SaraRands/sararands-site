@@ -85,3 +85,41 @@ footer {
   font-size: 0.9rem;
   border-top: 1px solid #eee;
 }
+
+.hero-home {
+  background-image: url('/assets/images/hero-home.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 350px;  /* adjust up/down as desired */
+  border-radius: 6px;
+  margin-bottom: 2rem;
+}
+
+.portrait-img {
+  width: 260px;
+  border-radius: 8px;
+  float: right;
+  margin: 0 0 1.5rem 1.5rem;
+}
+
+.cancer-hero {
+  background-image: url('/assets/images/cancer-header.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 280px;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+  opacity: 0.85; /* optional, softens image behind text */
+}
+
+.speaking-img {
+  width: 100%;
+  max-width: 900px;
+  border-radius: 6px;
+  margin: 0 auto 2rem auto;
+  display: block;
+}
