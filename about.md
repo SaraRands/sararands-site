@@ -113,7 +113,7 @@ Her lived experience includes cancer survivorship, faith transition, and raising
 ## Credentials
 
 - **ACMHC**, Utah License #13896194-6009  
-- Practicing under supervision of **Jenny Elledge, MFT**  
+- Practicing under supervision of **Jenny Elledge, LMFT**  
 - **Master of Science in Clinical Mental Health Counseling**, Northwestern University  
 - **Bachelor of Science**, Computer Science, Utah Valley University  
 - **Bachelor of Arts**, English, Brigham Young University  
