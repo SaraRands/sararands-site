@@ -36,7 +36,8 @@ Sometimes the shift is sudden:
 
 - a breakup or divorce you didn’t see coming  
 - career burnout that hits hard
-- a diagnosis that rearranges everything  
+- a diagnosis that rearranges everything
+– a loss that reshapes your world---of a person, a relationship, or a version of life you counted on 
 - a moment when you realize you can't keep going the way you have  
 
 Other times, the change is quieter:

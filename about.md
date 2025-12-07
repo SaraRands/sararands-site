@@ -20,9 +20,9 @@ My work is about creating a space where you don’t have to translate yourself: 
 
 Before I was a therapist, I lived many lives.
 
-I began as an English major who also studied German, psychology, music, education, philosophy and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home birth but biology interfered (hi there, birth trauma!). I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette.*
+I began as an English major who also studied German, psychology, music, education, philosophy, and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home birth but biology interfered (hi there, birth trauma!). I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette.*
 
-I was also a devout Mormon for many years, the kind who played the organ in church for a decade and built life around faith and community. My faith transition was long and layered, and it reshaped everything.
+I was also a devout Mormon for many years, the kind who played the organ for a decade and built life around faith and community. My faith transition was long and layered, and it reshaped everything.
 
 Later, I transcribed college courses for Deaf students, a job I loved. One day I transcribed a web programming course and thought, *I bet I could do that.*  
 
