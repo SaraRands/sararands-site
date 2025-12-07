@@ -10,7 +10,7 @@ You don’t need to have the right words or the perfect explanation, just a sens
 If you feel drawn to my work or think we might be a good fit, I’d love to hear from you.
 
 ## Email
-You can reach me directly at: **sara@sararands.com**
+You can reach me directly at: [**sara@sararands.com**](mailto:sara@sararands.com)
 
 ## Schedule Through Symmetry Counseling  
 I see clients through **Symmetry Counseling**.  
