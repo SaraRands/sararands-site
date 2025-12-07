@@ -3,6 +3,78 @@
   <head>
     {% include head.html %}
     <meta charset="UTF-8">
+    <!-- ========================= -->
+    <!--       SEO METADATA        -->
+    <!-- ========================= -->
+
+    <title>
+      {% if page.title %}
+        {{ page.title }} | Sara Rands, Therapist for Deep Thinkers
+      {% else %}
+        Sara Rands, Therapist for Deep Thinkers, Gifted Adults, & Highly Sensitive People
+      {% endif %}
+    </title>
+
+    {% assign default_description = "Therapy for gifted adults, deep thinkers, neurodivergent and highly sensitive people. NARM, ART, and ketamine-assisted psychotherapy. Serving Utah through Symmetry Counseling." %}
+
+    <meta name="description" content="
+      {% if page.excerpt %}
+        {{ page.excerpt | strip_html | truncate: 155 }}
+      {% elsif page.title == 'About' %}
+        Learn about therapist Sara Rands, ACMHC—specializing in gifted adults, deep thinkers, and highly sensitive people using NARM, ART, and KAP.
+      {% elsif page.title == 'Cancer Survivorship' %}
+        Support for cancer survivors navigating fear, identity shifts, and emotional recovery. NARM, ART for medical trauma, and ketamine-assisted psychotherapy.
+      {% elsif page.title == 'Speaking' %}
+        Talks on faith transitions, existential resilience, gifted identity, and surviving young-onset cancer.
+      {% elsif page.title == 'Contact' %}
+        Contact therapist Sara Rands, ACMHC, at Symmetry Counseling in Utah.
+      {% else %}
+        {{ default_description }}
+      {% endif %}
+    ">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ page.url | absolute_url }}"/>
+
+    <!-- OpenGraph (Social Preview) -->
+    <meta property="og:title" content="{{ page.title | default: 'Sara Rands, Therapist' }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 155 | default: default_description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:image" content="{{ '/assets/images/hero-home.jpg' | absolute_url }}">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title | default: 'Sara Rands, Therapist' }}">
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 155 | default: default_description }}">
+    <meta name="twitter:image" content="{{ '/assets/images/hero-home.jpg' | absolute_url }}">
+
+    <!-- ========================= -->
+    <!--     STRUCTURED DATA       -->
+    <!-- ========================= -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sara Rands",
+      "jobTitle": "Clinical Mental Health Counselor",
+      "description": "Therapist for gifted adults, deep thinkers, neurodivergent and highly sensitive people, specializing in NARM, ART, and ketamine-assisted psychotherapy.",
+      "url": "{{ "/" | absolute_url }}",
+      "image": "{{ '/assets/images/portrait.jpg' | absolute_url }}",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Symmetry Counseling"
+      },
+      "sameAs": [
+        "https://symcounseling.com",
+        "https://kevinmd.com"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "UT"
+      }
+    }
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>{{ page.title }} | Sara Rands, Therapist</title>
@@ -65,19 +137,19 @@
 
   <body>
 
-    <!-- Navigation -->
-    <nav>
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/about' | relative_url }}">About</a>
-      <a href="{{ '/cancer' | relative_url }}">Cancer</a>
-      <a href="{{ '/speaking' | relative_url }}">Speaking & Media</a>
-      <a href="{{ '/blog' | relative_url }}">Blog</a>
-      <a href="{{ '/contact' | relative_url }}">Contact</a>
-    </nav>
+    <header class="site-header">
+      <nav class="nav-left">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/cancer/' | relative_url }}">Cancer</a>
+        <a href="{{ '/speaking/' | relative_url }}">Speaking</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </nav>
 
-    <div class="nav-right site-name">
-      <span>Sara Rands, ACMHC</span>
-    </div>
+      <div class="nav-right site-name">
+        <span>Sara Rands, ACMHC</span>
+      </div>
+    </header>
 
 
     <!-- Page Content -->
@@ -86,14 +158,20 @@
     </main>
 
     <!-- Footer -->
-    <footer>
-      <p>
-        <strong>Sara Rands, ACMHC</strong> • Utah License #13896194-6009<br>
+    <footer class="site-footer">
+      <p class="footer-name">
+        <strong>Sara Rands, ACMHC</strong> • Utah License #13896194-6009
+      </p>
+
+      <p class="footer-credentials">
         Practicing under supervision of <strong>Jenny Elledge, LMFT</strong><br>
         Masters in Clinical Mental Health Counseling, Northwestern University<br>
         Symmetry Counseling • Holladay, UT
       </p>
-      © {{ site.time | date: '%Y' }} Sara Rands, ACMHC  
+
+      <p class="footer-copy">
+        © {{ site.time | date: '%Y' }} Sara Rands, ACMHC
+      </p>
     </footer>
     <script>
       document.addEventListener("DOMContentLoaded", function() {

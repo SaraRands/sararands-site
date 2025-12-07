@@ -109,32 +109,33 @@ section {
   }
 
   .nav-left {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
   }
 }
 
-/* ---- Footer ---- */
-footer {
-  margin-top: 4rem;
-  padding: 2rem 0;
-  color: #666;
-  font-size: 0.9rem;
-  border-top: 1px solid #eee;
-}
-
 .site-footer {
-  margin-top: 4rem;
-  padding: 1.5rem 0;
-  border-top: 1px solid #e0e0e0;
-  font-size: 0.85rem;
-  color: #555;
+  margin-top: 3rem;
+  padding: 2rem 0;
   text-align: center;
-  line-height: 1.4;
+  font-size: 0.9rem;
+  color: #666;
+  border-top: 1px solid #e5e5e5;
+  line-height: 1.6;
 }
 
-.site-footer strong {
-  font-weight: 600;
-  color: #333;
+.site-footer p {
+  margin: 0.35rem 0;
+}
+
+.footer-name {
+  font-size: 1rem;
+  color: #444;
+}
+
+.footer-copy {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: #888;
 }
 
 .portrait-img {

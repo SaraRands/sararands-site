@@ -5,7 +5,7 @@ title: About
 
 # Hi, I’m Sara.
 
-<img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Sara Rands portrait" class="portrait-img">
+<img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Therapist Sara Rands, ACMHC" class="portrait-img">
 
 I’m a therapist for people who think and feel deeply: the ones who’ve spent years trying to make sense of themselves in a world that prefers simpler stories. Many of my clients wonder whether they’re too sensitive, too intense, too analytical, too emotional, or somehow “not built like everyone else.”
 
@@ -20,11 +20,11 @@ My work is about creating a space where you don’t have to translate yourself: 
 
 Before I was a therapist, I lived many lives.
 
-I began as an English major who also studied German, psychology, music, education, philosophy and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home-birth but biology interfered. I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette.*
+I began as an English major who also studied German, psychology, music, education, philosophy and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home birth but biology interfered (hi there, birth trauma!). I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette.*
 
 I was also a devout Mormon for many years, the kind who played the organ in church for a decade and built life around faith and community. My faith transition was long and layered, and it reshaped everything.
 
-Later, I transcribed college courses for Deaf students, a job I loved for its proximity to learning. One day I transcribed a web programming course and thought, *I bet I could do that.*  
+Later, I transcribed college courses for Deaf students, a job I loved. One day I transcribed a web programming course and thought, *I bet I could do that.*  
 
 I eventually went back to school for computer science, launched into a six-year software engineering career, collaborating with smart, curious, deeply analytical people solving interesting problems. I built a [Utah Baby Name Generator](https://sararands.github.io/UtahNameLab/), a small side project for generating uniquely Utah-style names, because clearly, someone had to.
 
