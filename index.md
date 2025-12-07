@@ -101,10 +101,10 @@ a place where nothing has to be forced, rushed, or minimized.
 
 ---
 
-## [Cancer Survivorship Support](/cancer/)
+## [Cancer Survivorship Support]({{ site.baseurl }}/cancer/)
 
 As a 20-year breast cancer survivor, I also offer support for people navigating survivorship and the emotional landscape that follows treatment.  
-(You can learn more on the [Cancer page](/cancer/).
+(You can learn more on the [Cancer page]({{ site.baseurl }}/cancer/).)
 
 ---
 

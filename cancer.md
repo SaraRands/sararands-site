@@ -100,7 +100,7 @@ My survivorship experience led me to write about the gaps in early detection for
 
 You can also read a personal reflection on my 20-year survivorship milestone on my blog:
 
-**[Twenty Years Out: What Cancer Taught Me](../blog/twenty-years-later)**  
+**[Twenty Years Out: What Cancer Taught Me]({{ site.baseurl }}/blog/twenty-years-later)**  
 
 I continue to advocate for better research, better tools, and better support for survivors, especially younger ones, whose needs are often overlooked.
 
