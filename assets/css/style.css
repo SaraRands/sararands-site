@@ -97,9 +97,10 @@ section {
 }
 
 .site-name {
-  font-weight: 600;
-  font-size: 1.1rem;
+  font-weight: 700;        /* More visual presence */
+  font-size: 1.4rem;       /* Increase size (adjust as needed) */
   color: #444;
+  letter-spacing: 0.3px;   /* Subtle polish */
 }
 
 @media (max-width: 700px) {
@@ -165,10 +166,10 @@ section {
 @media (max-width: 700px) {
   .portrait-right,
   .speaking-img {
-    float: none;
+    float: none !important;
     display: block;
-    margin: 0 auto 1.5rem auto;
+    margin: 0 auto 1.5rem auto !important;
     width: 70%;
     max-width: 300px;
+    }
   }
-}
