@@ -57,14 +57,23 @@ And yeah, I read a lot. Too much, probably.
 
 I love weaving ideas from books, research, and podcasts into therapy when it supports your process. Many of my clients think in frameworks or metaphors, and having shared intellectual language can open new pathways into emotion, agency, and meaning.
 
-My approach integrates:
+My approach isn’t about forcing a method onto you.  
+It’s about helping you reconnect with the parts of yourself that already know the way forward.
 
-- somatic awareness  
-- attachment and developmental understanding  
-- existential inquiry  
-- mindfulness and present-time connection  
-- neurodiversity-affirming care  
-- a deep respect for pacing and choice 
+Here’s what that looks like in practice:
+
+- **A strengths-based lens.** I look for what’s right with you, not what’s wrong.  
+- **A deeply respectful pace.** We move at the speed your system can genuinely tolerate, not the speed of your urgency or self-criticism.  
+- **Trauma-informed curiosity.** Where you are makes sense. Your strategies were intelligent. We work *with* your resistance, never against it.  
+- **Attachment awareness.** Both your early patterns and your present relationships matter, including the one we build in the room.  
+- **Neurodiversity-affirming support.** You don’t have to “be different” to be understood here.  
+- **Honoring complexity.** You don’t need a neat narrative before sharing your story; we allow things to unfold.  
+- **Mindfulness and present-time awareness.** Not as a performance, but as a way of noticing what’s happening now.  
+- **Gentle somatic awareness.** Not “Where do you feel it?” pressure, just a slow reconnection to your internal experience, when and if it feels right.  
+- **Cognitive and skills-based tools when they help.** Sometimes a bit of CBT or DBT supports nervous system stability and opens space for deeper work.  
+- **Agency as a north star.** Real change happens when you begin to feel your own capacity to choose.  
+- **Both/and thinking.** Most truths are dialectical; we make room for nuance and contradiction.  
+- **Your story as sacred space.** Even the parts that feel confusing or contradictory at first.
 
 ---
 
