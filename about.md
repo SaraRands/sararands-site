@@ -31,7 +31,7 @@ I eventually went back to school for computer science, launched into a six-year 
 Eventually, I reached a place where I could choose not just what I was capable of, but what felt deeply meaningful.  
 That led me to become a therapist.
 
-Along the way, I became a cancer survivor, navigated divorce and remarriage, raised neurodivergent children, blended a family, and rebuilt my life---in small and large ways---more than once.
+Along the way, I became a cancer survivor, raised neurodivergent children, navigated divorce and remarriage, blended a family, and rebuilt my life---in small and large ways---more than once.
 
 All of this shapes how I sit with clients. **I know what it’s like to reorient yourself from the inside out.**  
 It helps me listen with nuance, hold complexity with care, and meet you where you are.
@@ -95,7 +95,7 @@ Clients often say they appreciate my:
 - nonlinear, exploratory thinking style  
 - attunement to emotional, intellectual, and somatic nuance  
 - respect for neurodivergent ways of experiencing the world  
-- gentle sense of humor  
+- gentle sense of humor and love of puns 
 - deep curiosity about who they are becoming  
 
 My role isn’t to fix you.  
