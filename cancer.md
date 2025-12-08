@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Cancer Survivorship Support
+title: "Cancer Survivorship Support & Trauma-Informed Therapy | Salt Lake City | Sara Rands"
+description: "Therapy for cancer survivors navigating fear, identity changes, medical trauma, and post-treatment anxiety. Gentle, grounded support from a 20-year survivor. Ketamine-assisted psychotherapy and ART available."
+
 ---
 
 <div class="cancer-hero"></div>
@@ -100,10 +102,10 @@ My survivorship experience led me to write about the gaps in early detection for
 
 You can also read a personal reflection on my 20-year survivorship milestone on my blog:
 
-**[Twenty Years Out: What Cancer Taught Me](/blog/twenty-years-later)**  
+**[Twenty Years Later: What Cancer Taught Me](/blog/twenty-years-later)**  
 
 I continue to advocate for better research, better tools, and better support for survivors, especially younger ones, whose needs are often overlooked.
 
 ---
 
-If you’re looking for a therapist who understands the emotional, sexual, medical, and existential realities of cancer — someone who can hold the hardest truths with you — you’re in the right place.
+If you’re looking for a therapist who understands the emotional, sexual, medical, and existential realities of cancer — someone who can hold the hardest truths with you---you’re in the right place.

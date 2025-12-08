@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title: "About Sara Rands, ACMHC | Attachment-Focused, Neurodiversity-Affirming Therapist in Salt Lake City"
+description: "Learn about Sara Rands, a therapist for gifted adults, deep thinkers, and highly sensitive people. Blending NARM, trauma-informed care, neurodiversity-affirming therapy, and existential exploration."
 ---
 
 # Hi, I’m Sara.
@@ -92,6 +93,8 @@ I work with adults who identify with any of the following:
 - people told to “stop overthinking” or that they are “too sensitive”
 
 Many of my clients have spent their lives feeling “too much” or “not enough” in all the wrong ways, and are relieved to finally be in a space where they don’t have to shrink or simplify themselves.
+
+I also work with therapists who want a place to set down their role and be met simply as a person, not as the helper.
 
 ---
 

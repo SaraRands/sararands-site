@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Twenty Years Later"
+title: "Twenty Years Later: What Cancer Taught Me"
+description: "A 20-year breast cancer survivor reflects on treatment, motherhood, mortality, medical science, and the emotional truth of survivorship. For anyone navigating life after cancer."
 ---
 
 Twenty years ago, I was diagnosed with stage 3C breast cancer. My children were 7, 5, and 3. The odds were not in my favor, but I’m still here. Here’s what I’ve learned.

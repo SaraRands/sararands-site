@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Speaking & Media
+title: "Speaking, Workshops & Media | Faith Transitions, Identity, Neurodiversity | Sara Rands"
+description: "Talks and workshops on emotional growth, faith transitions, neurodiversity, and living a meaningful life after major change. Featuring presentations from Utah Oasis, MMHA, and KevinMD."
 ---
 
 # Speaking & Media

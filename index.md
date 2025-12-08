@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: "Therapy for Deep Thinkers, Gifted Adults & Highly Sensitive People | Sara Rands, ACMHC"
+description: "Attachment-focused, neurodiversity-affirming therapy in Salt Lake City for gifted adults, deep thinkers, and sensitive nervous systems. Specializing in NARM, ART, and Ketamine-Assisted Psychotherapy."
 ---
 
 <div class="hero-home"></div>
@@ -77,6 +78,8 @@ You might recognize yourself in phrases like:
 - *“I'm comfortable in my mind, but the rest of me feels harder to access.”*  
 - *“I've never really known how to just be myself without editing.”*  
 
+And this includes fellow therapists—--people who spend so much of their lives supporting others that they need a place where they can finally be supported, seen, and held.
+
 You don’t have to simplify yourself here.  
 Your depth is welcome.
 
@@ -86,7 +89,7 @@ Your depth is welcome.
 
 My approach blends clarity, depth, and emotional attunement. I draw from:
 
-- [**The NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/) — for identity, agency, connection, attachment, and longstanding patterns  
+- The [**NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/) — for identity, agency, connection, attachment, and longstanding patterns  
 
 - [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/) — for emotional blocks, trauma, and stuck images  
 
@@ -112,4 +115,4 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 I see clients through **[Symmetry Counseling](https://symcounseling.com/sara-rands/)**.  
 You're welcome to reach out there, or contact me directly:
 
-📧 [**sara@sararands.com**](mailto:sara@sararands.com)
+[**sara@sararands.com**](mailto:sara@sararands.com)
