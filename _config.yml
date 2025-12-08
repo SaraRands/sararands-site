@@ -7,3 +7,5 @@ markdown: kramdown
 permalink: /blog/:title/
 kramdown:
   input: GFM
+plugins:
+  - jekyll-sitemap
