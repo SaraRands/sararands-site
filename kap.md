@@ -40,7 +40,7 @@ For many deep thinkers, this matters: insight is not the issue. Feeling the insi
 Clients often say things like:
 
 - “I didn’t know that experience was still shaping me.”
-- “This is the first time I’ve felt choice instead of collapse.”
+- “Before I felt stuck. Now I can see that I have choices.”
 - “Suddenly I can feel compassion for myself.”
 - “This feels like sacred work.”
 
