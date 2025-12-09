@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Therapy for Deep Thinkers, Gifted Adults & Highly Sensitive People | Sara Rands, ACMHC"
-description: "Attachment-focused, neurodiversity-affirming therapy in Salt Lake City for gifted adults, deep thinkers, and sensitive nervous systems. Specializing in NARM, ART, and Ketamine-Assisted Psychotherapy."
+description: "Attachment-focused, neurodiversity-affirming therapy in Salt Lake City, Utah, for gifted adults, deep thinkers, and sensitive nervous systems. Specializing in NARM, ART, and Ketamine-Assisted Psychotherapy."
 ---
 
 <div class="hero-home"></div>
 
 # Therapy for People Who Think Deeply, Feel Fully, and Have Always Been A Little Different
-*For highly sensitive, gifted, intuitive, analytical, and thoughtful adults navigating complexity, identity shifts, and profound inner change.*
+*Individual therapy for highly sensitive, gifted, intuitive, analytical, and thoughtful Utah adults  navigating complexity, identity shifts, and profound inner change.*
 
 ---
 
@@ -43,12 +43,11 @@ Sometimes the shift is sudden:
 
 Other times, the change is quieter:
 
-- *I don’t know who I am anymore.*  
-- *Everything I built is falling apart, or no longer fits.*  
+- *Everything I built is falling apart. My life no longer fits.*  
 - *I'm questioning beliefs I never thought I'd question.*  
-- *I've spent my life being what others needed. Now I don’t know what I want.*  
+- *I've spent my life being what others needed. Now I don’t know who I am.*  
 - *It feels like falling down a rabbit hole. I don't know which way is up.*  
-- *I feel like I'm unraveling and rebuilding at the same time.*  
+- *I feel like I'm unraveling.*  
 
 Some describe it as hiking in earthquake country; the ground itself is shifting under your feet.
 
