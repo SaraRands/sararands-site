@@ -216,6 +216,18 @@ section {
   }
 }
 
+/* Unfloat About-page portrait image on small screens */
+@media (max-width: 900px) {
+  .portrait-img {
+    float: none !important;
+    clear: both !important;
+    display: block !important;
+    margin: 1rem auto 1.5rem auto !important;
+    width: 90% !important;
+    max-width: 300px !important;
+  }
+}
+
     /* Responsive YouTube + Spotify Embeds */
   .video-wrapper {
     position: relative;
