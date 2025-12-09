@@ -5,7 +5,7 @@ description: "Talks and workshops on emotional growth, faith transitions, neurod
 ---
 
 # Speaking & Media
-<img src="{{ '/assets/images/speaking.jpg' | relative_url }}" alt="Sara speaking at Mormon Mental Health Associationconference" class="speaking-img">
+<img src="{{ '/assets/images/speaking.jpg' | relative_url }}" alt="Sara speaking at Mormon Mental Health Association conference" class="speaking-img">
 
 My talks explore how to live a meaningful, grounded, connected life, especially after religion. I’m interested in what “best practices” look like for people who no longer have a built-in roadmap.
 
@@ -16,10 +16,15 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 ## Talks
 
 ### Navigating the Void: Faith Transitions Through an Existential Lens
+
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rZRB3PweDhI" 
+    title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+</div>
+
 The research about the faith transition experience and how existential therapy provides a helpful framework for people rebuilding a worldview.
 
 - [**Mormon Mental Health Association Conference, 2024**](https://mormonmentalhealthassoc.org/product/2024-mmha-conference-friday-session-8-when-it-isnt-a-faith-crisis-duplicate-1/)  
-- [**Utah Valley Oasis**](https://www.youtube.com/watch?v=rZRB3PweDhI)
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/21-apr-2024)
 
 ---
@@ -40,28 +45,66 @@ A practical and compassionate framework for analytical “in-their-head” peopl
 ---
 
 ### My Beef with the Buddha: Reclaiming Attachment and Connection
-Monks may look peaceful, but most of us live in families and relationships---and research shows that humans regulate and heal through connection.
+Monks may look peaceful, but most of us live in families and relationships — and research shows that humans regulate and heal through connection.
+
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/22-jun-2025)
 
 ---
 
 ## Podcasts
 
-[**ART and Trauma Therapy**](https://open.spotify.com/episode/4XVjtAlt9rZ7aBlaS11m0p?si=diLayiwiR76Q_ZMn2S6H_Q)  
+### ART and Trauma Therapy
+<div class="audio-wrapper">
+  <iframe style="border-radius:12px" 
+    src="https://open.spotify.com/embed/episode/4XVjtAlt9rZ7aBlaS11m0p?utm_source=generator" 
+    width="100%" height="152" frameborder="0" allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</div>
+
 Accelerated Resolution Therapy: What it is, how it works, and why it can be so effective.  
+[Listen on Spotify](https://open.spotify.com/episode/4XVjtAlt9rZ7aBlaS11m0p?si=diLayiwiR76Q_ZMn2S6H_Q)
 
-[**Breast Cancer and Intimacy**](https://open.spotify.com/episode/5En6AJUrqPOJqZfkNmyp13?si=wL_LWHQkQgC0BlckcjdLHA)  
+---
 
-[**Online Dating & Dating Skills**](https://open.spotify.com/episode/6sRR601kiVzBLdSuNEDHd6?si=dlhHcMD3Tpe_XqXh4TIrWw)  
+### Breast Cancer and Intimacy
+<div class="audio-wrapper">
+  <iframe style="border-radius:12px" 
+    src="https://open.spotify.com/embed/episode/5En6AJUrqPOJqZfkNmyp13?utm_source=generator" 
+    width="100%" height="152" frameborder="0" allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</div>
 
-[**Faith Transitions and Existential Therapy**](https://open.spotify.com/episode/7FghSp1V7Xtx0RolBAOFCj?si=WAuVfNWHQ3-1tFveynMBRA)  
+[Listen on Spotify](https://open.spotify.com/episode/5En6AJUrqPOJqZfkNmyp13?si=wL_LWHQkQgC0BlckcjdLHA)
 
+---
+
+### Online Dating & Dating Skills
+<div class="audio-wrapper">
+  <iframe style="border-radius:12px" 
+    src="https://open.spotify.com/embed/episode/6sRR601kiVzBLdSuNEDHd6?utm_source=generator" 
+    width="100%" height="152" frameborder="0" allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</div>
+
+[Listen on Spotify](https://open.spotify.com/episode/6sRR601kiVzBLdSuNEDHd6?si=dlhHcMD3Tpe_XqXh4TIrWw)
+
+---
+
+### Faith Transitions and Existential Therapy
+<div class="audio-wrapper">
+  <iframe style="border-radius:12px" 
+    src="https://open.spotify.com/embed/episode/7FghSp1V7Xtx0RolBAOFCj?utm_source=generator" 
+    width="100%" height="152" frameborder="0" allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</div>
+
+[Listen on Spotify](https://open.spotify.com/episode/7FghSp1V7Xtx0RolBAOFCj?si=WAuVfNWHQ3-1tFveynMBRA)
 
 ---
 
 ## Writing & Advocacy
 
-[**Early-onset breast cancer: a survivor’s story — KevinMD**](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)  
+[**Early-onset breast cancer: a survivor’s story — KevinMD**](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivor%E2%80%99s-story.html)  
 My experience as a stage 3C breast cancer survivor diagnosed at 32, and why younger women deserve better early detection tools.  
 
 For more personal reflections, see my [blog](/blog/).
