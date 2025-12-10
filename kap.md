@@ -6,7 +6,6 @@ permalink: /kap/
 ---
 
 <div class="hero-kap"></div>
-<span class="visually-hidden">A forest path illuminated by warm evening light, symbolizing inner exploration and emotional healing.</span>
 
 
 # Ketamine-Assisted Psychotherapy (KAP)
