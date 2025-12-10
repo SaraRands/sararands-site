@@ -52,7 +52,7 @@ NARM is especially supportive for people who:
 - are analytical but disconnected from their body  
 - have done insight-based work but still feel stuck  
 
-I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](https://acceleratedresolutiontherapy.com/what-is-art/) for targeted trauma processing, and I provide **Ketamine-Assisted Psychotherapy (KAP)** for clients seeking embodied, existential, or accelerated healing.
+I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](https://acceleratedresolutiontherapy.com/what-is-art/) for targeted trauma processing, and I provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for clients seeking embodied, existential, or accelerated healing.
 
 And yeah, I read a lot. Too much, probably.  
 
@@ -132,4 +132,4 @@ Her lived experience includes cancer survivorship, faith transition, and raising
 
 ---
 
-**If you want a therapist who won’t be overwhelmed by your depth---you’re in the right place.**
+**If you want a therapist who won’t be overwhelmed by your depth---[you’re in the right place](/contact).**

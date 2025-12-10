@@ -8,7 +8,6 @@ permalink: /kap/
 <div class="hero-kap"></div>
 <span class="visually-hidden">A forest path illuminated by warm evening light, symbolizing inner exploration and emotional healing.</span>
 
----
 
 # Ketamine-Assisted Psychotherapy (KAP)
 
@@ -17,7 +16,7 @@ Ketamine can temporarily reduce emotional pain, loosen the brain's rigid protect
 
 I didn’t enter this field expecting to practice with psychedelics. What shifted my perspective were the profound, rapid changes I saw in clients’ well-being, along with the growing body of research supporting ketamine for treatment-resistant depression, persistent self-criticism, trauma, and meaning-related distress.
 
-KAP is an emerging field, and I take its ethical responsibilities seriously. I am completing training through [Polaris Insight Center](https://training.polarisinsight.com/) — widely regarded as one of the leading programs in ketamine-assisted psychotherapy — to ensure my work is grounded, thoughtful, and aligned with best practices as they continue to develop.
+KAP is an emerging field, and I take its ethical responsibilities seriously. I am completing training through [Polaris Insight Center](https://training.polarisinsight.com/)---widely regarded as one of the leading programs in ketamine-assisted psychotherapy---to ensure my work is grounded, thoughtful, and aligned with best practices as they continue to develop.
 
 ---
 
@@ -40,7 +39,7 @@ For many deep thinkers, this matters: insight is not the issue. Feeling the insi
 Clients often say things like:
 
 - “I didn’t know that experience was still shaping me.”
-- “Before I felt stuck. Now I can see that I have choices.”
+- “Before I felt stuck. Now I can feel that I have choices.”
 - “Suddenly I can feel compassion for myself.”
 - “This feels like sacred work.”
 
@@ -71,7 +70,7 @@ Medical ketamine (without therapy) is common locally. It can be helpful on its o
 
 Ketamine-assisted psychotherapy differs in a few key ways:
 
-- a therapist is with you during the experience — you’re not navigating this potentially intense state alone  
+- a therapist is with you during the experience---you’re not navigating this potentially intense state alone  
 - emotional material can be processed in real time  
 - difficult or disorienting moments can be grounded safely  
 - insights don’t fade as quickly because they are integrated afterward  

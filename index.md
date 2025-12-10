@@ -92,7 +92,7 @@ My approach blends clarity, depth, and emotional attunement. I draw from:
 
 - [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/) — for emotional blocks, trauma, and stuck images  
 
-- **Ketamine-Assisted Psychotherapy (KAP)** — for depression, existential distress, depth, and meaning-making
+- [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) — for depression, existential distress, depth, and meaning-making
 
 - A **neurodivergence-affirming lens**, honoring sensitivity, intensity, and complexity  
 
@@ -112,6 +112,6 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 ## If something here resonates . . .
 
 I see clients through **[Symmetry Counseling](https://symcounseling.com/sara-rands/)**.  
-You're welcome to reach out there, or contact me directly:
+You're welcome to reach out there, or [contact](/contact/) me directly:
 
 [**sara@sararands.com**](mailto:sara@sararands.com)

@@ -84,7 +84,7 @@ My primary modality is [**NARM (NeuroAffective Relational Model)**](https://narm
 
 I also use [**ART (Accelerated Resolution Therapy)**](https://acceleratedresolutiontherapy.com/what-is-art/) for survivors carrying specific medical trauma---frightening moments in the hospital, disturbing images, needle phobia, invasive procedures, or sensory imprints that remain long after treatment. ART is often surprisingly effective at easing the emotional charge around these memories without requiring you to retell them in detail.
 
-And I offer **Ketamine-Assisted Psychotherapy (KAP)** for survivors navigating existential distress, medical trauma, spiritual crisis, or identity shifts. KAP can open new pathways into meaning, connection, and emotional flexibility that are often inaccessible through talk therapy alone, especially when grief or fear feel frozen. 
+And I offer [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for survivors navigating existential distress, medical trauma, spiritual crisis, or identity shifts. KAP can open new pathways into meaning, connection, and emotional flexibility that are often inaccessible through talk therapy alone, especially when grief or fear feel frozen. 
 In cancer and serious illness, ketamine has been shown in early studies to rapidly reduce depression and anxiety, with emerging work exploring its role in existential distress and end-of-life suffering. 
 
 You don’t have to be brave here.  
@@ -109,4 +109,4 @@ I continue to advocate for better research, better tools, and better support for
 
 ---
 
-If you’re looking for a therapist who understands the emotional, sexual, medical, and existential realities of cancer---someone who can hold the hardest truths with you---you’re in the right place.
+If you’re looking for a therapist who understands the emotional, sexual, medical, and existential realities of cancer---someone who can hold the hardest truths with you---[you’re in the right place](/contact/).

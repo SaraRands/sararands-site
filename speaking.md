@@ -120,7 +120,7 @@ The world needed better technology to create more unique Utah-style names. I hee
 
 ## Inquiries
 
-If you’re interested in a conversation, interview, or community talk, feel free to reach out.  
+If you’re interested in a conversation, interview, or community talk, [feel free to reach out](/contact/).  
 I’m always open to projects that feel aligned.
 
 Email: [**sara@sararands.com**](mailto:sara@sararands.com)
