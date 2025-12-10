@@ -5,7 +5,7 @@ description: "Therapy for cancer survivors in Salt Lake City navigating fear, id
 
 ---
 
-<img src="/assets/images/cancer-hero.jpg" alt="Sunrise reflected on the ocean, symbolizing renewal, grief, and the quiet emotional aftermath of survival.">
+<div class="cancer-hero"></div>
 
 # Cancer changes everything---including who you are and who you are becoming.
 

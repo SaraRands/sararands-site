@@ -5,8 +5,7 @@ description: "A grounded, neuroscience-informed approach to ketamine-assisted ps
 permalink: /kap/
 ---
 
-<img src="/assets/images/hero-kap.jpg" alt="A winding path through wildflowers and open land, framed by trees and a fading mountain sky, suggesting trust, containment, and the beauty of the unknown.">
-
+<div class="hero-kap"></div>
 
 # Ketamine-Assisted Psychotherapy (KAP)
 

@@ -4,7 +4,7 @@ title: "Therapy for Deep Thinkers, Gifted Adults & Highly Sensitive People | Sar
 description: "Attachment-focused, neurodiversity-affirming therapy in Salt Lake City, Utah, for gifted adults, deep thinkers, and sensitive nervous systems. Specializing in NARM, ART, and Ketamine-Assisted Psychotherapy."
 ---
 
-<img src="/assets/images/hero-home.jpg" alt="A dirt road leading into a glowing mountain sunset, symbolizing personal transformation, uncertainty, and the beauty of not knowing.">
+<div class="hero-home"></div>
 
 # Therapy for People Who Think Deeply, Feel Fully, and Have Always Been A Little Different
 *Individual therapy for highly sensitive, gifted, intuitive, analytical, and thoughtful Utah adults navigating complexity, identity shifts, and profound inner change.*
