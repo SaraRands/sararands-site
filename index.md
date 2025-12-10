@@ -2,6 +2,7 @@
 layout: default
 title: "Therapy for Deep Thinkers, Gifted Adults & Highly Sensitive People | Sara Rands, ACMHC"
 description: "Attachment-focused, neurodiversity-affirming therapy in Salt Lake City, Utah, for gifted adults, deep thinkers, and sensitive nervous systems. Specializing in NARM, ART, and Ketamine-Assisted Psychotherapy."
+og_image: /assets/images/og-home.jpg
 ---
 
 <div class="hero-home"></div>

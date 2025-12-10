@@ -3,6 +3,7 @@ layout: default
 title: "Ketamine-Assisted Psychotherapy (KAP) | Sara Rands"
 description: "A grounded, neuroscience-informed approach to ketamine-assisted psychotherapy (KAP) for emotional healing, trauma work, and existential clarity in Salt Lake City, Utah."
 permalink: /kap/
+og_image: /assets/images/og-kap.jpg
 ---
 
 <div class="hero-kap"></div>
