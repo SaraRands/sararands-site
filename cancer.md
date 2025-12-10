@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Cancer Survivorship Support & Trauma-Informed Therapy | Salt Lake City, Utah | Sara Rands"
-description: "Therapy for cancer survivors navigating fear, identity changes, medical trauma, and post-treatment anxiety. Gentle, grounded support from a 20-year survivor. Ketamine-assisted psychotherapy and ART available."
+description: "Therapy for cancer survivors in Salt Lake City navigating fear, identity changes, medical trauma, and post-treatment anxiety. Gentle, grounded support from a 20-year survivor. Ketamine-assisted psychotherapy and ART available."
 
 ---
 

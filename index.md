@@ -7,7 +7,7 @@ description: "Attachment-focused, neurodiversity-affirming therapy in Salt Lake 
 <div class="hero-home"></div>
 
 # Therapy for People Who Think Deeply, Feel Fully, and Have Always Been A Little Different
-*Individual therapy for highly sensitive, gifted, intuitive, analytical, and thoughtful Utah adults  navigating complexity, identity shifts, and profound inner change.*
+*Individual therapy for highly sensitive, gifted, intuitive, analytical, and thoughtful Utah adults navigating complexity, identity shifts, and profound inner change.*
 
 ---
 
