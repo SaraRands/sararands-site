@@ -32,7 +32,7 @@ I eventually went back to school for computer science, launched into a six-year 
 Eventually, I reached a place where I could choose not just what I was capable of, but what felt deeply meaningful.  
 That led me to become a therapist.
 
-Along the way, I became a cancer survivor, raised neurodivergent children, navigated divorce and remarriage, braved the dating apps, blended a family, and rebuilt my life---in small and large ways---more than once.
+Along the way, I became a [cancer survivor](/cancer/), raised neurodivergent children, navigated divorce and remarriage, braved the dating apps, blended a family, and rebuilt my life---in small and large ways---more than once.
 
 All of this shapes how I sit with clients. **I know what it’s like to reorient yourself from the inside out.**  
 It helps me listen with nuance, hold complexity with care, and meet you where you are.
@@ -88,7 +88,7 @@ I provide individual therapy for adults (18+) who identify with any of the follo
 - grew up in families where emotions weren’t understood, welcomed, or handled well  
 - people who want deep connection but feel unsure how to access it  
 - navigating major identity shifts or meaning questions  
-- survivors of cancer or medical trauma
+- [survivors of cancer or medical trauma](/cancer/)
 - people who have felt misunderstood in therapy or in life  
 - people told to “stop overthinking” or that they are “too sensitive”
 
@@ -118,7 +118,7 @@ My role is to accompany you as you rediscover parts of yourself that may have go
 ## Professional Bio (for referrals & media)
 
 Sara Rands, ACMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, sensitive nervous systems, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality and is Master Certified in ART (Accelerated Resolution Therapy). She provides ketamine-assisted psychotherapy through Symmetry Counseling and integrates somatic, existential, and mindfulness-based approaches.  
-Her lived experience includes cancer survivorship, faith transition, and raising neurodivergent children.
+Her lived experience includes [cancer survivorship](/cancer/), faith transition, and raising neurodivergent children. Sara also offers [talks and workshops](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
 
 ---
 

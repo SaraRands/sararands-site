@@ -7,7 +7,7 @@ permalink: /blog/
 
 # Blog
 
-A bloggy blog where I think out loud about healing, identity, and the wonderfully complicated inner world.
+Welcome. This blog is where I put the things that don’t have a home elsewhere---reflections on therapy, attachment, meaning-making after religion, and the small human moments that keep me tethered. I write the way I think: in layers, with curiosity, and with permission not to have it all sorted out.
 
 ---
 

@@ -5,9 +5,9 @@ description: "Therapy for cancer survivors in Salt Lake City navigating fear, id
 
 ---
 
-<div class="cancer-hero"></div>
+<img src="/assets/images/cancer-hero.jpg" alt="Sunrise reflected on the ocean, symbolizing renewal, grief, and the quiet emotional aftermath of survival.">
 
-# Cancer changes everything---including who you become.
+# Cancer changes everything---including who you are and who you are becoming.
 
 Whether you’re newly diagnosed, years out from treatment, or somewhere quietly in the middle, cancer reshapes your relationship with your body, your future, your identity, and the people you love.
 
@@ -86,6 +86,8 @@ I also use [**ART (Accelerated Resolution Therapy)**](https://acceleratedresolut
 
 And I offer [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for survivors navigating existential distress, medical trauma, spiritual crisis, or identity shifts. KAP can open new pathways into meaning, connection, and emotional flexibility that are often inaccessible through talk therapy alone, especially when grief or fear feel frozen. 
 In cancer and serious illness, ketamine has been shown in early studies to rapidly reduce depression and anxiety, with emerging work exploring its role in existential distress and end-of-life suffering. 
+
+[Learn more about my approach](/about/) and training background.
 
 You don’t have to be brave here.  
 You don’t have to be inspiring.  
