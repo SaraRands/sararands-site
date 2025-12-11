@@ -7,7 +7,7 @@ og_image: /assets/images/og-cancer.jpg
 
 <div class="cancer-hero"></div>
 
-# Cancer changes everything---including who you are and who you are becoming.
+# Cancer changes everything---including who you are, and who you are becoming.
 
 Whether you’re newly diagnosed, years out from treatment, or somewhere quietly in the middle, cancer reshapes your relationship with your body, your future, your identity, and the people you love.
 

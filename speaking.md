@@ -64,7 +64,7 @@ Monks may look peaceful, but most of us live in families and relationships — a
 </div>
 
 Accelerated Resolution Therapy: What it is, how it works, and why it can be so effective.  
-[Listen on Spotify](https://open.spotify.com/episode/4XVjtAlt9rZ7aBlaS11m0p?si=diLayiwiR76Q_ZMn2S6H_Q)
+
 
 ---
 
@@ -76,8 +76,6 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </div>
 
-[Listen on Spotify](https://open.spotify.com/episode/5En6AJUrqPOJqZfkNmyp13?si=wL_LWHQkQgC0BlckcjdLHA)
-
 ---
 
 ### Online Dating & Dating Skills
@@ -88,8 +86,6 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </div>
 
-[Listen on Spotify](https://open.spotify.com/episode/6sRR601kiVzBLdSuNEDHd6?si=dlhHcMD3Tpe_XqXh4TIrWw)
-
 ---
 
 ### Faith Transitions and Existential Therapy
@@ -99,8 +95,6 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
     width="100%" height="152" frameborder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </div>
-
-[Listen on Spotify](https://open.spotify.com/episode/7FghSp1V7Xtx0RolBAOFCj?si=WAuVfNWHQ3-1tFveynMBRA)
 
 ---
 
