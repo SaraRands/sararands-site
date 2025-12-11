@@ -13,7 +13,7 @@ og_image: /assets/images/og-kap.jpg
 **Ketamine-assisted psychotherapy combines a low-dose ketamine experience with therapeutic support before, during, and after the session.**  
 Ketamine is a legal, FDA-approved medication; in KAP, it is used off-label in low doses to support emotional processing and neuroplasticity.  
 
-Ketamine briefly creates a non-ordinary state of consciousness. Research suggests this altered state can interrupt rigid emotional patterns and open access to deeper feeling, memory, and meaning —-- places that can be hard to reach through thinking alone.  
+Ketamine briefly creates a non-ordinary state of consciousness. Research suggests this altered state can interrupt rigid emotional patterns and open access to deeper feeling, memory, and meaning—places that can be hard to reach through thinking alone.  
 
 I didn’t enter this field expecting to work with psychedelics. What changed my perspective were the meaningful, often rapid shifts I saw in clients’ well-being, alongside a growing body of research supporting ketamine for treatment-resistant depression, persistent self-criticism, trauma, and meaning-related distress.
 
