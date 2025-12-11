@@ -115,6 +115,4 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 ## If something here resonates . . .
 
 I see clients through **[Symmetry Counseling](https://symcounseling.com/sara-rands/)**.  
-You're welcome to reach out there, or [contact](/contact/) me directly:
-
-[**sara@sararands.com**](mailto:sara@sararands.com)
+You're welcome to reach out there, or [contact](/contact/) me directly.
