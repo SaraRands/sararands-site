@@ -124,7 +124,7 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 
 <h2>Credentials</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
+<div class="credentials-flex" style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
 
   <ul style="list-style-type: disc; padding-left: 1.5rem; flex: 1; margin: 0;">
     <li><strong>ACMHC</strong>, Utah License #13896194-6009</li>
@@ -134,7 +134,7 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
     <li><strong>Bachelor of Arts</strong>, English, Brigham Young University</li>
   </ul>
 
-  <div style="flex: 0 0 auto; max-width: 150px;">
+  <div class="badge-pt" style="flex: 0 0 auto; max-width: 150px;">
     <a href="https://www.psychologytoday.com/profile/1299279" class="sx-verified-seal"></a>
     <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js"
             data-badge="13"

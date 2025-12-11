@@ -253,3 +253,14 @@ section {
     margin: 1rem auto;
   }
 }
+@media (max-width: 600px) {
+  .credentials-flex {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .badge-pt {
+    margin-top: 1rem;
+    margin-left: 0;
+  }
+}
