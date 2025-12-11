@@ -32,14 +32,14 @@ If this feels familiar, you're not alone.
 
 ## When the life you built no longer feels like yours
 
-People often come to me in moments when life stops making sense---when the story they’ve lived no longer matches the story unfolding.
+People often come to me in moments when life stops making sense—when the story they’ve lived no longer matches the story unfolding.
 
 Sometimes the shift is sudden:
 
 * a breakup or divorce you didn’t see coming  
 * career burnout that hits hard
 * a diagnosis that rearranges everything   
-* a loss that reshapes your world—--of a person, a relationship, or a version of life you counted on  
+* a loss that reshapes your world—of a person, a relationship, or a version of life you counted on  
 * a moment when you realize you can't keep going the way you have  
 
 Other times, the change is quieter:
@@ -78,7 +78,7 @@ You might recognize yourself in phrases like:
 - *“I'm comfortable in my mind, but the rest of me feels harder to access.”*  
 - *“I've never really known how to just be myself without editing.”*  
 
-And this includes fellow therapists—--people who spend so much of their lives supporting others that they need a place where they can finally be supported, seen, and held.
+And this includes fellow therapists—people who spend so much of their lives supporting others that they need a place where they can finally be supported, seen, and held.
 
 You don’t have to simplify yourself here.  
 Your depth is welcome.
@@ -89,11 +89,11 @@ Your depth is welcome.
 
 My approach blends clarity, depth, and emotional attunement. I draw from:
 
-- The [**NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/) — for identity, agency, connection, attachment, and longstanding patterns  
+- The [**NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/)—for identity, agency, connection, attachment, and longstanding patterns  
 
-- [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/) — for emotional blocks, trauma, and stuck images  
+- [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/)—for emotional blocks, trauma, and stuck images  
 
-- [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) — for depression, existential distress, depth, and meaning-making
+- [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/)—for depression, existential distress, depth, and meaning-making
 
 - A **neurodivergence-affirming lens**, honoring sensitivity, intensity, and complexity  
 

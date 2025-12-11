@@ -16,12 +16,12 @@ You can reach me directly at: [**sara@sararands.com**](mailto:sara@sararands.com
 I see clients through **Symmetry Counseling**.  
 To inquire about availability or request an appointment, please visit  
 **[symcounseling.com](https://symcounseling.com/sara-rands/)**,  
-or call **208-391-7804**.
+or [call **208-391-7804**](tel:2083917804).
 
 ## Office Location
-**Symmetry Counseling**  
+[**Symmetry Counseling**  
 2040 E Murray Holladay Road, Suite 120  
-Holladay, UT 84117  
+Holladay, UT 84117](https://maps.app.goo.gl/aHbpfabrRTTGetiX6)  
 
 ---
 

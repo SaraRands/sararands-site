@@ -93,7 +93,7 @@ You don’t have to be brave here.
 You don’t have to be inspiring.  
 You don’t have to hold anything together.
 
-You get to have a place where you can fall apart, question everything, talk honestly about sexuality and embodiment, process medical trauma, and rebuild slowly — with someone who isn’t afraid of what you carry.
+You get to have a place where you can fall apart, question everything, talk honestly about sexuality and embodiment, process medical trauma, and rebuild slowly—with someone who isn’t afraid of what you carry.
 
 ---
 

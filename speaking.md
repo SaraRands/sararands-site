@@ -47,7 +47,7 @@ A practical and compassionate framework for analytical “in-their-head” peopl
 ---
 
 ### My Beef with the Buddha: Reclaiming Attachment and Connection
-Monks may look peaceful, but most of us live in families and relationships — and research shows that humans regulate and heal through connection.
+Monks may look peaceful, but most of us live in families and relationships—and research shows that humans regulate and heal through connection.
 
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/22-jun-2025)
 

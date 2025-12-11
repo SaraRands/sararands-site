@@ -71,7 +71,7 @@ Medical ketamine (without therapy) is common locally. It can be helpful on its o
 
 Ketamine-assisted psychotherapy differs in a few key ways:
 
-- a therapist is with you during the experience---you’re not navigating this potentially intense state alone  
+- a therapist is with you during the experience—you’re not navigating this potentially intense state alone  
 - emotional material can be processed in real time  
 - difficult or disorienting moments can be grounded safely  
 - insights don’t fade as quickly because they are integrated afterward  
