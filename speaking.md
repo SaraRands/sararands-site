@@ -100,7 +100,7 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
 
 ## Writing & Advocacy
 
-[**Early-onset breast cancer: a survivor’s story — KevinMD**](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivor%E2%80%99s-story.html)  
+[**Early-onset breast cancer: a survivor’s story — KevinMD**](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)  
 My experience as a stage 3C breast cancer survivor diagnosed at 32, and why younger women deserve better early detection tools.  
 
 For more personal reflections, see my [blog](/blog/).
