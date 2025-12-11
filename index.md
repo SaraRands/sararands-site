@@ -89,11 +89,11 @@ Your depth is welcome.
 
 My approach blends clarity, depth, and emotional attunement. I draw from:
 
-- The [**NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/)—for identity, agency, connection, attachment, and longstanding patterns  
+- The [**NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/) — for identity, agency, connection, attachment, and longstanding patterns  
 
-- [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/)—for emotional blocks, trauma, and stuck images  
+- [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/) — for emotional blocks, trauma, and stuck images  
 
-- [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/)—for depression, existential distress, depth, and meaning-making
+- [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) — for depression, existential distress, depth, and meaning-making
 
 - A **neurodivergence-affirming lens**, honoring sensitivity, intensity, and complexity  
 
