@@ -122,22 +122,27 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 
 ---
 
-## Credentials
+<h2>Credentials</h2>
 
-- **ACMHC**, Utah License #13896194-6009  
-- Practicing under supervision of **Jenny Elledge, LMFT**  
-- **Master of Science in Clinical Mental Health Counseling**, Northwestern University  
-- **Bachelor of Science**, Computer Science, Utah Valley University  
-- **Bachelor of Arts**, English, Brigham Young University  
+<div style="overflow: hidden;">
 
-<!-- Psychology Today Verification Badge -->
-<div style="float: right; margin-left: 1rem; margin-top: 0.5rem; max-width: 150px;">
-  <a href="https://www.psychologytoday.com/profile/1299279" class="sx-verified-seal"></a>
-  <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js"
-          data-badge="13"
-          data-id="1299279"
-          data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xMy9wcm9maWxlLzEyOTkyNzk/Y2FsbGJhY2s9c3hjYWxsYmFjaw==">
-  </script>
+  <ul style="list-style-type: disc; padding-left: 1.5rem;">
+    <li><strong>ACMHC</strong>, Utah License #13896194-6009</li>
+    <li>Practicing under supervision of <strong>Jenny Elledge, LMFT</strong></li>
+    <li><strong>Master of Science in Clinical Mental Health Counseling</strong>, Northwestern University</li>
+    <li><strong>Bachelor of Science</strong>, Computer Science, Utah Valley University</li>
+    <li><strong>Bachelor of Arts</strong>, English, Brigham Young University</li>
+  </ul>
+
+  <div style="float: right; margin-left: 1rem; margin-top: 0.5rem; max-width: 150px;">
+    <a href="https://www.psychologytoday.com/profile/1299279" class="sx-verified-seal"></a>
+    <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js"
+            data-badge="13"
+            data-id="1299279"
+            data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xMy9wcm9maWxlLzEyOTkyNzk/Y2FsbGJhY2s9c3hjYWxsYmFjaw==">
+    </script>
+  </div>
+
 </div>
 ---
 
