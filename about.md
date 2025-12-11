@@ -130,6 +130,15 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 - **Bachelor of Science**, Computer Science, Utah Valley University  
 - **Bachelor of Arts**, English, Brigham Young University  
 
+<!-- Psychology Today Verification Badge -->
+<div style="float: right; margin-left: 1rem; margin-top: 0.5rem; max-width: 150px;">
+  <a href="https://www.psychologytoday.com/profile/1299279" class="sx-verified-seal"></a>
+  <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js"
+          data-badge="13"
+          data-id="1299279"
+          data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xMy9wcm9maWxlLzEyOTkyNzk/Y2FsbGJhY2s9c3hjYWxsYmFjaw==">
+  </script>
+</div>
 ---
 
 **If you want a therapist who won’t be overwhelmed by your depth---[you’re in the right place](/contact).**
