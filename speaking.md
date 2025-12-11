@@ -56,15 +56,14 @@ Monks may look peaceful, but most of us live in families and relationships — a
 ## Podcasts
 
 ### ART and Trauma Therapy
+
+Accelerated Resolution Therapy: What it is, how it works, and why it can be so effective.  
 <div class="audio-wrapper">
   <iframe style="border-radius:12px" 
     src="https://open.spotify.com/embed/episode/4XVjtAlt9rZ7aBlaS11m0p?utm_source=generator" 
     width="100%" height="152" frameborder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </div>
-
-Accelerated Resolution Therapy: What it is, how it works, and why it can be so effective.  
-
 
 ---
 

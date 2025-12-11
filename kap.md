@@ -10,7 +10,7 @@ og_image: /assets/images/og-kap.jpg
 
 # Ketamine-Assisted Psychotherapy (KAP)
 
-Ketamine-assisted psychotherapy combines a low-dose ketamine experience with therapeutic support before, during, and after the session. 
+Ketamine-assisted psychotherapy combines a low-dose ketamine experience with therapeutic support before, during, and after the session. Ketamine is a legal, FDA-approved medication; in KAP, it is used off-label in low doses to support emotional processing and neuroplasticity.  
 Ketamine can temporarily reduce emotional pain, loosen the brain's rigid protective patterns, and increase neuroplasticity. For some, this creates enough openness to engage with feelings, memories, or possibilities that were previously hard to reach through thought alone.
 
 I didn’t enter this field expecting to practice with psychedelics. What shifted my perspective were the profound, rapid changes I saw in clients’ well-being, along with the growing body of research supporting ketamine for treatment-resistant depression, persistent self-criticism, trauma, and meaning-related distress.
@@ -88,13 +88,16 @@ Before your first KAP session, we meet to discuss:
 - what emotional safety looks like  
 - logistics: fasting, nausea medication, and transportation  
 
+**How the medication works**  
+At Symmetry Counseling, clients use sublingual ketamine troches, prescribed by our medical provider after evaluation. Dosing is decided in collaboration with you and the prescriber. You pick up the prescription from a local pharmacy and bring the troches to each KAP session.
+
 Medical clearance is required before beginning.
 
 ---
 
 ## Safety Considerations
 
-Ketamine has a long-standing safety profile when administered appropriately, but it isn’t suitable for everyone. Symmetry Counseling's medical prescriber will determine if you are a good fit. Common contraindications include:
+Ketamine is a legal medication in the United States, FDA-approved as an anesthetic, and commonly used off-label in psychotherapy. Ketamine has a long-standing safety profile when administered appropriately, but it isn’t suitable for everyone. Symmetry Counseling's medical prescriber will determine if you are a good fit. Common contraindications include:
 
 - personal or family history of psychosis  
 - some forms of bipolar disorder  
@@ -102,6 +105,7 @@ Ketamine has a long-standing safety profile when administered appropriately, but
 
 Practical considerations:
 
+- Because ketamine can temporarily increase blood pressure, we take vitals before each session and send them to our medical provider for review  
 - ketamine disconnects you from your body; walking and moving is difficult during the active experience 
 - you need a ride home and cannot drive for the rest of the day  
 
