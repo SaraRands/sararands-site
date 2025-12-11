@@ -11,6 +11,8 @@ My talks explore how to live a meaningful, grounded, connected life, especially 
 
 This page gathers some of the places I’ve spoken and the conversations I’ve been part of.
 
+<div style="clear: both;"></div>
+
 ---
 
 ## Talks
