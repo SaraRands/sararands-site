@@ -10,10 +10,12 @@ og_image: /assets/images/og-kap.jpg
 
 # Ketamine-Assisted Psychotherapy (KAP)
 
-Ketamine-assisted psychotherapy combines a low-dose ketamine experience with therapeutic support before, during, and after the session. Ketamine is a legal, FDA-approved medication; in KAP, it is used off-label in low doses to support emotional processing and neuroplasticity.  
-Ketamine can temporarily reduce emotional pain, loosen the brain's rigid protective patterns, and increase neuroplasticity. For some, this creates enough openness to engage with feelings, memories, or possibilities that were previously hard to reach through thought alone.
+Ketamine-assisted psychotherapy combines a low-dose ketamine experience with therapeutic support before, during, and after the session.
+Ketamine is a legal, FDA-approved medication; in KAP, it is used off-label in low doses to support emotional processing and neuroplasticity.
 
-I didn’t enter this field expecting to practice with psychedelics. What shifted my perspective were the profound, rapid changes I saw in clients’ well-being, along with the growing body of research supporting ketamine for treatment-resistant depression, persistent self-criticism, trauma, and meaning-related distress.
+In this state, emotional pain often softens, rigid protective patterns loosen, and new neural flexibility opens up. For many people, this makes it easier to access feelings, memories, or possibilities that were previously out of reach through thought alone.
+
+I didn’t enter this field expecting to work with psychedelics. What changed my perspective were the meaningful, often rapid shifts I saw in clients’ well-being, alongside a growing body of research supporting ketamine for treatment-resistant depression, persistent self-criticism, trauma, and meaning-related distress.
 
 KAP is an emerging field, and I take its ethical responsibilities seriously. I am completing training through [Polaris Insight Center](https://training.polarisinsight.com/)---widely regarded as one of the leading programs in ketamine-assisted psychotherapy---to ensure my work is grounded, thoughtful, and aligned with best practices as they continue to develop.
 
@@ -89,7 +91,7 @@ Before your first KAP session, we meet to discuss:
 - logistics: fasting, nausea medication, and transportation  
 
 **How the medication works**  
-At Symmetry Counseling, clients use sublingual ketamine troches, prescribed by our medical provider after evaluation. Dosing is decided in collaboration with you and the prescriber. You pick up the prescription from a local pharmacy and bring the troches to each KAP session.
+At [Symmetry Counseling](https://symcounseling.com/ketamine-services/), clients use sublingual ketamine troches, prescribed by our medical provider after evaluation. Dosing is decided in collaboration with you and the prescriber. You pick up the prescription from a local pharmacy and bring the troches to each KAP session.
 
 Medical clearance is required before beginning.
 
@@ -97,7 +99,7 @@ Medical clearance is required before beginning.
 
 ## Safety Considerations
 
-Ketamine is a legal medication in the United States, FDA-approved as an anesthetic, and commonly used off-label in psychotherapy. Ketamine has a long-standing safety profile when administered appropriately, but it isn’t suitable for everyone. Symmetry Counseling's medical prescriber will determine if you are a good fit. Common contraindications include:
+Ketamine is a legal medication in the United States, FDA-approved as an anesthetic, and commonly used off-label in psychotherapy. Ketamine has a long-standing safety profile when administered appropriately, but it isn’t suitable for everyone. [Symmetry Counseling's medical prescriber](https://symcounseling.com/jake-bellenfant/) will determine if you are a good fit. Common contraindications include:
 
 - personal or family history of psychosis  
 - some forms of bipolar disorder  
