@@ -39,10 +39,10 @@ For many deep thinkers, this matters: insight is not the issue. Feeling the insi
 
 Clients often say things like:
 
-- “I didn’t know that experience was still shaping me.”
-- “Before I felt stuck. Now I can feel that I have choices.”
-- “Suddenly I can feel compassion for myself.”
-- “This feels like sacred work.”
+- *“I didn’t know that experience was still shaping me.”*
+- *“Before I felt stuck. Now I can feel that I have choices.”*
+- *“Suddenly I can feel compassion for myself.”*
+- *“This feels like sacred work.”*
 
 Not every session looks like this, but for many people, KAP creates a moment of clarity that becomes deeply meaningful.
 

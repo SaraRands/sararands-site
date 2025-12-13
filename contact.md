@@ -12,11 +12,22 @@ If you feel drawn to my work or think we might be a good fit, I’d love to hear
 ## Email
 You can reach me directly at: [**sara@sararands.com**](mailto:sara@sararands.com)
 
-## Schedule Through Symmetry Counseling  
-I see clients through **Symmetry Counseling**.  
-To inquire about availability or request an appointment, please visit  
-**[symcounseling.com](https://symcounseling.com/sara-rands/)**,  
-or [call **208-391-7804**](tel:2083917804).
+## Schedule through Symmetry Counseling  
+<div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem;">
+  <div style="flex: 1;">
+    <p style="margin: 0;">
+      I see clients through <strong>Symmetry Counseling</strong>.<br />
+      To inquire about availability or request an appointment, please visit<br />
+      <a href="https://symcounseling.com/sara-rands/" target="_blank"><strong>symcounseling.com</strong></a>,<br />
+      or <a href="tel:2083917804"><strong>call 208-391-7804</strong></a>.
+    </p>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <a href="https://symcounseling.com/sara-rands/" target="_blank">
+      <img src="/assets/images/SymmetryLogo.png" alt="Symmetry Counseling logo" style="max-height: 80px; width: auto;" />
+    </a>
+  </div>
+</div>
 
 ## Office Location
 **Symmetry Counseling**  
