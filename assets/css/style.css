@@ -139,6 +139,12 @@ section {
   color: #888;
 }
 
+.blog-post-footer {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #444;
+}
+
 .portrait-img {
   width: 260px;
   border-radius: 8px;
