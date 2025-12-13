@@ -160,22 +160,25 @@
     </main>
 
     <!-- Footer -->
-    <footer class="site-footer">
-      <p class="footer-name">
-        <strong>Sara Rands, ACMHC</strong> (she/her) • Utah License #13896194-6009
-      </p>
+    {% unless page.layout == "post" %}
+      <footer class="site-footer">
+        <p class="footer-name">
+          <strong>Sara Rands, ACMHC</strong> (she/her) • Utah License #13896194-6009
+        </p>
 
-      <p class="footer-credentials">
-      <em>Affirming of LGBTQIA+ clients and identities</em><br>
-        Practicing under supervision of <strong>Jenny Elledge, LMFT</strong><br>
-        Masters in Clinical Mental Health Counseling, Northwestern University<br>
-        <a href="https://symcounseling.com/sara-rands" target="_blank" rel="noopener noreferrer">Symmetry Counseling</a> • Salt Lake City (Holladay), UT
-      </p>
+        <p class="footer-credentials">
+        <em>Affirming of LGBTQIA+ clients and identities</em><br>
+          Practicing under supervision of <strong>Jenny Elledge, LMFT</strong><br>
+          Masters in Clinical Mental Health Counseling, Northwestern University<br>
+          <a href="https://symcounseling.com/sara-rands" target="_blank" rel="noopener noreferrer">Symmetry Counseling</a> • Salt Lake City (Holladay), UT
+        </p>
 
-      <p class="footer-copy">
-        © {{ site.time | date: '%Y' }} Sara Rands, ACMHC
-      </p>
-    </footer>
+        <p class="footer-copy">
+          © {{ site.time | date: '%Y' }} Sara Rands, ACMHC
+        </p>
+      </footer>
+    {% endunless %}
+
     <script>
       document.addEventListener("DOMContentLoaded", function() {
         const siteHost = window.location.host;
@@ -191,3 +194,6 @@
     </script>
   </body>
 </html>
+
+<p style="color:red;">Layout: {{ page.layout }}</p>
+<p style="color:red;">Path: {{ page.path }}</p>
