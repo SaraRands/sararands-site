@@ -103,6 +103,16 @@ section {
   letter-spacing: 0.3px;   /* Subtle polish */
 }
 
+.site-name a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-name a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 @media (max-width: 700px) {
   .site-header {
     flex-direction: column;
