@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <article class="post">
+
+    <header class="post-header">
+      <h1>{{ page.title }}</h1>
+      <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+    </header>
+
+    <section class="post-content">
+      {{ content }}
+      <hr />
+      <p class="blog-post-footer">
+        <em>
+          <a href="/">Sara Rands</a> is a <a href="/about/">therapist</a> and breast cancer survivor. She works with deep thinkers, sensitive and neurodivergent adults, and those navigating major life transitions. <br>
+          If something in this post landed for you, or sparked your own reflection, please <a href="/contact/">reach out</a>; I read every note.
+        </em>
+      </p>    
+    </section>
+
+  </article>
+
+</div>
+
+<style>
+.post-header {
+  margin-bottom: 2rem;
+}
+
+.post-date {
+  color: #777;
+  font-size: 0.9rem;
+  margin-top: -1rem;
+}
+
+.post-content p {
+  margin-bottom: 1.3rem;
+  line-height: 1.75;
+}
+</style>

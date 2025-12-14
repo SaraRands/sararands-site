@@ -1,0 +1,11 @@
+theme: jekyll-theme-primer
+
+title: Sara Rands, Therapist
+description: Therapy for deep thinkers, gifted adults, and highly sensitive people.
+
+markdown: kramdown
+permalink: /blog/:title/
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-sitemap
