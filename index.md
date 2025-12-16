@@ -71,7 +71,6 @@ You might recognize yourself in phrases like:
 
 - *“I've always felt different, not in a bad way, just . . . different.”*  
 - *“I don’t feel connected to peers the way other people seem to.”*  
-- *“Small talk exhausts me. I want depth.”*  
 - *“I’m good at many things, so choosing one feels impossible.”*  
 - *“People think I’m put-together, but inside I feel lost.”*  
 - *“My worth has always been tied to achievement.”*  
