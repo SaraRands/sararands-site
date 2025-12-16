@@ -129,7 +129,7 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
   <ul style="list-style-type: disc; padding-left: 1.5rem; flex: 1; margin: 0;">
     <li><strong>ACMHC</strong>, Utah License #13896194-6009</li>
     <li>Practicing under supervision of <strong>Jenny Elledge, LMFT</strong></li>
-    <li><strong>Master of Science in Clinical Mental Health Counseling</strong>, Northwestern University</li>
+    <li><strong>Master of Arts in Clinical Mental Health Counseling</strong>, Northwestern University</li>
     <li><strong>Bachelor of Science</strong>, Computer Science, Utah Valley University</li>
     <li><strong>Bachelor of Arts</strong>, English, Brigham Young University</li>
   </ul>
