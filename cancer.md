@@ -99,9 +99,11 @@ You get to have a place where you can fall apart, question everything, talk hone
 
 ## Advocacy & Writing
 
-My survivorship experience led me to write about the gaps in early detection for young women and the limitations in our current systems. You can read my recent op-ed on KevinMD:
+My survivorship experience led me to write about the gaps in early detection for young women and the limitations in our current systems. You can read my recent op-ed on KevinMD, and appearance on The Podcast with KevinMD:
 
-**[Early-onset breast cancer: A survivor’s story](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)**
+**[Early-onset breast cancer: A survivor’s story - KevinMD](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)**
+
+[**Early detection fails when screening guidelines ignore young women - The Podcast by KevinMD**](https://kevinmd.com/2025/12/early-detection-fails-when-screening-guidelines-ignore-young-women-podcast.html)
 
 You can also read a personal reflection on my 20-year survivorship milestone on my blog:
 

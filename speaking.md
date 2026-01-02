@@ -97,7 +97,22 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
 
 ---
 
-## Writing & Advocacy
+## Advocacy
+
+[**Early detection fails when screening guidelines ignore young women - The Podcast by KevinMD**](https://kevinmd.com/2025/12/early-detection-fails-when-screening-guidelines-ignore-young-women-podcast.html)
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=9WH3ZzlGti0" 
+    title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="audio-wrapper">
+  <iframe style="border-radius:12px" 
+    src="https://open.spotify.com/episode/1osPgcLzptzw5b1O6LmocP?si=f164a520f87a4479" 
+    width="100%" height="152" frameborder="0" allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</div>
+
+---
 
 [**Early-onset breast cancer: a survivor’s story — KevinMD**](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)  
 My experience as a stage 3C breast cancer survivor diagnosed at 32, and why younger women deserve better early detection tools.  

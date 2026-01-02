@@ -142,8 +142,16 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
             data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xMy9wcm9maWxlLzEyOTkyNzk/Y2FsbGJhY2s9c3hjYWxsYmFjaw==">
     </script>
   </div>
-
 </div>
+
+---
+
+## Certifications
+
+- **Master Certified** in [Accelerated Resolution Therapy (ART)](https://acceleratedresolutiontherapy.com)
+- **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com)
+- **In Progress**: Certification in psychedelic-assisted therapy through [Polaris Insight Center](https://training.polarisinsight.com/cohort)
+
 ---
 
 **If you want a therapist who won’t be overwhelmed by your depth---[you’re in the right place](/contact).**
