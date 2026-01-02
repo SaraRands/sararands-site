@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact Sara Rands, ACMHC | Therapy for Gifted Adults & Sensitive Minds in Salt Lake City, Utah"
-description: "Get in touch with therapist Sara Rands for attachment-focused, neurodiversity-affirming therapy in Salt Lake City. Practicing through Symmetry Counseling."
+description: "Get in touch with therapist Sara Rands for attachment-focused, neurodiversity-affirming therapy in Salt Lake City. Practicing through Symmetry Counseling. Now accepting new clients."
 ---
 
 # Contact
@@ -16,8 +16,8 @@ You can reach me directly at: [**sara@sararands.com**](mailto:sara@sararands.com
 <div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem;">
   <div style="flex: 1;">
     <p style="margin: 0;">
-      I see clients through <strong>Symmetry Counseling</strong>.<br />
-      To inquire about availability or request an appointment, please visit<br />
+      I am currently accepting new clients for both in-person and telehealth sessions through <strong>Symmetry Counseling</strong>.<br />
+      To inquire about availability, schedule, insurance, or rates, or to request an appointment, please visit<br />
       <a href="https://symcounseling.com/new-client-form/" target="_blank"><strong>symcounseling.com</strong></a>,<br />
       email Symmetry at <a href="mailto:info@symcounseling.com">info@symcounseling.com</a>,<br />
       or <a href="tel:2083917804"><strong>call 208-391-7804</strong></a>.

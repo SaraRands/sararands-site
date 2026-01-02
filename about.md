@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About Sara Rands, ACMHC | Attachment-Focused, Neurodiversity-Affirming Therapist in Salt Lake City, Utah"
-description: "Learn about Sara Rands, a therapist for gifted adults, deep thinkers, and highly sensitive people. Blending NARM, trauma-informed care, neurodiversity-affirming therapy, and existential exploration."
+description: "Learn about Sara Rands, a therapist for gifted adults, deep thinkers, and highly sensitive people. Now accepting new clients. Blending NARM, trauma-informed care, neurodiversity-affirming therapy, and existential exploration."
 ---
 
 # Hi, I’m Sara.
@@ -115,6 +115,12 @@ My role is to accompany you as you rediscover parts of yourself that may have go
 
 ---
 
+## Availability
+
+I am currently welcoming new adult clients for both in-person (in Holladay, Utah) and telehealth sessions (for Utah residents).  
+
+---
+
 ## Professional Bio
 
 Sara Rands, ACMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, sensitive nervous systems, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality and is Master Certified in ART (Accelerated Resolution Therapy). She provides ketamine-assisted psychotherapy through Symmetry Counseling and integrates somatic, existential, and mindfulness-based approaches.  
@@ -153,5 +159,6 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 - **In Progress**: Certification in ketamine-assisted therapy through [Polaris Insight Center](https://training.polarisinsight.com/cohort)
 
 ---
+
 
 **If you want a therapist who won’t be overwhelmed by your depth---[you’re in the right place](/contact).**
