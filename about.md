@@ -150,7 +150,7 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 
 - **Master Certified** in [Accelerated Resolution Therapy (ART)](https://acceleratedresolutiontherapy.com)
 - **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com)
-- **In Progress**: Certification in psychedelic-assisted therapy through [Polaris Insight Center](https://training.polarisinsight.com/cohort)
+- **In Progress**: Certification in ketamine-assisted therapy through [Polaris Insight Center](https://training.polarisinsight.com/cohort)
 
 ---
 
