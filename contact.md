@@ -17,8 +17,8 @@ You can reach me directly at: [**sara@sararands.com**](mailto:sara@sararands.com
   <div style="flex: 1;">
     <p style="margin: 0;">
       I am currently accepting new clients for both in-person and telehealth sessions through <strong>Symmetry Counseling</strong>.<br />
-      To inquire about availability, schedule, insurance, or rates, or to request an appointment, please visit<br />
-      <a href="https://symcounseling.com/new-client-form/" target="_blank"><strong>symcounseling.com</strong></a>,<br />
+      To learn more about availability, schedule, insurance, or rates, or to request an appointment, please visit<br />
+      <a href="https://symcounseling.com/sara-rands/" target="_blank"><strong>symcounseling.com</strong></a>,<br />
       email Symmetry at <a href="mailto:info@symcounseling.com">info@symcounseling.com</a>,<br />
       or <a href="tel:2083917804"><strong>call 208-391-7804</strong></a>.
     </p>
