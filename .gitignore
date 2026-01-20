@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Jekyll cache and build folders
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Optional: VS Code settings (if you use it)
+.vscode/
+
+# Optional: Node/npm-related files (if you ever use a theme builder)
+node_modules/
+package-lock.json
+
+# Ruby environment files (if using bundler)
+.bundle/
+Gemfile.lock
+
+# Logs and temp files
+*.log
+*.swp

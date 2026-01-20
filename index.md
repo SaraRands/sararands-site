@@ -113,6 +113,6 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 
 ## If something here resonates . . .
 
-I am currently accepting new clients through **[Symmetry Counseling](https://symcounseling.com/sara-rands/)**.
+I am **currently accepting new clients** through **[Symmetry Counseling](https://symcounseling.com/sara-rands/)**.
 I offer both **in-person sessions** (in Holladay, Utah) and **telehealth** for Utah residents.  
 You're welcome to reach out there, or [contact](/contact/) me directly.
