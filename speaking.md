@@ -17,6 +17,17 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 
 ## Talks
 
+### Upcoming talk:
+
+### The Mental Health Benefits of Agency: Why Believing You Have Choices Matters
+Whatever the “truth” about determinism, believing you have no meaningful choices leads to feeling stuck.
+- [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/15-feb-2026)
+February 15, 2026, 11 am
+Parter Theater Studio
+3601 S State Street, South Salt Lake
+
+---
+
 ### Navigating the Void: Faith Transitions Through an Existential Lens
 
 <div class="video-wrapper">
