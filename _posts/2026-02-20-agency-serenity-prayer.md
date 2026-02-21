@@ -33,7 +33,7 @@ That question alone reveals a lot.
 
 ## The Serenity Prayer as a Mental Health Tool
 
-There’s also a thinky, logical side of me - the side that survived a computer science degree at forty. 
+There’s also a thinky, logical side of me—the side that survived a computer science degree at forty. 
 
 So eventually I translated the Serenity Prayer into a flow chart. Because of course I did.
 
@@ -61,7 +61,7 @@ There are feelings here. Disappointment. Anger. Sometimes panic.
 
 But press onward bravely.
 
-If the answer is yes - then **act**.
+If the answer is yes—then **act**.
 
 Usually not dramatically. Not heroically. **Just one small step.**
 
@@ -127,7 +127,7 @@ I also want to say something important here.
 
 If you feel like you don’t have choices, that probably makes sense.
 
-There are real constraints in this world. Trauma can dramatically impact our felt sense of choices, sometimes long before we have language for what happened. Some people begin life with a much narrower slice of control than others. Privilege is real. Health problems, financial constraints, abusive systems - these are not solved by positive thinking.
+There are real constraints in this world. Trauma can dramatically impact our felt sense of choices, sometimes long before we have language for what happened. Some people begin life with a much narrower slice of control than others. Privilege is real. Health problems, financial constraints, abusive systems—these are not solved by positive thinking.
 
 Self-compassion is usually the first step.
 
