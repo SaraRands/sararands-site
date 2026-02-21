@@ -280,3 +280,20 @@ section {
     margin-left: 0;
   }
 }
+
+.blog-chart {
+  margin: 3rem 0;
+  text-align: center;
+}
+
+.blog-chart img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.image-caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.75rem;
+}

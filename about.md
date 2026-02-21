@@ -39,7 +39,7 @@ It helps me listen with nuance, hold complexity with care, and meet you where yo
 
 ---
 
-## How I Work
+## How I Work {#how-i-work}
 
 My primary modality is [**NARM (NeuroAffective Relational Model)**](https://narmtraining.com/what-is-narm/): a gentle, present-moment, attachment-focused approach that helps you reconnect with agency, clarity, and self-compassion.
 
