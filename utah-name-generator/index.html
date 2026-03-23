@@ -462,7 +462,8 @@
             name: r.name,
             sex,
           };
-          const weight = Number(r.w) || 1;
+          const rawWeight = Number(r.w) || 1;
+          const weight = Math.pow(rawWeight, 0.7);
           POOLS.any.items.push(rec);
           POOLS.any.w.push(weight);
           if (sex !== "any") {
