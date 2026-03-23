@@ -206,9 +206,6 @@
     <header>
       <h1>Utah Name Generator</h1>
       <p class="subtitle">New Names through Machine Learning</p>
-      <p class="intro">
-        Generate unique Utah-style baby names using a character-level machine learning model trained on Utah Social Security baby name data from 2000 to 2024.
-      </p>
     </header>
     <main>
       <section class="card">
@@ -465,11 +462,12 @@
             name: r.name,
             sex,
           };
+          const weight = Number(r.w) || 1;
           POOLS.any.items.push(rec);
-          POOLS.any.w.push(1);
+          POOLS.any.w.push(weight);
           if (sex !== "any") {
             POOLS[sex].items.push(rec);
-            POOLS[sex].w.push(1);
+            POOLS[sex].w.push(weight);
           }
         }
         ALIAS.any = makeAlias(POOLS.any.w);
