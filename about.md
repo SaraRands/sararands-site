@@ -27,7 +27,7 @@ I was also a devout, all-in Mormon, serving my local ward as organist for a deca
 
 Later, I transcribed college courses for Deaf students, a job I loved. One day I transcribed a web programming course and thought, *I bet I could do that.*  
 
-I eventually went back to school for computer science, launched into a six-year software engineering career, collaborating with smart, curious, deeply analytical people solving interesting problems. I built a [Utah Baby Name Generator](https://sararands.github.io/UtahNameLab/), a small side project for generating uniquely Utah-style names, because clearly, someone had to.
+I eventually went back to school for computer science, launched into a six-year software engineering career, collaborating with smart, curious, deeply analytical people solving interesting problems. I built a [Utah Baby Name Generator](https://sararands.com/utah-name-generator/), a small side project for generating uniquely Utah-style names, because clearly, someone had to.
 
 Eventually, I reached a place where I could choose not just what I was capable of, but what felt deeply meaningful.  
 That led me to become a therapist.

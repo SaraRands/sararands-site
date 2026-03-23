@@ -17,8 +17,6 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 
 ## Talks
 
-### Upcoming talk:
-
 ### The Mental Health Benefits of Agency: Why Believing You Have Choices Matters
 Whatever the “truth” about free will, believing you have no meaningful choices leads to feeling stuck.
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/15-feb-2026)
@@ -134,7 +132,7 @@ For more personal reflections, see my [blog](/blog/).
 
 ## Side Project
 
-[**Utah Name Lab**](https://sararands.github.io/UtahNameLab/)  
+[**Utah Name Lab**](https://sararands.com/utah-name-generator/)  
 The world needed better technology to create more unique Utah-style names. I heeded the call.   
 
 ---
