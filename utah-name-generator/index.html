@@ -165,7 +165,20 @@
       a:hover {
         text-decoration: underline;
       }
+      input[type="range"] {
+        width: 100%;
+        max-width: 160px;
+        accent-color: var(--accent2);
+      }
 
+      .slider-labels {
+        display: flex;
+        justify-content: space-between;
+        max-width: 160px;
+        font-size: 12px;
+        color: var(--muted);
+        margin-top: 4px;
+      }
       /* FAQ block */
       details.faq-block summary {
         font-size: 20px;
@@ -230,6 +243,21 @@
               step="1"
               value="1"
             />
+          </div>
+          <div>
+            <label for="utahdacity">Utahdacity</label>
+            <input
+              id="utahdacity"
+              type="range"
+              min="0"
+              max="1"
+              step="0.05"
+              value="0.6"
+            />
+            <div class="slider-labels">
+              <small>Mild</small>
+              <small>Wild</small>
+            </div>
           </div>
           <div style="align-self: end">
             <button id="go">Generate</button>
@@ -465,7 +493,9 @@
             sex,
           };
           const rawWeight = Number(r.w) || 1;
-          const weight = Math.pow(rawWeight, 0.4);
+          const utahdacity = parseFloat(elUtahdacity.value || "0.6");
+          const exponent = 1 - utahdacity;
+          const weight = Math.pow(rawWeight, exponent);
           POOLS.any.items.push(rec);
           POOLS.any.w.push(weight);
           if (sex !== "any") {
@@ -518,6 +548,8 @@
       const elList = document.getElementById("list");
       const elGender = document.getElementById("gender");
       const elCount = document.getElementById("count");
+      const elUtahdacity = document.getElementById("utahdacity");
+      let ALL_ROWS = [];
 
       function renderOne() {
         const g = elGender.value;
@@ -548,6 +580,9 @@
           elCount.value = 20;
         }
       });
+      elUtahdacity.addEventListener("input", () => {
+        indexData(ALL_ROWS);
+      });
       document.getElementById("year").textContent = new Date().getFullYear();
       const DEMO = {
         names: [
@@ -577,7 +612,8 @@
           },
         ],
       };
-      loadData();
+      ALL_ROWS = data.names || [];
+      indexData(ALL_ROWS);
     </script>
   </body>
 </html>
