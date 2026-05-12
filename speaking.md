@@ -142,7 +142,7 @@ For more personal reflections, see my [blog](/blog/).
 
 ## Side Project
 
-[**Utah Name Generator**](https://sararands.com/utah-name-generator/)  
+[**Utah Name Generator**](https://utahnames.sararands.com/)  
 The world needed better technology to create more unique Utah-style names. I heeded the call.   
 
 ---
