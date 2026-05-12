@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "About Sara Rands, ACMHC | Attachment-Focused, Neurodiversity-Affirming Therapist in Salt Lake City, Utah"
+title: "About Sara Rands, CMHC | Attachment-Focused, Neurodiversity-Affirming Therapist in Salt Lake City, Utah"
 description: "Learn about Sara Rands, a therapist for gifted adults, deep thinkers, and highly sensitive people. Blending NARM, trauma-informed care, neurodiversity-affirming therapy, and existential exploration."
 ---
 
 # Hi, I’m Sara.
 
-<img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Therapist Sara Rands, ACMHC" class="portrait-img">
+<img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Therapist Sara Rands, CMHC" class="portrait-img">
 
-I’m a therapist for people who think and feel deeply: the ones who’ve spent years trying to make sense of themselves in a world that prefers simpler stories. Many of my clients wonder whether they’re too sensitive, too intense, too analytical, too emotional, or somehow “not built like everyone else.”
+I’m a therapist for people with fast-moving minds and complex inner worlds: the ones who’ve spent years trying to make sense of themselves in a world that prefers simpler stories. Many of my clients wonder whether they’re too sensitive, too intense, too analytical, or somehow “not built like everyone else.”
 
 I don’t see those traits as flaws.  
 I see them as strengths that the world often misunderstands.
@@ -48,11 +48,10 @@ NARM is especially supportive for people who:
 - grew up feeling out of sync with their environment  
 - developed emotional independence early  
 - have complex or developmental trauma  
-- think deeply and feel deeply  
 - are analytical but disconnected from their body  
 - have done insight-based work but still feel stuck  
 
-I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](https://acceleratedresolutiontherapy.com/what-is-art/) for targeted trauma processing, and I provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for clients seeking embodied, existential, or accelerated healing.
+I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](https://acceleratedresolutiontherapy.com/what-is-art/), a modality that can help reduce the emotional charge around difficult experiences and create greater alignment between intellectual understanding and emotional experience. I also provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for clients seeking embodied, existential, or transformative work.
 
 And yeah, I read a lot. Too much, probably.  
 
@@ -83,7 +82,7 @@ Here’s what that looks like in practice:
 I provide individual therapy for adults (18+) who identify with any of the following:
 
 - gifted, bright, intense, or unusually analytical  
-- highly sensitive or emotionally perceptive  
+- [highly sensitive](https://hsperson.com/)
 - neurodivergent (diagnosed or self-suspected)  
 - grew up in families where emotions weren’t understood, welcomed, or handled well  
 - people who want deep connection but feel unsure how to access it  
@@ -92,7 +91,7 @@ I provide individual therapy for adults (18+) who identify with any of the follo
 - people who have felt misunderstood in therapy or in life  
 - people told to “stop overthinking” or that they are “too sensitive”
 
-Many of my clients have spent their lives feeling “too much” or “not enough” in all the wrong ways, and are relieved to finally be in a space where they don’t have to shrink or simplify themselves.
+Many of my clients have spent years adapting themselves to environments that didn’t fully understand how they think, feel, or move through the world, and feel relieved to finally be in a space where they don’t have to shrink, mask, or over-explain themselves.
 
 I also work with therapists who want a place to set down their role and be met simply as a person, not as the helper.
 
@@ -104,9 +103,9 @@ Clients often say they appreciate my:
 
 - calm, grounded presence  
 - ability to sit comfortably with complexity  
-- nonlinear, exploratory thinking style  
+- nonlinear, exploratory thinking and communication style  
 - attunement to emotional, intellectual, and somatic nuance  
-- respect for neurodivergent ways of experiencing the world  
+- profound respect for neurodivergent ways of experiencing the world  
 - gentle sense of humor and love of puns 
 - deep curiosity about who they are becoming  
 
@@ -117,7 +116,7 @@ My role is to accompany you as you rediscover parts of yourself that may have go
 
 ## Professional Bio
 
-Sara Rands, ACMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, sensitive nervous systems, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality and is Master Certified in ART (Accelerated Resolution Therapy). She provides ketamine-assisted psychotherapy through Symmetry Counseling and integrates somatic, existential, and mindfulness-based approaches.  
+Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, highly sensitive persons, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality and is Master Certified in ART (Accelerated Resolution Therapy). She collaborates with Symmetry Counseling in providing ketamine-assisted psychotherapy (KAP) and integrates somatic, existential, and mindfulness-based approaches.  
 Her lived experience includes [cancer survivorship](/cancer/), faith transition, and raising neurodivergent children. Sara also offers [talks and workshops](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
 
 ---
@@ -127,21 +126,12 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 <div class="credentials-flex" style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
 
   <ul style="list-style-type: disc; padding-left: 1.5rem; flex: 1; margin: 0;">
-    <li><strong>ACMHC</strong>, Utah License #13896194-6009</li>
-    <li>Practicing under supervision of <strong>Jenny Elledge, LMFT</strong></li>
+    <li><strong>CMHC</strong>, Utah License #13896194-6004</li>
     <li><strong>Master of Arts in Clinical Mental Health Counseling</strong>, Northwestern University</li>
     <li><strong>Bachelor of Science</strong>, Computer Science, Utah Valley University</li>
     <li><strong>Bachelor of Arts</strong>, English, Brigham Young University</li>
   </ul>
 
-  <div class="badge-pt" style="flex: 0 0 auto; max-width: 150px;">
-    <a href="https://www.psychologytoday.com/profile/1299279" class="sx-verified-seal"></a>
-    <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js"
-            data-badge="13"
-            data-id="1299279"
-            data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy8xMy9wcm9maWxlLzEyOTkyNzk/Y2FsbGJhY2s9c3hjYWxsYmFjaw==">
-    </script>
-  </div>
 </div>
 
 ---
@@ -149,10 +139,14 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 ## Certifications
 
 - **Master Certified** in [Accelerated Resolution Therapy (ART)](https://acceleratedresolutiontherapy.com)
-- **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com)
-- **In Progress**: Certification in ketamine-assisted therapy through [Polaris Insight Center](https://training.polarisinsight.com/cohort)
+- **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com); NARM Master’s Training in progress
+- **Completed the 2025–2026 [Polaris Insight Center Ketamine-Assisted Psychotherapy (KAP) Training Cohort](https://training.polarisinsight.com/cohort)**; advanced certification in progress
 
 ---
 
 
-**If you want a therapist who won’t be overwhelmed by your depth---[you’re in the right place](/contact).**
+## You don’t have to simplify yourself here.
+
+I am currently on sabbatical and not accepting therapy clients at this time.
+
+I plan to reopen in private practice in January 2027. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).

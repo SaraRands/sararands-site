@@ -7,9 +7,22 @@ description: "Talks and workshops on emotional growth, faith transitions, neurod
 # Speaking & Media
 <img src="{{ '/assets/images/speaking.jpg' | relative_url }}" alt="Sara speaking at Mormon Mental Health Association conference" class="speaking-img">
 
-My talks explore how to live a meaningful, grounded, connected life, especially after religion. I’m interested in what “best practices” look like for people who no longer have a built-in roadmap.
+My talks explore how people build meaningful, connected, psychologically flexible lives, especially after major shifts in identity, belief, health, or belonging. I’m especially interested in what helps thoughtful, complex people reconnect with agency, meaning, and emotional integration when the old roadmap no longer works.
 
 This page gathers some of the places I’ve spoken and the conversations I’ve been part of.
+
+## Topics I Speak About
+
+- faith transitions and identity reconstruction  
+- emotional integration for analytical and “in-their-head” people  
+- agency, psychological flexibility, and meaning-making  
+- neurodivergence, giftedness, and high sensitivity  
+- attachment, mindfulness, and relational healing  
+- existential resilience after major life disruption  
+- trauma, emotional stuckness, and nervous system healing  
+- cancer survivorship and medical trauma  
+- building a meaningful life without a prewritten script  
+- the intersection of psychology, spirituality, and culture  
 
 <div style="clear: both;"></div>
 
@@ -20,9 +33,6 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 ### The Mental Health Benefits of Agency: Why Believing You Have Choices Matters
 Whatever the “truth” about free will, believing you have no meaningful choices leads to feeling stuck.
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/15-feb-2026)
-February 15, 2026, 11 am
-Parter Theater Studio
-3601 S State Street, South Salt Lake
 
 ---
 
@@ -33,7 +43,7 @@ Parter Theater Studio
     title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The research about the faith transition experience and how existential therapy provides a helpful framework for people rebuilding a worldview.
+Research on the faith transition experience and how existential therapy provides a helpful framework for rebuilding meaning and worldview.
 
 - [**Mormon Mental Health Association Conference, 2024**](https://mormonmentalhealthassoc.org/product/2024-mmha-conference-friday-session-8-when-it-isnt-a-faith-crisis-duplicate-1/)  
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/21-apr-2024)
@@ -48,7 +58,7 @@ Neuroplasticity and the many do-it-yourself and therapeutic practices that help 
 ---
 
 ### Emotions for Overthinkers
-A practical and compassionate framework for analytical “in-their-head” people who want to understand and work with emotions.
+A practical and compassionate framework for thoughtful, analytical people who want to understand and work with emotions.
 
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/9-mar-2025)
 - **Utah Valley Oasis**
@@ -56,7 +66,7 @@ A practical and compassionate framework for analytical “in-their-head” peopl
 ---
 
 ### My Beef with the Buddha: Reclaiming Attachment and Connection
-If a spiritual path looks peaceful only because it excludes families, women, and caregiving, we should question that model.
+A reflection on mindfulness, attachment, caregiving, and what gets lost when equanimity is the highest spiritual ideal.
 
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/22-jun-2025)
 
@@ -132,7 +142,7 @@ For more personal reflections, see my [blog](/blog/).
 
 ## Side Project
 
-[**Utah Name Lab**](https://sararands.com/utah-name-generator/)  
+[**Utah Name Generator**](https://sararands.com/utah-name-generator/)  
 The world needed better technology to create more unique Utah-style names. I heeded the call.   
 
 ---

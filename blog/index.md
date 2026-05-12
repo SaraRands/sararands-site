@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Reflections on Meaning, Healing & Post-Religious Life | Sara Rands, ACMHC"
+title: "Reflections on Meaning, Healing & Post-Religious Life | Sara Rands, CMHC"
 description: "Essays on identity, grief, parenting, post-religious life, neurodivergence, and the quiet work of becoming. Written by Sara Rands, a Salt Lake City therapist and cancer survivor who works with deep thinkers and sensitive souls."
 permalink: /blog/
 ---

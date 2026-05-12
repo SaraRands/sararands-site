@@ -1,37 +1,40 @@
 ---
 layout: default
-title: "Contact Sara Rands, ACMHC | Therapy for Gifted Adults & Sensitive Minds in Salt Lake City, Utah"
-description: "Get in touch with therapist Sara Rands for attachment-focused, neurodiversity-affirming therapy in Salt Lake City. Practicing through Symmetry Counseling."
+title: "Contact Sara Rands, CMHC | Therapy, Speaking & Professional Inquiries"
+description: "Contact Sara Rands regarding future therapy availability, speaking engagements, workshops, podcasts, or professional collaboration."
 ---
 
 # Contact
 
-## Email
-You can reach me directly at: [**sara@sararands.com**](mailto:sara@sararands.com)
+## Therapy Availability
 
-## Schedule through Symmetry Counseling  
-<div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem;">
-  <div style="flex: 1;">
-    <p style="margin: 0;">
-      I see clients in-person and through telehealth at <strong>Symmetry Counseling</strong>.<br />
-      <a href="https://symcounseling.com/sara-rands/" target="_blank"><strong>symcounseling.com</strong></a>,<br />
-      email Symmetry at <a href="mailto:info@symcounseling.com">info@symcounseling.com</a>,<br />
-      or <a href="tel:2083917804"><strong>call 208-391-7804</strong></a>.
-    </p>
-  </div>
-  <div style="flex: 0 0 auto;">
-    <a href="https://symcounseling.com/sara-rands/" target="_blank">
-      <img src="/assets/images/SymmetryLogo.png" alt="Symmetry Counseling logo" style="max-height: 80px; width: auto;" />
-    </a>
-  </div>
-</div>
+I am currently on sabbatical and not accepting ongoing therapy clients at this time.
 
-## Office Location
-**Symmetry Counseling**  
-[2040 E Murray Holladay Road, Suite 120  
-Holladay, UT 84117](https://maps.app.goo.gl/aHbpfabrRTTGetiX6)  
-(West side of the building)
+I plan to reopen in private practice in January 2027.
+
+If you’d like to be notified when scheduling becomes available, you’re welcome to join the contact list here:
+
+[Join the Contact List](https://forms.gle/LYfkRtGKZ2CkXWqD6)
 
 ---
 
-*Email is not for urgent concerns. If you are in crisis, please contact local emergency services or the Utah Crisis Line at 988.*
+## Ketamine-Assisted Psychotherapy (KAP)
+
+I anticipate continuing to collaborate with **Symmetry Counseling** in providing ketamine-assisted psychotherapy (KAP). More information about this will be available in the future.
+
+---
+
+## Speaking, Workshops & Media
+
+I’m also available for:
+- podcasts and interviews
+- conference presentations
+- workshops and community talks
+- professional consultation and collaboration
+
+For speaking or media inquiries, feel free to reach out directly at:
+[**sara@sararands.com**](mailto:sara@sararands.com)
+
+---
+
+*Email is not appropriate for urgent or crisis concerns. If you are in crisis, contact local emergency services or call/text 988.*

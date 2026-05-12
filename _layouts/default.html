@@ -15,19 +15,19 @@
       {% endif %}
     </title>
 
-    {% assign default_description = "Therapy for gifted adults, deep thinkers, neurodivergent and highly sensitive people. NARM, ART, and ketamine-assisted psychotherapy. Serving Utah through Symmetry Counseling." %}
+    {% assign default_description = "Therapy for gifted adults, deep thinkers, neurodivergent and highly sensitive people. NARM, ART, and ketamine-assisted psychotherapy. Serving Utah." %}
 
     <meta name="description" content="
       {% if page.excerpt %}
         {{ page.excerpt | strip_html | truncate: 155 }}
       {% elsif page.title == 'About' %}
-        Learn about therapist Sara Rands, ACMHC—specializing in gifted adults, deep thinkers, and highly sensitive people using NARM, ART, and KAP.
+        Learn about therapist Sara Rands, CMHC—specializing in gifted adults, deep thinkers, and highly sensitive people using NARM, ART, and KAP.
       {% elsif page.title == 'Cancer Survivorship' %}
         Support for cancer survivors navigating fear, identity shifts, and emotional recovery. NARM, ART for medical trauma, and ketamine-assisted psychotherapy.
       {% elsif page.title == 'Speaking' %}
         Talks on faith transitions, existential resilience, gifted identity, and surviving young-onset cancer.
       {% elsif page.title == 'Contact' %}
-        Contact therapist Sara Rands, ACMHC, at Symmetry Counseling in Utah.
+        Contact therapist Sara Rands, CMHC.
       {% else %}
         {{ default_description }}
       {% endif %}
@@ -119,7 +119,7 @@
       </nav>
 
       <div class="nav-right site-name">
-        <span><a href="/">Sara Rands, ACMHC</a></span>
+        <span><a href="/">Sara Rands, CMHC</a></span>
       </div>
     </header>
 
@@ -133,18 +133,17 @@
     {% unless page.layout == "post" %}
       <footer class="site-footer">
         <p class="footer-name">
-          <strong>Sara Rands, ACMHC</strong> (she/her) • Utah License #13896194-6009
+          <strong>Sara Rands, CMHC</strong> (she/her) • Utah License #13896194-6004
         </p>
 
         <p class="footer-credentials">
-        <em>Affirming of LGBTQIA+🌈 clients and identities</em><br>
-          Practicing under supervision of <strong>Jenny Elledge, LMFT</strong><br>
-          Masters in Clinical Mental Health Counseling, Northwestern University<br>
-          <a href="https://symcounseling.com/sara-rands" target="_blank" rel="noopener noreferrer">Symmetry Counseling</a> • Salt Lake City (Holladay), UT
+        <em>LGBTQIA+ affirming 🌈</em><br>
+          Master’s in Clinical Mental Health Counseling, Northwestern University<br>
+          Salt Lake City, UT
         </p>
 
         <p class="footer-copy">
-          © {{ site.time | date: '%Y' }} Sara Rands, ACMHC
+          © {{ site.time | date: '%Y' }} Sara Rands, CMHC
         </p>
       </footer>
     {% endunless %}

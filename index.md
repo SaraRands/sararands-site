@@ -1,30 +1,31 @@
 ---
 layout: default
-title: "Therapy for Deep Thinkers, Gifted Adults & Highly Sensitive People | Sara Rands, ACMHC"
-description: "Attachment-focused, neurodiversity-affirming therapy in Salt Lake City, Utah, for gifted adults, deep thinkers, and sensitive nervous systems. Specializing in NARM, ART, and Ketamine-Assisted Psychotherapy."
+title: "Therapy for Deep Thinkers, Gifted Adults & Highly Sensitive People | Sara Rands, CMHC"
+description: "Attachment-focused, neurodiversity-affirming therapy for thoughtful, gifted, highly sensitive, and neurodivergent adults navigating identity, transition, complexity, and meaning. Specializing in NARM, ART, and Ketamine-Assisted Psychotherapy."
 og_image: /assets/images/og-home.jpg
 ---
 
 <div class="hero-home"></div>
 
-# Therapy for People Who Think Deeply, Feel Intensely, and Have Struggled to Feel Understood
+# Therapy for People Who Think Deeply, Experience Life Differently, and Have Struggled to Feel Understood
 *Individual therapy for highly sensitive and gifted adults when the life you built no longer works*
 
 ---
 
 ## Many of the people I work with have always lived with a rich, intense inner world.
 
-Some feel everything deeply: attuned to nuance, emotional currents, relational shifts, the unsaid things other people miss. 
+Some experience the world with unusual depth and sensitivity, noticing emotional and relational patterns that others often overlook.
 
 Others grew up in their minds---reading early, thinking quickly, analyzing instinctively---often because it was the safest place to live.
 
-And many hold both truths at once:  
-**a mind that moves fast and a heart that feels deeply.**
+And many carry both  
+**a fast-moving mind and a complex inner world.**
 
-Along the way, you may have learned to shrink or mute parts of yourself---your curiosity, sensitivity, or intensity---because it made life easier for others.  
-But it never quite fit.
+Along the way, you may have learned to rely on competence, self-awareness, achievement, or self-control while keeping other parts of yourself carefully managed.
 
-You may have heard you’re “too sensitive,” or you may have been praised for being “so mature,” “so smart,” or “so responsible,” while quietly learning to hide the parts of you that felt too much or too different.
+You may have been described as “mature,” “gifted,” “intense,” or “too sensitive,” while quietly feeling different from the people around you in ways that were difficult to explain.
+
+Even when outwardly capable, many people I work with carry a persistent sense of disconnection—from themselves, from other people, or from a life that no longer feels fully their own.
 
 If this feels familiar, you're not alone.
 
@@ -61,7 +62,7 @@ You don’t have to navigate it alone.
 The people I work with often describe themselves as:
 
 - gifted or high-ability adults  
-- highly sensitive, perceptive, intuitive humans  
+- highly sensitive persons ([HSPs](https://hsperson.com/)) 
 - former “gifted kids” who learned to make themselves smaller  
 - analytical thinkers told they’re “too in their head”  
 - people who often feel like outsiders, even among their own  
@@ -90,7 +91,7 @@ My approach blends clarity, depth, and emotional attunement. I draw from:
 
 - The [**NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/) — for identity, agency, connection, attachment, and longstanding patterns  
 
-- [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/) — for emotional blocks, trauma, and stuck images  
+- [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/) — for trauma, emotional stuckness, and bridging the gap between what you understand intellectually and what your nervous system still carries 
 
 - [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) — for depression, existential distress, depth, and meaning-making
 
@@ -111,8 +112,8 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 
 ---
 
-## If something here resonates . . .
+## A note about availability
 
-I see clients through **[Symmetry Counseling](https://symcounseling.com/sara-rands/)**.
-I offer both **in-person sessions** (in Holladay, Utah) and **telehealth** for Utah residents.  
-You're welcome to reach out there, or [contact](/contact/) me directly.
+I am currently on sabbatical and not accepting therapy clients at this time.
+
+I plan to reopen in private practice in January 2027. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).

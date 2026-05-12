@@ -17,7 +17,7 @@ Ketamine briefly creates a non-ordinary state of consciousness. Research suggest
 
 I didn’t enter this field expecting to work with psychedelics. What changed my perspective were the meaningful, often rapid shifts I saw in clients’ well-being, alongside a growing body of research supporting ketamine for treatment-resistant depression, persistent self-criticism, trauma, and meaning-related distress.
 
-KAP is an emerging field, and I take its ethical responsibilities seriously. I am completing training through [Polaris Insight Center](https://training.polarisinsight.com/)---widely regarded as one of the leading programs in ketamine-assisted psychotherapy---to ensure my work is grounded, thoughtful, and aligned with best practices as they continue to develop.
+KAP is an emerging field, and I take its ethical responsibilities seriously. I completed the 2025–2026 Polaris Insight Center Ketamine-Assisted Psychotherapy (KAP) Training Cohort—widely regarded as one of the leading programs in the field—and continue to pursue advanced certification and consultation as my work develops.
 
 ---
 
@@ -50,7 +50,7 @@ Not every session looks like this, but for many people, KAP creates a moment of 
 
 ## What Sessions Are Like
 
-Sessions take place in a quiet, cozy dedicated room at [Symmetry Counseling](https://symcounseling.com/ketamine-services/) with dim lighting and northern lights projections. I stay in the room the entire time.
+Sessions take place in a quiet, dedicated room at [Symmetry Counseling](https://symcounseling.com/ketamine-services/) with dim lighting and northern lights projections. I stay in the room the entire time.
 
 Clients vary in how they use the space:
 
@@ -108,7 +108,7 @@ Ketamine is a legal medication in the United States, FDA-approved as an anesthet
 Practical considerations:
 
 - Because ketamine can temporarily increase blood pressure, we take vitals before each session and send them to our medical provider for review  
-- ketamine disconnects you from your body; walking and moving is difficult during the active experience 
+- ketamine can temporarily alter body awareness and coordination, making walking or moving difficult during the active experience
 - you need a ride home and cannot drive for the rest of the day  
 
 Emotionally, I stay present the entire time, don’t push content, and support grounding when experiences become intense or unclear.
@@ -145,7 +145,10 @@ I do not provide or recommend non-medical substances, but integration work itsel
 
 ---
 
-## If You’re Curious
+## A Note About Availability
 
-Learn more [about me](/about/) or reach out.
-You can reach me through the [Contact page](/contact/).
+I am currently on sabbatical and not accepting therapy clients at this time.
+
+I anticipate continuing to collaborate with Symmetry Counseling in providing ketamine-assisted psychotherapy (KAP) when I reopen in private practice in January 2027.
+
+If you'd like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).
