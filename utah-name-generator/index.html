@@ -474,7 +474,8 @@
         } catch {
           data = DEMO;
         }
-        indexData(data.names || []);
+        ALL_ROWS = data.names || [];
+        indexData(ALL_ROWS);
       }
 
       function indexData(rows) {
@@ -612,8 +613,7 @@
           },
         ],
       };
-      ALL_ROWS = data.names || [];
-      indexData(ALL_ROWS);
+      loadData();
     </script>
   </body>
 </html>
