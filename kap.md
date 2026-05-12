@@ -17,7 +17,7 @@ Ketamine briefly creates a non-ordinary state of consciousness. Research suggest
 
 I didn’t enter this field expecting to work with psychedelics. What changed my perspective were the meaningful, often rapid shifts I saw in clients’ well-being, alongside a growing body of research supporting ketamine for treatment-resistant depression, persistent self-criticism, trauma, and meaning-related distress.
 
-KAP is an emerging field, and I take its ethical responsibilities seriously. I completed the 2025–2026 Polaris Insight Center Ketamine-Assisted Psychotherapy (KAP) Training Cohort—widely regarded as one of the leading programs in the field—and continue to pursue advanced certification and consultation as my work develops.
+KAP is an emerging field, and I take its ethical responsibilities seriously. I completed the [2025–2026 Polaris Insight Center Ketamine-Assisted Psychotherapy (KAP) Training Cohort](https://training.polarisinsight.com/cohort)—widely regarded as one of the leading programs in the field—and continue to pursue advanced certification and consultation as my work develops.
 
 ---
 
@@ -91,7 +91,7 @@ Before your first KAP session, we meet to discuss:
 - logistics: fasting, nausea medication, and transportation  
 
 **How the medication works**  
-At [Symmetry Counseling](https://symcounseling.com/ketamine-services/), clients use sublingual ketamine troches, prescribed by our medical provider after evaluation. Dosing is decided in collaboration with you and the prescriber. You pick up the prescription from a local pharmacy and bring the troches to each KAP session.
+At [Symmetry Counseling](https://symcounseling.com/ketamine-services/), clients use sublingual ketamine troches, prescribed by their medical provider after evaluation. Dosing is decided in collaboration with you and the prescriber. You pick up the prescription from a local pharmacy and bring the troches to each KAP session.
 
 Medical clearance is required before beginning.
 

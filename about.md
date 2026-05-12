@@ -126,7 +126,7 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 <div class="credentials-flex" style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
 
   <ul style="list-style-type: disc; padding-left: 1.5rem; flex: 1; margin: 0;">
-    <li><strong>CMHC</strong>, Utah License #13896194-6004</li>
+    <li><strong>Clinical Mental Health Counselor (CMHC)</strong>, Utah License #13896194-6004</li>
     <li><strong>Master of Arts in Clinical Mental Health Counseling</strong>, Northwestern University</li>
     <li><strong>Bachelor of Science</strong>, Computer Science, Utah Valley University</li>
     <li><strong>Bachelor of Arts</strong>, English, Brigham Young University</li>

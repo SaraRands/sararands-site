@@ -18,8 +18,7 @@ Some experience the world with unusual depth and sensitivity, noticing emotional
 
 Others grew up in their minds---reading early, thinking quickly, analyzing instinctively---often because it was the safest place to live.
 
-And many carry both  
-**a fast-moving mind and a complex inner world.**
+And many carry both **a fast-moving mind and a complex inner world.**
 
 Along the way, you may have learned to rely on competence, self-awareness, achievement, or self-control while keeping other parts of yourself carefully managed.
 
@@ -101,6 +100,8 @@ My approach blends clarity, depth, and emotional attunement. I draw from:
 
 Clients often describe therapy with me as steady, grounding, and spacious,  
 a place where nothing has to be forced, rushed, or minimized.
+
+You can read more about my background, training, and therapeutic approach [on the About page](/about/).
 
 Alongside my clinical work, I speak about living a connected, meaningful life without a prewritten script, especially after religion. [See where I've spoken.](/speaking/)
 

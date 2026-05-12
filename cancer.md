@@ -113,7 +113,9 @@ I continue to advocate for better research, better tools, and better support for
 
 ---
 
-## You don’t have to carry this alone.
+## Cancer changes you. You don’t have to pretend otherwise.
+
+The emotional realities of survivorship are often far more complex than the world expects them to be.  
 
 I am currently on sabbatical and not accepting therapy clients at this time.
 
