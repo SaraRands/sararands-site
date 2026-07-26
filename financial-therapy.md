@@ -58,7 +58,7 @@ You may already have room to take a sabbatical, reduce your hours, return to sch
 
 Perhaps early retirement is exactly what you want. It may create space for relationships, travel, creativity, health, community, leisure, or meaningful unpaid work.
 
-Or perhaps you might enjoy your job once you know staying is a choice. Maybe want a different career rather than no career. You may want a life that moves between work, rest, family, and other forms of contribution.
+Or perhaps you might enjoy your job once you know staying is a choice. Maybe you want a different career rather than no career. You may want a life that moves between work, rest, family, and other forms of contribution.
 
 The question may not be only:
 
@@ -112,7 +112,7 @@ Financial therapy offers room to explore them without requiring a perfect answer
 
 ## Money and trauma
 
-Money can carry the emotional weight earlier experiences.
+Money can carry the emotional weight of earlier experiences.
 
 You may have lived through poverty, instability, illness, divorce, betrayal, religious pressure, family conflict, job loss, or times when survival depended on being exceptionally responsible.
 
