@@ -37,9 +37,10 @@ People often come to me in moments when life stops making sense—when the story
 Sometimes the shift is sudden:
 
 * a breakup or divorce you didn’t see coming  
-* career burnout that hits hard
+* career burnout, a layoff, or an industry shift that makes the old plan feel impossible
 * a diagnosis that rearranges everything   
 * a loss that reshapes your world—of a person, a relationship, or a version of life you counted on  
+* reaching a long-worked-for milestone and realizing you don't know what comes next
 * a moment when you realize you can't keep going the way you have  
 
 Other times, the change is quieter:
@@ -47,8 +48,10 @@ Other times, the change is quieter:
 - *Everything I built is falling apart. My life no longer fits.*  
 - *I'm questioning beliefs I never thought I'd question.*  
 - *I've spent my life being what others needed. Now I don’t know who I am.*  
+- *I worked hard to create options. Now I feel overwhelmed by them.*
 - *It feels like falling down a rabbit hole. I don't know which way is up.*  
 - *I feel like I'm unraveling.*  
+- *I worked so hard to get here. Now I keep asking myself: is that all there is?*
 
 Some describe it as hiking in earthquake country; the ground itself is shifting under your feet.
 
@@ -64,6 +67,7 @@ The people I work with often describe themselves as:
 - highly sensitive persons ([HSPs](https://hsperson.com/)) 
 - former “gifted kids” who learned to make themselves smaller  
 - analytical thinkers told they’re “too in their head”  
+- people who question conventional scripts around work, money, and the shape of a meaningful life
 - people who often feel like outsiders, even among their own  
 - individuals living in the in-between: no longer who they were, not yet who they’re becoming  
 
@@ -98,12 +102,20 @@ My approach blends clarity, depth, and emotional attunement. I draw from:
 
 - My background in **English and computer science**, integrating story and system, metaphor and logic  
 
+For some clients, this work also includes [**financial therapy**](/financial-therapy/): exploring the emotional and existential questions that can arise around money, work, security, career change, financial independence, and having more options than clarity. This is not financial planning or investment advice; it is room to consider what the numbers cannot decide for you.
+
 Clients often describe therapy with me as steady, grounding, and spacious,  
 a place where nothing has to be forced, rushed, or minimized.
 
 You can read more about my background, training, and therapeutic approach [on the About page](/about/).
 
 Alongside my clinical work, I speak about living a connected, meaningful life without a prewritten script, especially after religion. [See where I've spoken.](/speaking/)
+
+---
+
+## [Financial Therapy](/financial-therapy/)
+
+A place for thoughtful, financially capable adults to talk honestly about career change, burnout, layoffs, financial independence, and what comes next when money has created real options—but not necessarily clarity.
 
 ---
 

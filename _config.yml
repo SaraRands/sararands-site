@@ -1,7 +1,10 @@
 theme: jekyll-theme-primer
 
-title: Sara Rands, Therapist
-description: Therapy for deep thinkers, gifted adults, and highly sensitive people.
+title: Sara Rands, CMHC
+description: Therapy for deep thinkers, gifted adults, highly sensitive people, and neurodivergent adults
+url: "https://www.sararands.com"
+baseurl: ""
+timezone: America/Denver
 
 markdown: kramdown
 permalink: /blog/:title/

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About Sara Rands, CMHC | Attachment-Focused, Neurodiversity-Affirming Therapist in Salt Lake City, Utah"
-description: "Learn about Sara Rands, a therapist for gifted adults, deep thinkers, and highly sensitive people. Blending NARM, trauma-informed care, neurodiversity-affirming therapy, and existential exploration."
+description: "Learn about Sara Rands, a therapist for gifted adults, deep thinkers, and highly sensitive people. Blending NARM, trauma-informed care, neurodiversity-affirming therapy, existential exploration, and financial therapy."
 ---
 
 # Hi, I’m Sara.
@@ -21,13 +21,13 @@ My work is about creating a space where you don’t have to translate yourself: 
 
 Before I was a therapist, I lived many lives.
 
-I began as an English major who also studied German, psychology, music, education, philosophy, and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home birth but biology interfered (hi there, birth trauma!). I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette.*
+I began as an English major who also studied German, psychology, music, education, philosophy, and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home birth but biology interfered (hi there, birth trauma!). I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette* and *Your Money or Your Life*, and for years I took pride in making a very small income work—until I realized frugality could only take us so far in creating the life I wanted for my children.
 
 I was also a devout, all-in Mormon, serving my local ward as organist for a decade and building life around my sense of God's will. My faith transition was a years-long, complex process that disrupted meaning, identity, and relationships, and ultimately required rebuilding life from the ground up.
 
 Later, I transcribed college courses for Deaf students, a job I loved. One day I transcribed a web programming course and thought, *I bet I could do that.*  
 
-I eventually went back to school for computer science, launched into a six-year software engineering career, collaborating with smart, curious, deeply analytical people solving interesting problems. I built a [Utah Baby Name Generator](https://utahnames.sararands.com/), a small side project for generating uniquely Utah-style names, because clearly, someone had to.
+I eventually went back to school for computer science, launched a six-year career in software engineering, collaborating with smart, curious, deeply analytical people solving interesting problems. I built a [Utah Baby Name Generator](https://utahnames.sararands.com/), a small side project for generating uniquely Utah-style names, because clearly, someone had to. During those years, I immersed myself in the financial independence community, especially its questions about enough, freedom, and what money is for. 
 
 Eventually, I reached a place where I could choose not just what I was capable of, but what felt deeply meaningful.  
 That led me to become a therapist.
@@ -56,6 +56,8 @@ I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](https:/
 And yeah, I read a lot. Too much, probably.  
 
 I love weaving ideas from books, research, and podcasts into therapy when it supports your process. Many of my clients think in frameworks or metaphors, and having shared intellectual language can open new pathways into emotion, agency, and meaning.
+
+That same combination of systems thinking and existential curiosity shapes my work in [**financial therapy**](/financial-therapy/). A healthy balance sheet can create options, but it cannot answer the bigger questions: What is enough? What is money for? What kind of life do you want?
 
 My approach isn’t about forcing a method onto you.  
 It’s about helping you reconnect with the parts of yourself that already know the way forward.
@@ -87,6 +89,7 @@ I provide individual therapy for adults (18+) who identify with any of the follo
 - grew up in families where emotions weren’t understood, welcomed, or handled well  
 - people who want deep connection but feel unsure how to access it  
 - navigating major identity shifts or meaning questions  
+- [financially capable adults navigating career change, burnout, layoffs, financial independence, or questions about what comes next](/financial-therapy/)
 - [survivors of cancer or medical trauma](/cancer/)
 - people who have felt misunderstood in therapy or in life  
 - people told to “stop overthinking” or that they are “too sensitive”
@@ -116,8 +119,7 @@ My role is to accompany you as you rediscover parts of yourself that may have go
 
 ## Professional Bio
 
-Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, highly sensitive persons, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality and is Master Certified in ART (Accelerated Resolution Therapy). She collaborates with Symmetry Counseling in providing ketamine-assisted psychotherapy (KAP) and integrates somatic, existential, and mindfulness-based approaches.  
-Her lived experience includes [cancer survivorship](/cancer/), faith transition, and raising neurodivergent children. Sara also offers [talks and workshops](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
+Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, highly sensitive persons, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality, is Master Certified in ART (Accelerated Resolution Therapy), provides [ketamine-assisted psychotherapy (KAP)](/kap/), and offers [financial therapy](/financial-therapy/) around money, work, freedom, and major life choices. Her lived experience includes [cancer survivorship](/cancer/), faith transition, career reinvention, and raising neurodivergent children. Sara also offers [talks and workshops](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
 
 ---
 
@@ -147,6 +149,6 @@ Her lived experience includes [cancer survivorship](/cancer/), faith transition,
 
 ## You don’t have to simplify yourself here.
 
-I am currently on sabbatical and not accepting therapy clients at this time.
+I am currently on a planned sabbatical, taking time to rest, write, deepen my training, and live into some of the same questions I explore with clients: What matters now? What do I want the next chapter to hold?
 
 I plan to reopen in private practice in January 2027. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).
