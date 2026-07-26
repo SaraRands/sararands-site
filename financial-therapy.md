@@ -1,8 +1,13 @@
-------
+---
 
-## layout: default title: "Financial Therapy for Financial Independence, Career Change & Life Transitions | Sara Rands, CMHC" description: "Individual financial therapy for thoughtful, financially capable adults navigating financial independence, burnout, career change, layoffs, money and trauma, and questions about security, freedom, identity, and what comes next."
+layout: default 
+title: "Financial Therapy in Utah for Financial Independence & Career Change  | Sara Rands, CMHC"  
+description: "Individual financial therapy in Utah for financially capable adults navigating burnout, layoffs, career change, financial independence, money and trauma, and what comes next."
+
+---
 
 # Financial Therapy
+*Individual therapy in Utah for adults navigating money, work, security, freedom, and what comes next*
 
 You may be highly competent, thoughtful, and good with money. You planned carefully, postponed gratification, and built a level of financial security that has given you real options.
 
