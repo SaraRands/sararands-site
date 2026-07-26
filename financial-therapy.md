@@ -6,6 +6,8 @@ description: "Individual financial therapy in Utah for financially capable adult
 
 ---
 
+<div class="hero-financial-therapy"></div>
+
 # Financial Therapy
 *Individual therapy in Utah for adults navigating money, work, security, freedom, and what comes next*
 
