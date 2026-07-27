@@ -29,7 +29,6 @@ The planning, discipline, and delayed gratification that helped you create optio
 Planning can become a search for certainty that does not exist.  
 Discipline can make stopping feel irresponsible.  
 Delayed gratification can make it difficult to recognize when the future has arrived.  
-Goal orientation can keep you moving toward a destination you have never fully imagined living in.
 
 You may be financially ready while feeling emotionally unprepared.
 
@@ -42,7 +41,7 @@ It may also be:
 *What would I do on an ordinary Tuesday?*  
 *Where would I find structure, connection, purpose, and a sense of being useful?*  
 *Who would I be without my work?*  
-*What do I want this freedom to make possible?*
+*What do I want to do with this freedom?*
 
 Perhaps you want to retire fully. Perhaps you want a sabbatical, fewer hours, meaningful unpaid work, more time for family, or a life that moves between contribution and rest.
 
@@ -73,7 +72,7 @@ This may be the first time you have had to consider your financial position not 
 
 Perhaps you already have room to pause, recover, reduce your expenses, care for family, return to school, take a sabbatical, or wait before making another major commitment.
 
-Knowing that options exist does not automatically make them feel real—or safe.
+Knowing that options exist does not automatically make them feel real—or feel safe.
 
 Therapy can help you understand what has been lost, what remains available, and what this interruption may make possible, without rushing you toward reinvention before you are ready.
 
@@ -121,17 +120,13 @@ This work may help you:
 - reconnect with curiosity and agency
 - create small experiments rather than trying to predict an entire future
 
-An experiment might mean taking time away from work, trying a different weekly structure, volunteering, or beginning a conversation you have avoided.
-
-Experiments allow you to learn from your actual life rather than trying to solve every possible future from inside your head.
-
 The goal is not to prescribe retirement, continued work, or any particular kind of life. It is to help you understand the choices you have and what you want them to support.
 
 ------
 
 ## What this work is—and isn’t
 
-I provide **individual therapy** for adults. Relationship, family, and caregiving dynamics are welcome, but I do not provide couples therapy or financial mediation.
+I provide **individual therapy** for adults. 
 
 Financial therapy with me is not:
 
@@ -143,13 +138,13 @@ Financial therapy with me is not:
 
 I am not here to tell you whether you can afford to retire, how to invest, or which option will produce the best financial outcome.
 
-I am here to help you explore the emotional, relational, identity, and meaning questions that remain after the projections have been run—and to use the information and options you already have with greater clarity and agency.
+I am here to help you explore the emotional, relational, identity, and meaning questions that remain after the projections have been run—and to help you see the information and options you already have with greater clarity and agency.
 
 ------
 
 ## A therapist who understands the conversation
 
-You should not have to spend therapy explaining the logic of financial independence or defending the desire for a life that does not center paid employment.
+You should not have to spend therapy time explaining the logic of financial independence or defending the desire for a life that does not center paid employment.
 
 I have longstanding familiarity with personal finance and the financial independence community, including the books, blogs, forums, and questions that have shaped it.
 
