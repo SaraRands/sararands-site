@@ -3,6 +3,7 @@
 layout: default 
 title: "Financial Therapy in Utah for Financial Independence & Career Change  | Sara Rands, CMHC"  
 description: "Individual financial therapy in Utah for financially capable adults navigating burnout, layoffs, career change, financial independence, money and trauma, and what comes next."
+og_image: /assets/images/og-financial-therapy.jpg
 
 ---
 
@@ -17,7 +18,7 @@ But having options is not always as freeing as you expected.
 
 It can be frightening, isolating, and overwhelming, especially when the questions you’re facing don’t have spreadsheet answers.
 
-*What is enough? What is money for? Should I keep pushing toward the number, change careers, step away from work, or build an entirely different kind of life?*
+*What is enough? What is money for? Should I keep pushing toward my number, change careers, step away from work, or build an entirely different kind of life?*
 
 *What do I actually want?*
 
