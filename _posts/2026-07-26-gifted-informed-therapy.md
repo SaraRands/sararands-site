@@ -1,4 +1,8 @@
-# What Gifted-Informed Therapy Can Offer Gifted Adults
+---
+layout: post
+title: "What Gifted-Informed Therapy Can Offer Gifted Adults"
+description: "Giftedness can shape cognitive pace, emotional processing, relationships, identity, burnout, and therapy fit. Here’s what gifted-informed therapy can offer."
+---
 
 Gifted education is not simply about giving children harder worksheets. At its best, it offers an appropriate pace, greater complexity, opportunities to learn alongside similar peers, and an understanding that development may be uneven.
 
