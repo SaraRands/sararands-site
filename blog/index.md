@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Reflections on Meaning, Healing & Post-Religious Life | Sara Rands, CMHC"
-description: "Essays on identity, grief, parenting, post-religious life, neurodivergence, and the quiet work of becoming. Written by Sara Rands, a Salt Lake City therapist and cancer survivor who works with deep thinkers and sensitive souls."
+title: "Blog | Sara Rands, CMHC"
+description: "Essays on giftedness, therapy, neurodivergence, identity, meaning, and post-religious life from Salt Lake City therapist Sara Rands, CMHC."
 permalink: /blog/
 ---
 
 # Blog
 
-Welcome. This blog is where I put the things that don’t have a home elsewhere---reflections on therapy, attachment, meaning-making after religion, and the small human moments that keep me tethered. I write the way I think: in layers, with curiosity, and with permission not to have it all sorted out.
+Reflections on giftedness, therapy, neurodivergence, meaning, post-religious life, and whatever else catches my attention.
 
 ---
 
