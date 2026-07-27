@@ -31,7 +31,7 @@ Reflections on giftedness, therapy, neurodivergence, meaning, post-religious lif
 
 <style>
   .blog-index-title {
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.1rem;
   }
 
   .blog-index-date {
