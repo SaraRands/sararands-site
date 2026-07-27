@@ -14,9 +14,32 @@ Reflections on giftedness, therapy, neurodivergence, meaning, post-religious lif
 <ul>
   {% for post in site.posts %}
   <li>
-    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-    <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-    <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+    <h3 class="blog-index-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h3>
+
+    <small class="blog-index-date">
+      {{ post.date | date: "%B %-d, %Y" }}
+    </small>
+
+    <p class="blog-index-excerpt">
+      {{ post.excerpt | strip_html | truncate: 160 }}
+    </p>
   </li>
   {% endfor %}
 </ul>
+
+<style>
+  .blog-index-title {
+    margin-bottom: 0.25rem;
+  }
+
+  .blog-index-date {
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+
+  .blog-index-excerpt {
+    margin-top: 0;
+  }
+</style>
