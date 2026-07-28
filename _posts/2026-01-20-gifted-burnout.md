@@ -3,6 +3,7 @@ layout: post
 title: "When Giftedness Leads to Burnout"
 subtitle: "Why High-Capacity People Miss the Warning Signs"
 description: "Gifted, multipotentialite adults often burn out not because they’re weak, but because they’re too capable. How resilience, misfit, and endurance can hide burnout for years."
+tags: [giftedness, burnout]
 ---
 
 Many of the people I work with are gifted.

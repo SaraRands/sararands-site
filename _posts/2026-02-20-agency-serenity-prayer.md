@@ -3,6 +3,7 @@ layout: post
 title: "The Serenity Prayer, But Make It a Flow Chart"
 subtitle: "The Mental Health Benefits of Agency"
 description: "A therapist explains how focusing on what you can control reduces anxiety, eases depression, and helps you get unstuck."
+tags: [agency]
 ---
 
 I first encountered the Serenity Prayer as a kid. It hung on someone’s wall, or Dear Abby introduced it to me. Either way, it lodged itself somewhere in my brain early.
