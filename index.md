@@ -113,7 +113,7 @@ Alongside my clinical work, I speak about living a connected, meaningful life wi
 
 ## [Financial Therapy](/financial-therapy/)
 
-A place for thoughtful, financially capable adults to talk honestly about career change, burnout, layoffs, financial independence, and what comes next when money has created real options—but not necessarily clarity.
+A place for thoughtful, financially capable adults to talk honestly about financial independence, burnout, layoffs, and what comes next when money has created real options—but not necessarily clarity.
 
 ---
 
