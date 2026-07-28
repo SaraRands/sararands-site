@@ -102,8 +102,6 @@ My approach blends clarity, depth, and emotional attunement. I draw from:
 
 - My background in **English and computer science**, integrating story and system, metaphor and logic  
 
-For some clients, this work also includes [**financial therapy**](/financial-therapy/): exploring the emotional and existential questions that can arise around money, work, security, career change, financial independence, and having more options than clarity. This is not financial planning or investment advice; it is room to consider what the numbers cannot decide for you.
-
 Clients often describe therapy with me as steady, grounding, and spacious,  
 a place where nothing has to be forced, rushed, or minimized.
 
@@ -127,6 +125,6 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 
 ## A note about availability
 
-I am currently on sabbatical and not accepting therapy clients at this time.
+I am currently on a planned sabbatical, making room for rest, writing, continued training, and an intentional transition into the next chapter of my work.
 
 I plan to reopen in private practice in January 2027. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).
