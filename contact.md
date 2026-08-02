@@ -8,7 +8,7 @@ description: "Contact Sara Rands regarding future therapy availability, speaking
 
 ## Therapy Availability
 
-I am currently on sabbatical and not accepting therapy clients at this time.
+I am currently on a planned sabbatical and not accepting therapy clients at this time.
 
 I plan to reopen in private practice in January 2027.
 

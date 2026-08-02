@@ -6,7 +6,7 @@ description: "Gifted, multipotentialite adults often burn out not because they�
 tags: [giftedness, burnout]
 ---
 
-Many of the people I work with are gifted.
+Many of the people I work with are [gifted](/blog/giftedness/).
 
 They’re quick thinkers. Deep processors. Multipotentialites: people who could have succeeded in many different careers or life paths. They’re competent, resilient, and often admired for their ability to “handle a lot.”
 

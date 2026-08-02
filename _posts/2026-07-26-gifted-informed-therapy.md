@@ -9,7 +9,7 @@ Gifted education is not simply about giving children harder worksheets. At its b
 
 Gifted-informed therapy can serve a similar purpose in adulthood.
 
-Gifted adults do not necessarily need a special therapeutic modality, or a therapist who is also gifted. But giftedness can shape how a person thinks, feels, connects, works, and experiences the world. When a therapist understands those patterns, therapy may feel less like repeatedly translating yourself and more like being able to begin where you actually are.
+[Gifted adults](/blog/giftedness/) do not necessarily need a special therapeutic modality, or a therapist who is also gifted. But giftedness can shape how a person thinks, feels, connects, works, and experiences the world. When a therapist understands those patterns, therapy may feel less like repeatedly translating yourself and more like being able to begin where you actually are.
 
 ## A Different Conversational Fit
 
