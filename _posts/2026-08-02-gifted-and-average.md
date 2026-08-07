@@ -92,7 +92,7 @@ If you need instruction, were you overrated?
 
 If you try sincerely and fail, what will be left of the version of you who was supposed to be exceptional?
 
-I think of a talented artist who illustrated a children’s book, but struggled to enjoy the accomplishment because of fearing the finished work may not be exceptional. But art does not come with an objective percentile ranking. What if illustrating a children’s book were allowed to be simply interesting, creative, and deeply worthwhile? What might become possible if the experience did not have to justify the artist identity? 
+I think of a talented artist who illustrated a children’s book, but struggled to enjoy the accomplishment because of fearing the finished work may not be amazing. But art does not come with an objective percentile ranking. What if illustrating a children’s book were allowed to be simply interesting, creative, and deeply worthwhile? What might become possible if the work did not have to justify the artist identity? 
 
 Avoidance can protect the identity. You cannot discover that you are an average musician if you never take lessons. You cannot be rejected on a date if you never ask anyone out. You cannot write a mediocre first draft if you keep researching the book instead of beginning it.
 
@@ -102,9 +102,9 @@ Accepting averageness makes room for **beginner’s mind**: the willingness to e
 
 You can take a dance class and stand on the wrong foot. You can learn to date in middle age and discover that much of it feels unnatural. You can make awkward attempts at emotional honesty. You can begin strength training with unimpressive weights. You can create something that does not live up to the version you imagined.
 
-A teacher of gifted students shared that the most important thing that she taught her students was how to fail. The special ed kids, she said, were great at persisting and showing grit when at first they did not succeed. It was the gifted kids that melted down when they didn't get a perfect score on the test or assigment. But many of the best things in life are on the other side of persisting in the face of failure.
+A teacher of gifted children shared that the most important thing she taught her students was how to fail. The special ed kids, she said, were able to consistently pick themselves up when they failed, and show persistence and grit when moving towards a goal. But for many gifted kids, not getting a perfect score on a test or assignment can be a highly dysregulating tragedy, rather than something normal that everyone experiences sometimes. Many of the best experiences of life are on the other side of confronting failure. 
 
-Being bad at a new skill is not evidence about your worth or intelligence. It is the ordinary starting point. As Jake the Dog says in *Adventure Time*, "sucking at something is the first step to being sorta good at something."
+Being bad at a new skill is not evidence about your worth or intelligence. It is the ordinary starting point. As Jake the Dog says in *Adventure Time*, "Sucking at something is the first step to being sorta good at something."
 
 ## You Do Not Have to Keep Proving It
 
@@ -130,7 +130,7 @@ Either way, you are still you.
 
 Releasing the demand to “live up to your potential” does not mean abandoning ambition.
 
-It means ambition can become more personally meaningful and less performance-based.
+It means ambition can become more personal and less performative.
 
 Instead of asking:
 
