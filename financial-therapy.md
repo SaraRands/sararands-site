@@ -38,10 +38,10 @@ The question may no longer be only:
 
 It may also be:
 
-*What would I do on an ordinary Tuesday?*  
-*Where would I find structure, connection, purpose, and a sense of being useful?*  
-*Who would I be without my work?*  
-*What do I want to do with this freedom?*
+- *What would I do on an ordinary Tuesday?*  
+- *Where would I find structure, connection, purpose, and a sense of being useful?*  
+- *Who would I be without my work?*  
+- *What do I want to do with this freedom?*
 
 Perhaps you want to retire fully. Perhaps you want a sabbatical, fewer hours, meaningful unpaid work, more time for family, or a life that moves between contribution and rest.
 

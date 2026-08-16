@@ -12,3 +12,4 @@ kramdown:
   input: GFM
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
