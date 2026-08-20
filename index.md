@@ -63,7 +63,7 @@ You don’t have to navigate it alone.
 
 The people I work with often describe themselves as:
 
-- gifted or high-ability adults  
+- [gifted or high-ability adults](https://www.sararands.com/blog/gifted-informed-therapy/)  
 - highly sensitive persons ([HSPs](https://hsperson.com/)) 
 - former “gifted kids” who learned to make themselves smaller  
 - analytical thinkers told they’re “too in their head”  
