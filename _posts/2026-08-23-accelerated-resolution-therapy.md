@@ -5,8 +5,6 @@ description: "A concrete look at Accelerated Resolution Therapy: what happens in
 tags: [trauma, Accelerated Resolution Therapy (ART), neurodivergence]
 ---
 
-# What Does ART Feel Like?
-
 At Sundance this year I saw *See You When I See You*, a film based on Adam Cayton-Holland’s memoir *Tragedy Plus Time*. The movie unfortunately hasn’t gotten a public release as I write this, but the memoir is also excellent.
 
 One of the things I loved about both was how concretely they portrayed EMDR. You could actually get a sense of what trauma processing looked like. Not just “he went to therapy and worked through his trauma,” but: **What were they doing in there?**
@@ -15,7 +13,7 @@ And I found myself thinking: I wish people could see ART this way.
 
 ART is similar to EMDR in that both are trauma-processing therapies that use bilateral stimulation while working with distressing memories, but ART is more structured and uses guided imagery in a different way.
 
-Accelerated Resolution Therapy stirs up my old religious evangelism. *Oh, that I were an angel, and could have the wish of my heart: that I could cry ART unto every people.*  I see how much suffering it can relieve, often with a relatively modest investment of time and money, and part of me wishes I could help everyone experience this.
+Accelerated Resolution Therapy stirs up my old religious evangelism: *Oh, that I were an angel, and could have the wish of my heart: that I could cry ART unto every people.*  I see how much suffering it can relieve, often with a relatively modest investment of time and money, and part of me wishes I could help everyone experience this.
 
 Not because ART is magic. It doesn’t work for everyone. It isn’t where I like to start with complex trauma. There are times when someone absolutely should not be doing intensive trauma processing.
 
