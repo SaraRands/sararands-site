@@ -4,8 +4,6 @@ description: "For some autistic teens, learning to drive may take a year or two 
 tags: [autism, parenting, neurodivergence]
 ---
 
-# Autism and Driving: A Road Map
-
 I have helped teach two autistic young people to drive.
 
 In both cases, it took about a year.
