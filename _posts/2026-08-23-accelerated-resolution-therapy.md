@@ -2,7 +2,7 @@
 layout: post
 title: "What Does Accelerated Resolution Therapy (ART) Feel Like?"
 description: "What Accelerated Resolution Therapy actually feels like from the inside: what happens in a session, how it differs from EMDR, and what changes afterward."
-image: /assets/images/art-plane-window.jpg
+og_image: /assets/images/art-plane-window.jpg
 tags: [trauma, Accelerated Resolution Therapy (ART), neurodivergence]
 ---
 
