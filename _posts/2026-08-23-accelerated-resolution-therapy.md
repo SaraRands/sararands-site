@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Does ART Feel Like?"
+title: "What Does Accelerated Resolution Therapy (ART) Feel Like?"
 description: "A concrete look at Accelerated Resolution Therapy: what happens in a session and how trauma memories can change."
 tags: [trauma, Accelerated Resolution Therapy (ART), neurodivergence]
 ---
@@ -11,7 +11,7 @@ One of the things I loved about both was how concretely they portrayed EMDR. You
 
 And I found myself thinking: I wish people could see ART this way. 
 
-ART is similar to EMDR in that both are trauma-processing therapies that use bilateral stimulation while working with distressing memories, but ART is more structured and uses guided imagery in a different way.
+ART and EMDR are cousins. Both pair bilateral stimulation with a distressing memory. ART is more structured—there's a protocol, and a place we're trying to get to by the end of the session—and it leans much harder on one thing in particular: at a certain point, we start deliberately changing the memory.
 
 Accelerated Resolution Therapy stirs up my old religious evangelism: *Oh, that I were an angel, and could have the wish of my heart: that I could cry ART unto every people.*  I see how much suffering it can relieve, often with a relatively modest investment of time and money, and part of me wishes I could help everyone experience this.
 
@@ -47,6 +47,14 @@ So what does ART actually feel like?
 
 You don’t need to do any special preparation for the ART session itself.
 
+We sit facing each other, close enough that I can see your face and you can see mine. You stay awake, sober, and in charge the entire time. 
+
+Plan on more time than a standard therapy hour if we can get it. Ninety minutes is often about right.
+
+We work in short stretches. I’ll ask you to bring something to mind, we’ll do a set of bilateral stimulation, and then we stop and you tell me what you are noticing in your body: sensations, emotions. Not the content of the memory. It isn't one long descent into the memory. It's a series of passes with a check-in after each one, and I’m talking with you throughout. You are never in there alone.
+
+You will go through the material more than once. Repetition is how the thing works.
+
 You don’t have to tell me the painful nitty-gritty details of what happened if you don’t want to. ART can work without my knowing the whole story. Most of my clients actually do want to tell me quite a bit, and that’s fine too. If I have some idea of what they’re seeing and feeling, it can help me guide them. But you get to decide what you disclose.
 
 Very broadly, we’re going to bring up the thing your brain is still reacting to.
@@ -57,7 +65,7 @@ Sometimes it isn’t.
 
 * Maybe you have plenty of money now, but spending $100 still feels dangerous.
 
-* Maybe you stopped believing in hell ten years ago, but some part of you still reacts as though it might be real.
+* Maybe your religious beliefs changed ten years ago, but some part of you still keeps a running tally of whether you’re “worthy.”
 
 * Maybe your spouse sounds irritated and suddenly you’re responding to them like they’re the unpredictable parent you grew up with.
 
@@ -91,7 +99,7 @@ Different details may stand out. Something that wasn’t there the first time sh
 
 ## Changing what the memory feels like
 
-If you’ve seen the first *Inside Out* movie, you may remember Riley accessing a memory and later putting it back with a different emotional color. That’s surprisingly similar to what we’re working with here.
+If you’ve seen the first *Inside Out* movie, you may remember that memories are stored as orbs colored by the emotion attached to them, and that those colors can change. A memory Riley had carried as purely happy turns out to have sadness in it too, and by the end her memories hold more than one color at once. That's surprisingly close to what we're working with here.
 
 Memories aren’t static recordings. You can remember something terrible that happened twenty years ago without experiencing it emotionally exactly the way you did when it happened.
 
@@ -101,7 +109,7 @@ And this is where, as my colleague Dee-Dee put it when we talked about ART on a 
 
 We deliberately start changing the scene.
 
-You still know perfectly well what really happened. This is not hypnosis. There are no medications involved. You are sober and conscious. You remember the session. You can think, talk, disagree with me, reject my ideas and come up with your own.
+You still know perfectly well what really happened. This is not hypnosis. There are no medications involved. You can think, talk, disagree with me, reject my ideas and come up with your own.
 
 But we play with the scene.
 
@@ -123,11 +131,13 @@ We’re working with what I sometimes call the **dream brain**—the part of us 
 
 One client once put it especially well: **The brain is kinda dumb.** Your thinking mind knows the improved version didn’t happen. Emotionally, your system may respond to it anyway.
 
+We're changing what the memory feels like, not what you believe happened. You know the mattress wasn't there. Nothing we do is meant to give you new beliefs about the facts, and I'm not going to suggest that something happened to you that you didn't already know about.
+
 Sometimes, after ART, people even have difficulty bringing the old disturbing pictures back. They still know what happened. The facts are intact.
 
 But the emotional experience is more like: **It happened.** **I made it through.** **And it isn’t happening now.**
 
-## What if you don't see pictures in your head?
+## What if you don’t see pictures in your head?
 
 Some of my neurodivergent clients have aphantasia or limited mental imagery, and sometimes they worry that means ART can't work for them. Sometimes their ART therapists worry about it too.
 
@@ -137,7 +147,31 @@ In my experience, it works fine for clients with limited imagery too. You might 
 
 Brains represent experience in lots of ways. The memories can still shift.
 
-## Sometimes there isn't one obvious memory
+## What if you can’t do the eye movements?
+
+ART is usually delivered as an eye-movement protocol: you follow the therapist's hand as it moves back and forth in front of you.
+
+For a lot of people that's unremarkable. For some it isn't.
+
+- Maybe you get seizures or migraines and tracking a moving object is a bad idea.
+- Maybe your eyes don't track smoothly, or sustained visual focus is genuinely uncomfortable.
+- Maybe watching someone's hand while you're already flooded with emotion is more than you can manage.
+
+Eye movements are one form of bilateral stimulation. There are others—alternating taps, or small handheld devices that buzz side to side. Therapists differ in what they use and what they’re willing to adapt.
+
+If you think this might be an issue for you, ask. The answer will tell you something useful about how a particular therapist works.
+
+## What if you can’t tell what you’re feeling?
+
+The check-ins depend on you being able to report something about your internal state. Some people find that easy. Others don't.
+
+If you have alexithymia—difficulty identifying and naming emotions—or you’ve spent a lifetime not paying attention to your body, “what are you noticing?” can be a genuinely hard question. Some people know something is happening but can't find words for it.
+
+That's workable. You don't need emotional vocabulary. Physical sensations are usually easier: tight, heavy, hot, buzzing, pressure, numb. Location works too—*it's in my throat*. Comparison works—*more than last time*, *less than last time*, *different but I don't know how*. And “I don’t know” is real information, not a failure to participate.
+
+It also tends to get easier as we go. Plenty of my clients notice very little the first time through and considerably more the second. That's normal. Paying attention to your internal state is an unfamiliar skill, and unfamiliar skills take practice. My impression is that the bilateral stimulation itself makes that layer easier to reach. If the first pass feels like nothing, that's not a sign this won't work.
+
+## Sometimes there isn’t one obvious memory
 
 Not every problem comes with a convenient traumatic scene.
 
@@ -157,7 +191,7 @@ My own experience of EMDR felt more like opening **all the cans of worms** at on
 
 ART feels more contained to me. We open only one can of worms and then spend the session processing and integrating the worms in that particular can. Which is an unfortunate metaphor if you think about it too hard, but you get the idea.
 
-Particularly when we have enough time for a 90-minute session, the goal is to work thoroughly with what we opened rather than sending someone back into their week with the can sitting open.
+Particularly when we have the full ninety minutes, the goal is to work thoroughly with what we opened rather than sending someone back into their week with the can sitting open.
 
 ## What shifts afterwards in real life
 
@@ -191,7 +225,7 @@ I respect that. The brain knows what it is ready to process.
 
 These clients may need slower work over multiple ART sessions, or a different way of working, perhaps KAP or NARM. This is actually why I trained in NARM. I wanted good tools for my complex-trauma clients, including the people whose protective systems aren't going to let us simply walk straight into the painful material.
 
-And sometimes the problem isn't internal readiness at all. Sometimes someone's life is actively falling apart. **That is not the moment to excavate trauma.** If a fire is actively burning, you put out the fire. Later you can do the post-mortem about why there was a fire and what might prevent the next one.
+And sometimes the problem isn't internal readiness at all. Sometimes someone’s life is actively falling apart. **That is not the moment to excavate trauma.** If a fire is actively burning, you put out the fire. Later you can do the post-mortem about why there was a fire and what might prevent the next one.
 
 ## Why not?
 
@@ -200,6 +234,14 @@ The *accelerated* in Accelerated Resolution Therapy is there because ART was dev
 Complex trauma is complex. But relatively discrete trauma really can shift surprisingly quickly.
 
 And that is part of my “why not?” attitude toward this. If you find an ART therapist who takes your insurance, you may be looking at an intake plus a longer trauma-processing appointment for a couple of copays. Even at cash-pay rates, a few hundred dollars and a few hours can be a very reasonable investment if the alternative is continuing to organize your life around something that happened years ago.
+
+A word about the research: ART’s evidence base is young and thin. A [2024 systematic review](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000123) by independent researchers found only five studies, two of them randomized. Nobody has yet published a head-to-head trial of ART against the established first-line treatments, so I can't tell you it works better than they do.
+
+What those studies did find: everyone got better. Symptom reductions were large and consistent, along with improvements in depression, anxiety, and sleep. Reported harms were minor. The reviewers concluded that ART shows real promise, with little risk of harm and a reasonable investment of resources.
+
+What I can tell you is that the better-studied options—prolonged exposure, CPT, trauma-focused CBT—typically run twelve to sixteen sessions and ask a great deal of the person doing them. Most people in the ART studies finished in under four. That difference matters if the alternative is not getting treated at all.
+
+I hope the research continues. I'd like to know more than I currently do.
 
 No one therapy works for everyone. And sometimes what looked like a simple problem turns out to have more layers underneath it.
 
