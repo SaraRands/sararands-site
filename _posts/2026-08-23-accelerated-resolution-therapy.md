@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Does Accelerated Resolution Therapy (ART) Feel Like?"
-description: "A concrete look at Accelerated Resolution Therapy: what happens in a session and how trauma memories can change."
+description: "What Accelerated Resolution Therapy actually feels like from the inside: what happens in a session, how it differs from EMDR, and what changes afterward."
 tags: [trauma, Accelerated Resolution Therapy (ART), neurodivergence]
 ---
 
@@ -9,7 +9,7 @@ At Sundance this year I saw *See You When I See You*, a film based on Adam Cayto
 
 One of the things I loved about both was how concretely they portrayed EMDR. You could actually get a sense of what trauma processing looked like. Not just “he went to therapy and worked through his trauma,” but: **What were they doing in there?**
 
-And I found myself thinking: I wish people could see ART this way. 
+And I found myself thinking: I wish people could see Accelerated Resolution Therapy (ART) this way. 
 
 ART and EMDR are cousins. Both pair bilateral stimulation with a distressing memory. ART is more structured—there's a protocol, and a place we're trying to get to by the end of the session—and it leans much harder on one thing in particular: at a certain point, we start deliberately changing the memory.
 
@@ -27,7 +27,7 @@ But there are also bottom-up ways of working: therapies that involve what is hap
 
 And sometimes that matters because you already **know**. You know it wasn’t your fault. You know you’re safe now. You know your spouse is not your father. You know this financial situation is not the terrifying one you lived through fifteen years ago. You’ve understood it to death.
 
-And then the plane door closes, your spouse says the thing, the stock market drops, or somebody mentions cancer, and your body is suddenly behaving as though none of that insight exists. This is one of the situations where I especially like ART.
+And then the plane door closes, your spouse says the thing, the stock market drops, or somebody mentions cancer, and your body is suddenly behaving as though none of that insight exists. This is one of the situations where I especially like Accelerated Resolution Therapy.
 
 ART can feel to me like we are composting different layers of experience together: 
 
@@ -87,7 +87,7 @@ Showing your brain the problem is usually upsetting. But we need access to some 
 
 I sometimes compare this to lancing an infected wound. If something painful is trapped underneath the surface, we need enough access to it for healing to happen.
 
-ART gives us repeated opportunities to notice what is happening emotionally and physically—the sadness, anger, fear, tightness in the chest, sick feeling in the stomach, pressure in the head, whatever is there—and to use bilateral stimulation as we work back toward a calmer place.
+Accelerated Resolution Therapy gives us repeated opportunities to notice what is happening emotionally and physically—the sadness, anger, fear, tightness in the chest, sick feeling in the stomach, pressure in the head, whatever is there—and to use bilateral stimulation as we work back toward a calmer place.
 
 Research on bilateral eye movements gives us some ideas about why this may help, including changes in physiological arousal and in how vivid or emotionally intense a memory feels. We're still learning why it works.
 
@@ -137,7 +137,7 @@ Sometimes, after ART, people even have difficulty bringing the old disturbing pi
 
 But the emotional experience is more like: **It happened.** **I made it through.** **And it isn’t happening now.**
 
-## What if you don’t see pictures in your head?
+## What if you don’t see pictures in your head? (Aphantasia and ART)
 
 Some of my neurodivergent clients have aphantasia or limited mental imagery, and sometimes they worry that means ART can't work for them. Sometimes their ART therapists worry about it too.
 
@@ -149,7 +149,7 @@ Brains represent experience in lots of ways. The memories can still shift.
 
 ## What if you can’t do the eye movements?
 
-ART is usually delivered as an eye-movement protocol: you follow the therapist's hand as it moves back and forth in front of you.
+Accelerated Resolution Therapy is usually delivered as an eye-movement protocol: you follow the therapist's hand as it moves back and forth in front of you.
 
 For a lot of people that's unremarkable. For some it isn't.
 
@@ -161,7 +161,7 @@ Eye movements are one form of bilateral stimulation. There are others—alternat
 
 If you think this might be an issue for you, ask. The answer will tell you something useful about how a particular therapist works.
 
-## What if you can’t tell what you’re feeling?
+## What if you can’t tell what you’re feeling? (Alexithymia)
 
 The check-ins depend on you being able to report something about your internal state. Some people find that easy. Others don't.
 
@@ -213,7 +213,7 @@ That’s the kind of outcome I care about. Not whether someone can give their tr
 
 ## When ART isn't the right approach
 
-ART isn't where I start with everybody.
+Accelerated Resolution Therapy isn't where I start with everybody.
 
 People with complex developmental trauma can sometimes go blank as they approach difficult material. Some people would describe this as dissociation. Sometimes clients experience it almost literally as a wall: there is something there, but they can't get past it.
 
