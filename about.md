@@ -51,7 +51,7 @@ NARM is especially supportive for people who:
 - are analytical but disconnected from their body  
 - have done insight-based work but still feel stuck  
 
-I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](https://acceleratedresolutiontherapy.com/what-is-art/), a modality that can help reduce the emotional charge around difficult experiences and create greater alignment between intellectual understanding and emotional experience. I also provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for clients seeking embodied, existential, or transformative work.
+I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](https://www.sararands.com/blog/accelerated-resolution-therapy/), a modality that can help reduce the emotional charge around difficult experiences and create greater alignment between intellectual understanding and emotional experience. I also provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for clients seeking embodied, existential, or transformative work.
 
 And yeah, I read a lot. Too much, probably.  
 
@@ -119,7 +119,7 @@ My role is to accompany you as you rediscover parts of yourself that may have go
 
 ## Professional Bio
 
-Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, highly sensitive persons, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality, is Master Certified in ART (Accelerated Resolution Therapy), provides [ketamine-assisted psychotherapy (KAP)](/kap/), and offers [financial therapy](/financial-therapy/) around money, work, freedom, and major life choices. Her lived experience includes [cancer survivorship](/cancer/), faith transition, career reinvention, and raising neurodivergent children. Sara also offers [talks and workshops](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
+Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, highly sensitive persons, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality, is Master Certified in [ART (Accelerated Resolution Therapy)](https://www.sararands.com/blog/accelerated-resolution-therapy/), provides [ketamine-assisted psychotherapy (KAP)](/kap/), and offers [financial therapy](/financial-therapy/) around money, work, freedom, and major life choices. Her lived experience includes [cancer survivorship](/cancer/), faith transition, career reinvention, and raising neurodivergent children. Sara also offers [talks and workshops](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
 
 ---
 
@@ -140,7 +140,7 @@ Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist s
 
 ## Certifications
 
-- **Master Certified** in [Accelerated Resolution Therapy (ART)](https://acceleratedresolutiontherapy.com)
+- **Master Certified** in [Accelerated Resolution Therapy (ART)](https://www.sararands.com/blog/accelerated-resolution-therapy/)
 - **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com); NARM Master’s Training in progress
 - **Completed the 2025–2026 [Polaris Insight Center Ketamine-Assisted Psychotherapy (KAP) Training Cohort](https://training.polarisinsight.com/cohort)**; advanced certification in progress
 

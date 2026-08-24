@@ -98,7 +98,7 @@ Financial success does not automatically resolve:
 
 Therapy can help explore both the present-day question and what it touches from the past.
 
-When appropriate, this work may include [**Accelerated Resolution Therapy (ART)**](https://acceleratedresolutiontherapy.com/what-is-art/) for difficult or traumatic experiences. [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) may also support deeper work around identity, fear, grief, meaning, and transition.
+When appropriate, this work may include [**Accelerated Resolution Therapy (ART)**](https://www.sararands.com/blog/accelerated-resolution-therapy/) for difficult or traumatic experiences. [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) may also support deeper work around identity, fear, grief, meaning, and transition.
 
 The aim is not to dismiss realistic concerns. It is to understand more clearly how present circumstances and earlier experiences may both be shaping your choices.
 
