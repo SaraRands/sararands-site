@@ -6,7 +6,7 @@ og_image: /assets/images/art-plane-window.jpg
 tags: [trauma, Accelerated Resolution Therapy (ART), neurodivergence]
 ---
 
-At Sundance this year I saw *See You When I See You*, a film based on Adam Cayton-Holland’s memoir *Tragedy Plus Time*. The movie unfortunately hasn’t gotten a public release as I write this, but the memoir is also excellent.
+At Sundance this year I saw *See You When I See You*, a film based on [Adam Cayton-Holland’s memoir *Tragedy Plus Time*](https://a.co/d/07jXzbYG). The movie unfortunately hasn’t gotten a public release as I write this, but the memoir is also excellent.
 
 One of the things I loved about both was how concretely they portrayed EMDR. You could actually get a sense of what trauma processing looked like. Not just “he went to therapy and worked through his trauma,” but: **What were they doing in there?**
 
@@ -224,7 +224,7 @@ Sometimes acknowledging that helps it soften. Sometimes it doesn’t.
 
 I respect that. The brain knows what it is ready to process.
 
-These clients may need slower work over multiple ART sessions, or a different way of working, perhaps KAP or NARM. This is actually why I trained in NARM. I wanted good tools for my complex-trauma clients, including the people whose protective systems aren't going to let us simply walk straight into the painful material.
+These clients may need slower work over multiple ART sessions, or a different way of working, perhaps [KAP](/kap/) or NARM. This is actually why I trained in [NARM](https://narmtraining.com/what-is-narm/). I wanted good tools for my complex-trauma clients, including the people whose protective systems aren't going to let us simply walk straight into the painful material.
 
 And sometimes the problem isn't internal readiness at all. Sometimes someone’s life is actively falling apart. **That is not the moment to excavate trauma.** If a fire is actively burning, you put out the fire. Later you can do the post-mortem about why there was a fire and what might prevent the next one.
 
