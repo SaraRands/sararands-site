@@ -3,6 +3,7 @@ layout: default
 title: "Blog | Sara Rands, CMHC"
 description: "Essays on giftedness, therapy, neurodivergence, identity, meaning, and post-religious life from Salt Lake City therapist Sara Rands, CMHC."
 permalink: /blog/
+og_image: /assets/images/blog-og-image.png
 ---
 
 # Blog

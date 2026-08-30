@@ -5,6 +5,14 @@ description: Therapy for deep thinkers, gifted adults, highly sensitive people, 
 url: "https://www.sararands.com"
 baseurl: ""
 timezone: America/Denver
+og_image: /assets/images/default-og-image.png
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      og_image: /assets/images/blog-og-image.png
 
 markdown: kramdown
 permalink: /blog/:title/

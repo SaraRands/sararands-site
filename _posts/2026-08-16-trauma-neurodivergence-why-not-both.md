@@ -1,12 +1,28 @@
 ---
-title: "Trauma? Neurodivergence? Why Not Both—but Does It Matter?"
-description: "Trauma and neurodivergence can look remarkably similar. Here’s why we may not need a perfect explanation before therapy can begin—and why good therapy should help you become more fully yourself."
-tags: [giftedness, neurodivergence, trauma, therapy]
+layout: post
+title: "Is It Trauma or Neurodivergence? Why You May Not Need to Know"
+description: "Trauma and neurodivergence can look remarkably similar. Why therapy can be useful before you know which one explains your experience."
+tags: [giftedness, neurodivergence, trauma, therapy, autism]
 ---
 
-Trauma and neurodivergence can look remarkably similar from the outside.
+Trauma and neurodivergence can look remarkably similar from the outside. Often we cannot tell which one—or which combination—explains a particular person's experience.
 
-Both can involve sensory overwhelm, shutdown, rigidity, difficulty identifying emotions, executive-functioning problems, social disconnection, intense reactions to criticism, or a strong need for predictability.
+The useful news is that therapy does not require that answer first.
+
+## Where trauma and neurodivergence overlap
+
+Both can involve:
+
+- sensory overwhelm
+- shutdown
+- rigidity
+- difficulty identifying emotions
+- executive-functioning problems
+- social disconnection
+- intense reactions to criticism
+- a strong need for predictability
+
+The overlap is close enough that complex trauma (CPTSD) and late-identified autism are regularly mistaken for each other.
 
 So which is it?
 
@@ -40,7 +56,7 @@ Not every enduring difference is the result of trauma. Not every sensitive nervo
 
 Sometimes a person is simply born with a nervous system that takes in more, reacts more strongly, or organizes information differently.
 
-Research on sensory sensitivity in nonhuman animals is one clue that these differences are not entirely produced by human family dynamics. I am not an expert in that literature, and the research is still developing. But my intuitive sense is, to quote the TV show *Crazy Ex-Girlfriend*: the situation is a lot more nuanced than that.
+Sensory sensitivity varies across species, which suggests these differences are not purely a product of human family dynamics.
 
 ## Neurodivergence is not trauma—but living with it can become traumatic
 
@@ -54,9 +70,13 @@ But chronic mismatch can create shame, loneliness, masking, self-doubt, and prot
 
 This is where the categories become difficult to separate. A biological difference may increase vulnerability to certain injuries. Those injuries may then intensify traits that were already present.
 
+Autistic burnout is a good example. The exhaustion, loss of skills, and heightened sensory sensitivity that can follow long periods of masking are not purely trauma and not purely neurodivergence. They are what happens when a nervous system spends years working against itself to meet expectations it was never built for.
+
+Adults identified as autistic or ADHD later in life often arrive with decades of this accumulation already in place—and sometimes with a history of diagnoses that never quite fit.
+
 There can be real pain without a clear villain.
 
-NARM uses the phrase **environmental failure**, which leaves room for a much broader understanding than “your parents caused this.” The environment includes family, school, culture, poverty, illness, social exclusion, inadequate information, and simple bad luck.
+NARM uses the phrase **environmental failure**, which leaves room for a much broader understanding than "your parents caused this." The environment includes family, school, culture, poverty, illness, social exclusion, inadequate information, and simple bad luck.
 
 Parents can be loving, devoted, and good enough—and still fail to understand a child perfectly. Children can be genuinely hurt without their parents having been neglectful or uncaring.
 
@@ -64,27 +84,27 @@ Parenthood is harder than it looks. Perfect attunement is not possible, and it i
 
 ## Distress is not always evidence of harm
 
-We can become so concerned about trauma that sometimes we worry about the effects of ordinary human struggle.
+Concern about trauma can spill into worry about ordinary struggle.
 
-We can see this when watching young children develop. When my children were babies, they fussed during tummy time. But this experience is crucial for physical development. 
+We can see this when watching young children develop. When my children were babies, they fussed during tummy time. But this experience is crucial for physical development.
 
 Watching a baby struggle can feel uncomfortable. You do not leave the baby there after they have clearly become overwhelmed. But you also do not assume that the first frustrated protest means the experience is harmful. You stay close. You engage. You encourage. You let the baby work against gravity for a little while, and you pay attention to when the frustration has become too much.
 
 The goal is not the absence of distress. The goal is supported, tolerable distress that allows capacity to grow.
 
-Some discomfort signals that something is wrong. Some is the ordinary feeling of stretching beyond what is easy. Good support requires curiosity about which is which.
+Some discomfort signals that something is wrong. Some is the ordinary feeling of stretching beyond what is easy. [Good support requires curiosity about which is which.](/2026-08-30-autism-driving/)
 
-## We do not have a tape of childhood
+## Why therapists cannot be certain about origin stories
 
-Therapy can sometimes become too confident about origin stories.
+Therapy can sometimes become too confident about where a pattern came from.
 
-A current pattern may fit a compelling explanation about what happened decades ago. That explanation may be emotionally meaningful and clinically useful. But we usually cannot prove it.
+A current difficulty may fit a compelling explanation about what happened decades ago. That explanation may be emotionally meaningful and clinically useful. But we usually cannot prove it.
 
 Memory is partial. Family members experience the same household differently. Temperament, biology, relationships, culture, chance, and present circumstances all interact.
 
-Therapists can see this vividly when a partner or family member joins a session. The additional perspective may add nuance—but it can also wildly change the working hypothesis. A therapist who had heard only one person’s account may suddenly see a very different relational pattern, sequence of events, or context. It is difficult to infer outside reality from the account of the one person sitting in front of us—not because that person is dishonest, but because every person’s view is necessarily partial.
+Therapists can see this vividly when a partner or family member joins a session. The additional perspective may add nuance—but it can also wildly change the working hypothesis. A therapist who had heard only one person's account may suddenly see a very different relational pattern, sequence of events, or context. It is difficult to infer outside reality from the account of the one person sitting in front of us—not because that person is dishonest, but because every person's view is necessarily partial.
 
-There is no tape we can rewind to determine exactly why someone became who they are. 
+There is no tape we can rewind to determine exactly why someone became who they are.
 
 Humility is often closer to the truth than certainty.
 
@@ -94,25 +114,21 @@ The more trauma training I have done, the more comfortable I have become using t
 
 In my experience, yes.
 
-I have seen—and personally experienced—that trauma-focused and bottom-up approaches such as  the **NeuroAffective Relational Model (NARM)**, **Accelerated Resolution Therapy (ART)**, and EMDR help neurodivergent clients become more emotionally connected, less governed by shame, and more flexible in the ways they respond to themselves and other people.
+I have seen—and personally experienced—that trauma-focused and bottom-up approaches such as the **NeuroAffective Relational Model (NARM)**, [**Accelerated Resolution Therapy (ART)**](/2026-08-23-accelerated-resolution-therapy/), and EMDR help neurodivergent clients become more aware of bodily experience, more emotionally fluent, less governed by shame, and more flexible in the ways they respond to themselves and other people.
 
 That is a major reason I pursued this training. I was not primarily looking to become a general trauma specialist. I wanted more powerful tools for helping gifted and neurodivergent clients access the emotional layer of their experience and live from more of their full humanity.
 
-Trauma-oriented and bottom-up approaches can help people become more aware of bodily experience, more emotionally fluent, less governed by shame, and more able to respond with flexibility instead of automatically repeating old protective patterns.
-
-Those changes can be valuable whether the original difficulty arose from trauma, neurodivergence, chronic mismatch, temperament, chronic pain, or some combination.
+Those changes can be valuable whether the original difficulty arose from trauma, neurodivergence, chronic mismatch, temperament, chronic pain, or several of these at once.
 
 Improvement after trauma treatment does not necessarily prove that trauma caused the problem. It tells us that the pattern responded to that kind of work. Sometimes that is enough.
-
-We can learn from what changes as we go instead of demanding a perfect explanation before we begin.
 
 ## Does the distinction ever matter?
 
 Yes. Sometimes the underlying mechanism changes the treatment.
 
-OCD is one clear example. General anxiety-reduction strategies can accidentally become reassurance or avoidance. Effective treatment often requires **Exposure and Response Prevention (ERP)**: approaching discomfort, allowing uncertainty, and resisting the behaviors that provide immediate relief while strengthening the cycle over time.
+OCD is one clear example. General anxiety-reduction strategies can accidentally become reassurance or avoidance. Effective treatment often requires **Exposure and Response Prevention (ERP)**: approaching discomfort, allowing uncertainty, and resisting the behaviors that provide immediate relief but strengthen the cycle over time.
 
-More broadly, it matters whether a person needs healing, accommodation, skill-building, environmental change, or some combination.
+More broadly, it matters whether a person needs healing, accommodation, skill-building, environmental change, or a mix of these.
 
 It matters because neurodivergent people may need to hear:
 
@@ -124,7 +140,7 @@ And people carrying trauma may need to hear:
 
 Still, the distinction does not need to be resolved with certainty before therapy can be useful.
 
-## Therapy cannot take away what makes you you
+## Will therapy make me less autistic?
 
 Many gifted and neurodivergent people worry that therapy will try to make them more normal—or that healing will somehow cost them the parts of themselves they value.
 

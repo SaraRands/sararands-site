@@ -3,6 +3,7 @@ layout: default
 title: "Giftedness"
 description: "Essays on giftedness, twice-exceptionality, high sensitivity, relationships, identity, and therapy."
 permalink: /blog/giftedness/
+og_image: /assets/images/blog-og-image.png
 ---
 
 # Giftedness
