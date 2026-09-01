@@ -1,7 +1,10 @@
-<aside class="newsletter-signup">
-  <h3>Words, occasionally, in your inbox</h3>
-  <p>Do humans still read blogs? Maybe. They do seem to read email sometimes. 
-    Every month or so, I’ll send new posts, talks, and other things I’ve been thinking about.</p>
+<aside class="newsletter-signup{% if include.compact %} newsletter-compact{% endif %}">
+  <h3>{{ include.heading | default: "Words, occasionally, in your inbox" }}</h3>
+  {% unless include.compact %}
+    <p>I write about giftedness, sensitivity, trauma, and life transitions.
+       Every month or so I email a note with new writing, talks, and whatever else
+       I've been thinking about.</p>
+  {% endunless %}
 
   <form action="https://buttondown.com/api/emails/embed-subscribe/sararands"
         method="post"

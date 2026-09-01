@@ -11,6 +11,10 @@ og_image: /assets/images/blog-og-image.png
 Reflections on giftedness, therapy, neurodivergence, meaning, post-religious life, and whatever else catches my attention.
 
 ---
+<p>
+  {% include newsletter.html %}  
+</p>
+---
 
 <ul>
   {% for post in site.posts %}

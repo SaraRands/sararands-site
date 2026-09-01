@@ -8,6 +8,12 @@ og_image: /assets/images/blog-og-image.png
 
 # Giftedness
 
+---
+<p>
+  {% include newsletter.html %}  
+</p>
+---
+
 {% assign gifted_posts = site.posts | where_exp: "post", "post.tags contains 'giftedness'" %}
 
 {% for post in gifted_posts %}
