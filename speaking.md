@@ -30,12 +30,6 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 
 ## Talks
 
-### The Mental Health Benefits of Agency: Why Believing You Have Choices Matters
-Whatever the “truth” about free will, believing you have no meaningful choices leads to feeling stuck.
-- [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/15-feb-2026)
-
----
-
 ### Navigating the Void: Faith Transitions Through an Existential Lens
 
 <div class="video-wrapper">
@@ -47,6 +41,12 @@ Research on the faith transition experience and how existential therapy provides
 
 - [**Mormon Mental Health Association Conference, 2024**](https://mormonmentalhealthassoc.org/product/2024-mmha-conference-friday-session-8-when-it-isnt-a-faith-crisis-duplicate-1/)  
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/21-apr-2024)
+
+---
+
+### The Mental Health Benefits of Agency: Why Believing You Have Choices Matters
+Whatever the “truth” about free will, believing you have no meaningful choices leads to feeling stuck.
+- [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/15-feb-2026)
 
 ---
 
@@ -80,16 +80,6 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
 <div class="audio-wrapper">
   <iframe style="border-radius:12px" 
     src="https://open.spotify.com/embed/episode/4XVjtAlt9rZ7aBlaS11m0p?utm_source=generator" 
-    width="100%" height="152" frameborder="0" allowfullscreen=""
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</div>
-
----
-
-### Breast Cancer and Intimacy
-<div class="audio-wrapper">
-  <iframe style="border-radius:12px" 
-    src="https://open.spotify.com/embed/episode/5En6AJUrqPOJqZfkNmyp13?utm_source=generator" 
     width="100%" height="152" frameborder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </div>
@@ -151,3 +141,6 @@ The world needed better technology to create more unique Utah-style names. I hee
 
 If you’re interested in a conversation, interview, or community talk, [feel free to reach out](/contact/).  
 I’m always open to projects that feel aligned.
+
+---
+  {% include newsletter.html %}  

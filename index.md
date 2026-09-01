@@ -147,3 +147,7 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 I am currently on sabbatical, making room for rest, writing, continued training, and an intentional transition into the next chapter of my work.
 
 I plan to reopen in private practice in January 2027. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).
+
+---
+
+{% include newsletter.html compact=true heading="Newsletter" %}

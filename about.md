@@ -152,3 +152,7 @@ Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist s
 I am currently on a planned sabbatical, taking time to rest, write, deepen my training, and live into some of the same questions I explore with clients: What matters now? What do I want the next chapter to hold?
 
 I plan to reopen in private practice in January 2027. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).
+
+---
+
+  {% include newsletter.html %}  
