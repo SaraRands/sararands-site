@@ -150,4 +150,4 @@ I plan to reopen in private practice in January 2027. If you’d like to be noti
 
 ---
 
-{% include newsletter.html compact=true heading="Newsletter" %}
+{% include newsletter.html %}
