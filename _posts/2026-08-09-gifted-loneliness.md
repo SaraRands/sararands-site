@@ -3,6 +3,7 @@ layout: post
 title: "Gifted Adult Loneliness: Finding Friends Who Understand You"
 description: "Gifted adults may grow up feeling loved but not fully understood. Why finding friends who share your pace and curiosity can bring unexpected relief."
 tags: [giftedness, relationships]
+last_modified_at: 2026-08-31
 ---
 
 [Gifted](/blog/giftedness/) loneliness does not always look like being alone.

@@ -3,6 +3,7 @@ layout: post
 title: "Is It Trauma or Neurodivergence? Why You May Not Need to Know"
 description: "Trauma and neurodivergence can look remarkably similar. Why therapy can be useful before you know which one explains your experience."
 tags: [giftedness, neurodivergence, trauma, therapy, autism]
+last_modified_at: 2026-08-31
 ---
 
 Trauma and neurodivergence can look remarkably similar from the outside. Often we cannot tell which one—or which combination—explains a particular person's experience.

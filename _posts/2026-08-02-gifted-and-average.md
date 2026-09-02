@@ -3,6 +3,7 @@ layout: post
 title: "Giftedness as Obligation: The Relief of Being Average"
 description: "Gifted adults may feel pressure to build an extraordinary life. Accepting that we are average in most ways can create room for curiosity and growth."
 tags: [giftedness]
+last_modified_at: 2026-08-31
 ---
 
 There is a moment in *The Princess Bride* when the grandson interrupts the story to point out that he had predicted the plot correctly. His grandfather answers: "Yes, you're very smart. Shut up."

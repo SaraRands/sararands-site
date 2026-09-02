@@ -4,6 +4,7 @@ title: "What Does Accelerated Resolution Therapy (ART) Feel Like?"
 description: "What Accelerated Resolution Therapy actually feels like from the inside: what happens in a session, how it differs from EMDR, and what changes afterward."
 og_image: /assets/images/art-plane-window.jpg
 tags: [trauma, Accelerated Resolution Therapy (ART), neurodivergence]
+last_modified_at: 2026-08-31
 ---
 
 At Sundance this year I saw *See You When I See You*, a film based on [Adam Cayton-Holland’s memoir *Tragedy Plus Time*](https://a.co/d/07jXzbYG). The movie unfortunately hasn’t gotten a public release as I write this, but the memoir is also excellent.
