@@ -147,9 +147,6 @@ KAP is priced differently from individual therapy, since more than one provider 
 
 ---
 
-
----
-
 {% include availability.html heading="A note about availability" note="I anticipate continuing to collaborate with Symmetry Counseling in providing ketamine-assisted psychotherapy when I reopen." %}
 
 ---
