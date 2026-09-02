@@ -8,7 +8,7 @@ og_image: /assets/images/blog-og-image.png
 
 # Blog
 
-Reflections on giftedness, therapy, neurodivergence, meaning, post-religious life, and whatever else catches my attention.
+Reflections on [giftedness](/giftedness/), therapy, neurodivergence, meaning, post-religious life, and whatever else catches my attention.
 
 ---
 
