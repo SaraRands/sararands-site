@@ -3,7 +3,10 @@ layout: default
 title: "Fees & Scheduling | Sara Rands, CMHC | Salt Lake City"
 description: "Private-pay therapy in Salt Lake City and across Utah. Fees, every-other-week scheduling, superbills for out-of-network benefits, and what to expect."
 permalink: /fees-scheduling/
+og_image: /assets/images/og-fees-tight.jpg
+og_image_alt: "An open notebook with a pen, a cup of coffee, and dried flowers on a wooden table"
 ---
+<div class="hero-fees"></div>
 
 # Fees & Scheduling
 
