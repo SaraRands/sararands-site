@@ -20,6 +20,8 @@ I am a **private-pay therapist**.
 - **Accelerated Resolution Therapy (ART):** $300 for up to 80 minutes
 - **Ketamine-Assisted Psychotherapy (KAP):** separate structure and pricing, described below
 
+A limited number of reduced-fee spaces may be available.
+
 I do not bill insurance directly. If you have out-of-network benefits, I can provide a **superbill upon request** that you may submit to your insurance company for possible reimbursement.
 
 ### A note about diagnosis and insurance
