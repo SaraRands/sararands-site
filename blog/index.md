@@ -31,9 +31,9 @@ Reflections on [giftedness](/giftedness/), therapy, neurodivergence, meaning, po
 </ul>
 
 ---
-<p>
-  {% include newsletter.html %}  
-</p>
+
+{% include newsletter.html %}  
+
 
 <style>
   .blog-index-title {
@@ -43,9 +43,11 @@ Reflections on [giftedness](/giftedness/), therapy, neurodivergence, meaning, po
   .blog-index-date {
     display: block;
     margin-bottom: 0.75rem;
+    line-height: 1.3;
   }
 
   .blog-index-excerpt {
     margin-top: 0;
   }
+  
 </style>

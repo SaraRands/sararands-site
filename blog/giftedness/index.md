@@ -20,6 +20,5 @@ og_image: /assets/images/blog-og-image.png
 {% endfor %}
 
 ---
-<p>
+
   {% include newsletter.html %}  
-</p>
