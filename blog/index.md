@@ -43,7 +43,7 @@ Reflections on [giftedness](/giftedness/), therapy, neurodivergence, meaning, po
   .blog-index-date {
     display: block;
     margin-bottom: 0.75rem;
-    line-height: 1.3;
+    line-height: 1.1;
   }
 
   .blog-index-excerpt {
