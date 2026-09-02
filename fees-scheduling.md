@@ -15,8 +15,8 @@ Here are the practical details of working with me: fees, scheduling, insurance, 
 
 I am a **private-pay therapist**.
 
-- **Initial intake:** $250 for 75 minutes
 - **Individual therapy:** $200 for 53 minutes
+- **Initial intake:** $285 for 75 minutes
 - **Accelerated Resolution Therapy (ART):** $300 for up to 80 minutes
 - **Ketamine-Assisted Psychotherapy (KAP):** separate structure and pricing, described below
 
