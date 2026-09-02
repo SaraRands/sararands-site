@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Financial Therapy in Utah for Financial Independence, Layoffs & Burnout | Sara Rands, CMHC"
-description: "Individual financial therapy in Utah for financially capable adults navigating financial independence, layoffs, burnout, money and trauma, and questions about what comes next."
+title: "Financial Therapy in Utah | Financial Independence & Burnout"
+description: "Financial therapy for financially capable adults facing FI, layoffs, burnout, and what comes next when money creates options but not clarity."
 og_image: /assets/images/og-financial-therapy.jpg
 ---
 
@@ -14,7 +14,7 @@ You may be thoughtful, financially capable, and good with numbers—and still fa
 
 Financial therapy offers room to explore the emotional and existential dimensions of money, work, security, freedom, and enough.
 
-------
+---
 
 ## When the freedom finally arrives
 
@@ -49,7 +49,7 @@ There may be several possible lives, each offering something meaningful and each
 
 Therapy offers room to explore them without requiring one perfect answer.
 
-------
+---
 
 ## When the choice arrives before you are ready
 
@@ -76,7 +76,7 @@ Knowing that options exist does not automatically make them feel real—or feel 
 
 Therapy can help you understand what has been lost, what remains available, and what this interruption may make possible, without rushing you toward reinvention before you are ready.
 
-------
+---
 
 ## Money and safety
 
@@ -98,11 +98,11 @@ Financial success does not automatically resolve:
 
 Therapy can help explore both the present-day question and what it touches from the past.
 
-When appropriate, this work may include [**Accelerated Resolution Therapy (ART)**](https://www.sararands.com/blog/accelerated-resolution-therapy/) for difficult or traumatic experiences. [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) may also support deeper work around identity, fear, grief, meaning, and transition.
+When appropriate, this work may include [**Accelerated Resolution Therapy (ART)**](/blog/accelerated-resolution-therapy/) for difficult or traumatic experiences. [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) may also support deeper work around identity, fear, grief, meaning, and transition.
 
 The aim is not to dismiss realistic concerns. It is to understand more clearly how present circumstances and earlier experiences may both be shaping your choices.
 
-------
+---
 
 ## What financial therapy can offer
 
@@ -122,7 +122,7 @@ This work may help you:
 
 The goal is not to prescribe retirement, continued work, or any particular kind of life. It is to help you understand the choices you have and what you want them to support.
 
-------
+---
 
 ## What this work is—and isn’t
 
@@ -140,7 +140,7 @@ I am not here to tell you whether you can afford to retire, how to invest, or wh
 
 I am here to help you explore the emotional, relational, identity, and meaning questions that remain after the projections have been run—and to help you see the information and options you already have with greater clarity and agency.
 
-------
+---
 
 ## A therapist who understands the conversation
 
@@ -158,6 +158,13 @@ You do not have to justify why a financially fortunate situation can still feel 
 
 You can read more about my background and therapeutic approach [on the About page](/about/).
 
-I am currently on a planned sabbatical and not accepting therapy clients.
+{% include fees-summary.html %}
 
-I plan to reopen in private practice in January 2027. To be notified when scheduling becomes available, [join the contact list](/contact/).
+---
+
+
+{% include availability.html %}
+
+---
+
+{% include newsletter.html %}

@@ -1,0 +1,27 @@
+{%- comment -%}
+  _includes/availability.html
+  Single source of truth for the reopening date, the waitlist link, and where Sara practices.
+  In January 2027, edit the two assigns below and every page updates at once.
+
+  Usage:
+    {% include availability.html %}
+    {% include availability.html heading="A note about availability" %}
+    {% include availability.html intro="Custom opening sentence for this page." %}
+    {% include availability.html note="One extra paragraph before the reopening line." %}
+
+  Params (all optional):
+    heading  renders an <h2> above the block
+    intro    replaces the default sabbatical sentence with page-specific wording
+    note     inserts an extra paragraph between the intro and the reopening line
+{%- endcomment -%}
+
+{%- assign avail_reopen = "January 2027" -%}
+{%- assign avail_waitlist = "https://forms.gle/LYfkRtGKZ2CkXWqD6" -%}
+
+{% if include.heading %}<h2>{{ include.heading }}</h2>{% endif %}
+
+<p>{{ include.intro | default: "I am currently on sabbatical and not accepting new therapy clients." }}</p>
+
+{% if include.note %}<p>{{ include.note }}</p>{% endif %}
+
+<p>I plan to reopen in private practice in {{ avail_reopen }}, seeing clients in person in Salt Lake City and online throughout Utah. If you&rsquo;d like to be notified when scheduling becomes available, you&rsquo;re welcome to <a href="{{ avail_waitlist }}">join the notification list</a>.</p>

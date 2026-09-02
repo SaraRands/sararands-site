@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "About Sara Rands, CMHC | Attachment-Focused, Neurodiversity-Affirming Therapist in Salt Lake City, Utah"
-description: "Learn about Sara Rands, a therapist for gifted adults, deep thinkers, and highly sensitive people. Blending NARM, trauma-informed care, neurodiversity-affirming therapy, existential exploration, and financial therapy."
+title: "About Sara Rands, CMHC | Therapist in Salt Lake City, Utah"
+description: "Sara Rands is a Salt Lake City therapist for gifted, highly sensitive, and neurodivergent adults. NARM, ART, KAP, and financial therapy."
 ---
 
 # Hi, I’m Sara.
@@ -23,7 +23,7 @@ Before I was a therapist, I lived many lives.
 
 I began as an English major who also studied German, psychology, music, education, philosophy, and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home birth but biology interfered (hi there, birth trauma!). I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette* and *Your Money or Your Life*, and for years I took pride in making a very small income work—until I realized frugality could only take us so far in creating the life I wanted for my children.
 
-I was also a devout, all-in Mormon, serving my local ward as organist for a decade and building life around my sense of God's will. My faith transition was a years-long, complex process that disrupted meaning, identity, and relationships, and ultimately required rebuilding life from the ground up.
+I was also a devout, all-in Mormon, serving my local ward as organist for a decade and building life around my sense of God’s will. My faith transition was a years-long, complex process that disrupted meaning, identity, and relationships, and ultimately required rebuilding life from the ground up.
 
 Later, I transcribed college courses for Deaf students, a job I loved. One day I transcribed a web programming course and thought, *I bet I could do that.*  
 
@@ -32,7 +32,7 @@ I eventually went back to school for computer science, launched a six-year caree
 Eventually, I reached a place where I could choose not just what I was capable of, but what felt deeply meaningful.  
 That led me to become a therapist.
 
-Along the way, I became a [cancer survivor](/cancer/), raised neurodivergent children, navigated divorce and remarriage, braved the dating apps, blended a family, and rebuilt my life---in small and large ways---more than once.
+Along the way, I became a [cancer survivor](/cancer/), raised neurodivergent children, navigated divorce and remarriage, braved the dating apps, blended a family, and rebuilt my life—in small and large ways—more than once.
 
 All of this shapes how I sit with clients. **I know what it’s like to reorient yourself from the inside out.**  
 It helps me listen with nuance, hold complexity with care, and meet you where you are.
@@ -51,7 +51,7 @@ NARM is especially supportive for people who:
 - are analytical but disconnected from their body  
 - have done insight-based work but still feel stuck  
 
-I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](https://www.sararands.com/blog/accelerated-resolution-therapy/), a modality that can help reduce the emotional charge around difficult experiences and create greater alignment between intellectual understanding and emotional experience. I also provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for clients seeking embodied, existential, or transformative work.
+I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](/blog/accelerated-resolution-therapy/), a modality that can help reduce the emotional charge around difficult experiences and create greater alignment between intellectual understanding and emotional experience. I also provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for clients seeking embodied, existential, or transformative work.
 
 And yeah, I read a lot. Too much, probably.  
 
@@ -83,7 +83,7 @@ Here’s what that looks like in practice:
 
 I provide individual therapy for adults (18+) who identify with any of the following:
 
-- gifted, bright, intense, or unusually analytical  
+- gifted, bright, perceptive, or unusually analytical  
 - [highly sensitive](https://hsperson.com/)
 - neurodivergent (diagnosed or self-suspected)  
 - grew up in families where emotions weren’t understood, welcomed, or handled well  
@@ -119,7 +119,7 @@ My role is to accompany you as you rediscover parts of yourself that may have go
 
 ## Professional Bio
 
-Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, highly sensitive persons, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality, is Master Certified in [ART (Accelerated Resolution Therapy)](https://www.sararands.com/blog/accelerated-resolution-therapy/), provides [ketamine-assisted psychotherapy (KAP)](/kap/), and offers [financial therapy](/financial-therapy/) around money, work, freedom, and major life choices. Her lived experience includes [cancer survivorship](/cancer/), faith transition, career reinvention, and raising neurodivergent children. Sara also offers [talks and workshops](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
+Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, highly sensitive persons, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality, is Master Certified in [ART (Accelerated Resolution Therapy)](/blog/accelerated-resolution-therapy/), provides [ketamine-assisted psychotherapy (KAP)](/kap/), and offers [financial therapy](/financial-therapy/) around money, work, freedom, and major life choices. Her lived experience includes [cancer survivorship](/cancer/), faith transition, career reinvention, and raising neurodivergent children. Sara also offers [talks and workshops](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
 
 ---
 
@@ -140,18 +140,19 @@ Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist s
 
 ## Certifications
 
-- **Master Certified** in [Accelerated Resolution Therapy (ART)](https://www.sararands.com/blog/accelerated-resolution-therapy/)
+- **Master Certified** in [Accelerated Resolution Therapy (ART)](/blog/accelerated-resolution-therapy/)
 - **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com); NARM Master’s Training in progress
 - **Completed the 2025–2026 [Polaris Insight Center Ketamine-Assisted Psychotherapy (KAP) Training Cohort](https://training.polarisinsight.com/cohort)**; advanced certification in progress
+
+{% include fees-summary.html %}
 
 ---
 
 
-## You don’t have to simplify yourself here.
+---
 
-I am currently on a planned sabbatical, taking time to rest, write, deepen my training, and live into some of the same questions I explore with clients: What matters now? What do I want the next chapter to hold?
 
-I plan to reopen in private practice in January 2027. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).
+{% include availability.html heading="You don’t have to simplify yourself here." intro="I am currently on a planned sabbatical, taking time to rest, write, deepen my training, and live into some of the same questions I explore with clients: What matters now? What do I want the next chapter to hold?" %}
 
 ---
 

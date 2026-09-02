@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Ketamine-Assisted Psychotherapy (KAP) | Sara Rands"
-description: "A grounded, neuroscience-informed approach to ketamine-assisted psychotherapy (KAP) for emotional healing, trauma work, and existential clarity in Salt Lake City, Utah."
+title: "Ketamine-Assisted Psychotherapy (KAP) | Salt Lake City, Utah"
+description: "Ketamine-assisted psychotherapy in Salt Lake City for treatment-resistant depression, trauma, and existential distress. Therapist present throughout."
 permalink: /kap/
 og_image: /assets/images/og-kap.jpg
 ---
@@ -99,7 +99,7 @@ Medical clearance is required before beginning.
 
 ## Safety Considerations
 
-Ketamine is a legal medication in the United States, FDA-approved as an anesthetic, and commonly used off-label in psychotherapy. Ketamine has a long-standing safety profile when administered appropriately, but it isn’t suitable for everyone. [Symmetry Counseling's medical prescriber](https://symcounseling.com/jake-bellenfant/) will determine if you are a good fit. Common contraindications include:
+Ketamine is a legal medication in the United States, FDA-approved as an anesthetic, and commonly used off-label in psychotherapy. Ketamine has a long-standing safety profile when administered appropriately, but it isn’t suitable for everyone. [Symmetry Counseling’s medical prescriber](https://symcounseling.com/jake-bellenfant/) will determine if you are a good fit. Common contraindications include:
 
 - personal or family history of psychosis  
 - some forms of bipolar disorder  
@@ -143,12 +143,15 @@ KAP can offer a steady, compassionate space to explore these questions while eas
 If you’ve had psychedelic experiences outside therapy, I can help with emotional processing and meaning-making.  
 I do not provide or recommend non-medical substances, but integration work itself is fully legal and often stabilizing.
 
+KAP is priced differently from individual therapy, since more than one provider is involved. See [fees and scheduling](/fees-scheduling/) for the full picture.
+
 ---
 
-## A Note About Availability
 
-I am currently on sabbatical and not accepting therapy clients at this time.
+---
 
-I anticipate continuing to collaborate with Symmetry Counseling in providing ketamine-assisted psychotherapy (KAP) when I reopen in private practice in January 2027.
+{% include availability.html heading="A note about availability" note="I anticipate continuing to collaborate with Symmetry Counseling in providing ketamine-assisted psychotherapy when I reopen." %}
 
-If you'd like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).
+---
+
+{% include newsletter.html %}

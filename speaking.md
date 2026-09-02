@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Speaking, Workshops & Media | Faith Transitions, Identity, Neurodiversity | Sara Rands"
-description: "Talks and workshops on emotional growth, faith transitions, neurodiversity, and living a meaningful life after major change. Featuring presentations from Utah Oasis, Mormon Mental Health Association, and KevinMD."
+title: "Speaking & Workshops | Faith Transitions & Neurodiversity"
+description: "Talks and workshops on faith transitions, identity, neurodiversity, and building a meaningful life after major change. Featured on KevinMD."
 ---
 
 # Speaking & Media
@@ -33,8 +33,8 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 ### Navigating the Void: Faith Transitions Through an Existential Lens
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rZRB3PweDhI" 
-    title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/rZRB3PweDhI"
+    title="Navigating the Void: Faith Transitions Through an Existential Lens" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Research on the faith transition experience and how existential therapy provides a helpful framework for rebuilding meaning and worldview.
@@ -78,7 +78,7 @@ A reflection on mindfulness, attachment, caregiving, and what gets lost when equ
 
 Accelerated Resolution Therapy: What it is, how it works, and why it can be so effective.  
 <div class="audio-wrapper">
-  <iframe style="border-radius:12px" 
+  <iframe style="border-radius:12px" loading="lazy" title="Podcast episode"
     src="https://open.spotify.com/embed/episode/4XVjtAlt9rZ7aBlaS11m0p?utm_source=generator" 
     width="100%" height="152" frameborder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -88,7 +88,7 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
 
 ### Online Dating & Dating Skills
 <div class="audio-wrapper">
-  <iframe style="border-radius:12px" 
+  <iframe style="border-radius:12px" loading="lazy" title="Podcast episode"
     src="https://open.spotify.com/embed/episode/6sRR601kiVzBLdSuNEDHd6?utm_source=generator" 
     width="100%" height="152" frameborder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -98,7 +98,7 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
 
 ### Faith Transitions and Existential Therapy
 <div class="audio-wrapper">
-  <iframe style="border-radius:12px" 
+  <iframe style="border-radius:12px" loading="lazy" title="Podcast episode"
     src="https://open.spotify.com/embed/episode/7FghSp1V7Xtx0RolBAOFCj?utm_source=generator" 
     width="100%" height="152" frameborder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -110,12 +110,12 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
 
 [**Early detection fails when screening guidelines ignore young women - The Podcast by KevinMD**](https://kevinmd.com/2025/12/early-detection-fails-when-screening-guidelines-ignore-young-women-podcast.html)
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9WH3ZzlGti0" 
-    title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/9WH3ZzlGti0"
+    title="Early detection fails when screening guidelines ignore young women" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="audio-wrapper">
-  <iframe style="border-radius:12px" 
+  <iframe style="border-radius:12px" loading="lazy" title="Podcast episode"
     src="https://open.spotify.com/embed/episode/1osPgcLzptzw5b1O6LmocP" 
     width="100%" height="152" frameborder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>

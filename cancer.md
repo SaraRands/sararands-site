@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Cancer Survivorship Support & Medical Trauma Support | Salt Lake City, Utah | Sara Rands"
-description: "Therapy for cancer survivors in Salt Lake City navigating fear, identity changes, medical trauma, and post-treatment anxiety. Gentle, grounded support from a 20-year survivor. Ketamine-assisted psychotherapy and ART available."
+title: "Therapy for Cancer Survivors | Salt Lake City, Utah"
+description: "Therapy for cancer survivors navigating fear of recurrence, medical trauma, and identity change — from a 20-year survivor. Salt Lake City and Utah telehealth."
 og_image: /assets/images/og-cancer.jpg
 ---
 
 <div class="cancer-hero"></div>
 
-# Cancer changes everything---including who you are, and who you are becoming.
+# Cancer changes everything—including who you are, and who you are becoming.
 
 Whether you’re newly diagnosed, years out from treatment, or somewhere quietly in the middle, cancer reshapes your relationship with your body, your future, your identity, and the people you love.
 
@@ -82,7 +82,7 @@ I work with people who want a therapist who:
 
 My primary modality is [**NARM (NeuroAffective Relational Model)**](https://narmtraining.com/what-is-narm/), a gentle, present-moment, attachment-focused approach that helps people reconnect with agency, presence, and internal safety after overwhelming experiences.
 
-I also use [**ART (Accelerated Resolution Therapy)**](https://www.sararands.com/blog/accelerated-resolution-therapy/) for survivors carrying specific medical trauma---frightening moments in the hospital, disturbing images, needle phobia, invasive procedures, or sensory imprints that remain long after treatment. ART is often surprisingly effective at easing the emotional charge around these memories and helping the nervous system update experiences that still feel emotionally immediate, without requiring you to retell them in detail.
+I also use [**ART (Accelerated Resolution Therapy)**](/blog/accelerated-resolution-therapy/) for survivors carrying specific medical trauma—frightening moments in the hospital, disturbing images, needle phobia, invasive procedures, or sensory imprints that remain long after treatment. ART is often surprisingly effective at easing the emotional charge around these memories and helping the nervous system update experiences that still feel emotionally immediate, without requiring you to retell them in detail.
 
 And I offer [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for survivors navigating existential distress, medical trauma, spiritual crisis, or identity shifts. KAP can open new pathways into meaning, connection, and emotional flexibility that are often inaccessible through talk therapy alone, especially when grief or fear feel frozen. 
 In cancer and serious illness, ketamine has been shown in early studies to rapidly reduce depression and anxiety, with emerging work exploring its role in existential distress and end-of-life suffering. 
@@ -107,16 +107,19 @@ My survivorship experience led me to write about the gaps in early detection for
 
 You can also read a personal reflection on my 20-year survivorship milestone on my blog:
 
-**[Twenty Years Later: What Cancer Taught Me](/blog/twenty-years-later)**  
+**[Twenty Years Later: What Cancer Taught Me](/blog/twenty-years-later/)**  
 
 I continue to advocate for better research, better tools, and better support for survivors, especially younger ones, whose needs are often overlooked.
 
+{% include fees-summary.html %}
+
 ---
 
-## Cancer changes you. You don’t have to pretend otherwise.
 
-The emotional realities of survivorship are often far more complex than the world expects them to be.  
+---
 
-I am currently on sabbatical and not accepting therapy clients at this time.
+{% include availability.html heading="Cancer changes you. You don’t have to pretend otherwise." intro="The emotional realities of survivorship are often far more complex than the world expects them to be. I am currently on sabbatical and not accepting new therapy clients." %}
 
-I plan to reopen in private practice in January 2027. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](/contact/).
+---
+
+{% include newsletter.html %}

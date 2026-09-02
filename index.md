@@ -118,11 +118,11 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 
 ---
 
-## A note about availability
+{% include fees-summary.html %}
 
-I am currently on sabbatical, making room for rest, writing, continued training, and an intentional transition into the next chapter of my work.
+---
 
-I plan to reopen in private practice in January 2027, seeing clients in person in Salt Lake City and online throughout Utah. If you’d like to be notified when scheduling becomes available, you’re welcome to [join the notification list](https://forms.gle/LYfkRtGKZ2CkXWqD6).
+{% include availability.html heading="A note about availability" intro="I am currently on sabbatical, making room for rest, writing, continued training, and an intentional transition into the next chapter of my work." %}
 
 ---
 

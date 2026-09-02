@@ -1,24 +1,22 @@
 ---
 layout: default
-title: "Contact Sara Rands, CMHC | Therapy, Speaking & Professional Inquiries"
-description: "Contact Sara Rands regarding future therapy availability, speaking engagements, workshops, podcasts, or professional collaboration."
+title: "Contact Sara Rands, CMHC | Therapy & Speaking Inquiries"
+description: "Join the notification list for therapy openings in January 2027, or reach out about speaking, workshops, podcasts, and professional collaboration."
 ---
 
 # Contact
 
-## Therapy Availability
+{% include availability.html heading="Therapy availability" %}
 
-I am currently on a planned sabbatical and not accepting therapy clients at this time.
+---
 
-I plan to reopen in private practice in January 2027.
-
-If you’d like to be notified when scheduling becomes available, you’re welcome to [join the contact list](https://forms.gle/LYfkRtGKZ2CkXWqD6).
+{% include fees-summary.html %}
 
 ---
 
 ## Ketamine-Assisted Psychotherapy (KAP)
 
-I anticipate continuing to collaborate with **Symmetry Counseling** in providing ketamine-assisted psychotherapy (KAP). More information about this will be available in the future.
+I anticipate continuing to collaborate with **Symmetry Counseling** in providing ketamine-assisted psychotherapy (KAP) when I reopen. You can [read more about how I work with KAP](/kap/).
 
 ---
 
