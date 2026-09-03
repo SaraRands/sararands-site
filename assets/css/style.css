@@ -309,6 +309,35 @@ section {
   border-radius: 8px;
 }
 
+.post-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.post-list li {
+  margin-bottom: 2rem;
+}
+
+.post-list-title {
+  font-size: 1.25rem;
+  line-height: 1.3;
+  margin-top: 0;
+  margin-bottom: 0.15rem;
+}
+
+.post-list-date {
+  display: block;
+  line-height: 1.2;
+  margin-bottom: 0.4rem;
+  color: #777;
+}
+
+.post-list-excerpt {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .image-caption {
   font-size: 0.9rem;
   color: #666;
