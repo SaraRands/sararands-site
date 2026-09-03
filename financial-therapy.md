@@ -146,9 +146,9 @@ I am here to help you explore the emotional, relational, identity, and meaning q
 
 You should not have to spend therapy time explaining the logic of financial independence or defending the desire for a life that does not center paid employment.
 
-My familiarity with this world isn’t academic. I spent years deep in frugality culture—*The Tightwad Gazette*, *Your Money or Your Life*, real pride in making a very small income work—before I understood that frugality alone couldn’t build the life I wanted for my children. A later career in software engineering, and years inside the financial independence community, put me close to the books, the blogs, the forums, and the arguments that have shaped it.
+My familiarity with this world is not academic. I spent years deep in frugality culture, taking real pride in making a very small income work—before recognizing that frugality alone could not create the life I wanted for my children. A later career in software engineering, and years inside the financial independence community, put me close to the books, the blogs, the forums, and the arguments that have shaped it.
 
-I’m also on a planned sabbatical right now: a smaller version of the same experiment, and a standing reminder that stepping back from work raises questions no spreadsheet answers.
+And I'm in the middle of a sabbatical right now—a mini-retirement, more or less—which is one way of putting my money where my mouth is. This is territory I'm currently walking around in, not just reading about.
 
 I understand that early retirement can make room for a rich life, that having money doesn’t eliminate fear, and that financial freedom raises questions no calculator can answer.
 
@@ -163,7 +163,6 @@ You can read more about my background and therapeutic approach [on the About pag
 {% include fees-summary.html %}
 
 ---
-
 
 {% include availability.html %}
 
