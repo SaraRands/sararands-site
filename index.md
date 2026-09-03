@@ -88,13 +88,9 @@ Sometimes change comes relatively quickly. And longstanding patterns around sham
 My approach blends clarity, depth, and emotional attunement. I draw from:
 
 - The [**NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/) — for identity, agency, connection, attachment, and longstanding patterns
-
 - [**Accelerated Resolution Therapy (ART)**](/blog/accelerated-resolution-therapy/) — for trauma, emotional stuckness, and bridging the gap between what you understand intellectually and what your nervous system still carries
-
 - [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) — for depression, existential distress, depth, and meaning-making
-
 - A **neurodivergence-affirming lens**, honoring sensitivity, intensity, and complexity
-
 - My background in **English and computer science**, integrating story and system, metaphor and logic
 
 Clients often describe therapy with me as steady, grounding, and spacious,
