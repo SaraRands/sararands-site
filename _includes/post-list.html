@@ -1,0 +1,29 @@
+{%- comment -%}
+  _includes/post-list.html
+  Shared markup for blog index and tag pages.
+
+  Usage:
+    {% include post-list.html posts=site.posts %}
+    {% include post-list.html posts=gifted_posts %}
+
+  Uses post.description when a post has one, and falls back to the
+  auto-generated excerpt when it doesn't.
+{%- endcomment -%}
+
+<ul class="post-list">
+  {%- for post in include.posts %}
+  <li>
+    <h2 class="post-list-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+
+    <small class="post-list-date">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+    </small>
+
+    <p class="post-list-excerpt">
+      {{ post.description | default: post.excerpt | strip_html | truncate: 160 }}
+    </p>
+  </li>
+  {%- endfor %}
+</ul>
