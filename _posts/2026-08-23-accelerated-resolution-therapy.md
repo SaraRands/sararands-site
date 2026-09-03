@@ -34,11 +34,8 @@ And then the plane door closes, your spouse says the thing, the stock market dro
 ART can feel to me like we are composting different layers of experience together: 
 
 * What you know intellectually.
-
 * What you feel.
-
 * What your body does.
-
 * What images arise.
 
 Everything gets turned over together. Insight informs emotion. Emotion informs insight. Something richer can come out the other side.
@@ -66,11 +63,8 @@ Sometimes that’s obvious: The car accident. The assault. The cancer treatment.
 Sometimes it isn’t.
 
 * Maybe you have plenty of money now, but spending $100 still feels dangerous.
-
 * Maybe your religious beliefs changed ten years ago, but some part of you still keeps a running tally of whether you’re “worthy.”
-
 * Maybe your spouse sounds irritated and suddenly you’re responding to them like they’re the unpredictable parent you grew up with.
-
 * Maybe a delayed text from someone you’re dating feels like the beginning of the same awful story you lived through with your ex.
 
 Your logical mind knows the present is different. Your emotional system apparently did not get the memo.
@@ -116,17 +110,11 @@ You still know perfectly well what really happened. This is not hypnosis. There 
 But we play with the scene.
 
 * Sometimes the bad thing still happens, but this time you have support.
-
 * Maybe someone you love is there.
-
 * Maybe your older, stronger self comes in and protects the younger you.
-
 * Maybe God or another spiritual figure shows up, if that is meaningful to you.
-
 * Sometimes the bad thing doesn’t happen at all.
-
 * Sometimes the bad guy gets stopped.
-
 * Sometimes we abandon reality completely. The accident happens, but instead of hitting something hard, you land on an enormous fluffy mattress. Your logical mind knows there was no mattress. That isn’t the point.
 
 We’re working with what I sometimes call the **dream brain**—the part of us that understands images and symbols and emotion and doesn't particularly care whether something could happen in literal reality.
