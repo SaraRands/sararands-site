@@ -10,7 +10,7 @@ og_image: /assets/images/og-financial-therapy.jpg
 # Financial Therapy
 *Individual therapy in Utah for adults navigating money, work, security, freedom, and what comes next*
 
-You may be thoughtful, financially capable, and good with numbers—and still face questions the spreadsheet cannot answer.
+You may be thoughtful, financially capable, and good with numbers—and still face questions the spreadsheet can’t answer.
 
 Financial therapy offers room to explore the emotional and existential dimensions of money, work, security, freedom, and enough.
 
@@ -20,19 +20,19 @@ Financial therapy offers room to explore the emotional and existential dimension
 
 You planned carefully, postponed gratification, and built real financial security.
 
-Perhaps you have reached—or nearly reached—the financial independence number you worked toward for years. You expected that getting there would feel freeing.
+Maybe you’ve reached the number you worked toward for years. Maybe you’re close. You expected that getting there would feel like freedom.
 
-Instead, you may find yourself saying, *One more year.*
+Instead you hear yourself saying, *One more year.*
 
 The planning, discipline, and delayed gratification that helped you create options are real strengths. But those strengths can become rigid when fear takes over.
 
-Planning can become a search for certainty that does not exist.  
+Planning can become a search for certainty that doesn’t exist.  
 Discipline can make stopping feel irresponsible.  
-Delayed gratification can make it difficult to recognize when the future has arrived.  
+Delayed gratification can make it hard to notice that the future has arrived.  
 
-You may be financially ready while feeling emotionally unprepared.
+You can be financially ready and emotionally unprepared at the same time.
 
-The question may no longer be only:
+The question may no longer be just:
 
 *Can I retire?*
 
@@ -43,9 +43,9 @@ It may also be:
 - *Who would I be without my work?*  
 - *What do I want to do with this freedom?*
 
-Perhaps you want to retire fully. Perhaps you want a sabbatical, fewer hours, meaningful unpaid work, more time for family, or a life that moves between contribution and rest.
+Maybe you want to retire fully. Maybe you want a sabbatical, fewer hours, unpaid work that matters to you, more time for family, or a life that moves between contribution and rest.
 
-There may be several possible lives, each offering something meaningful and each involving real tradeoffs.
+There may be several possible lives here, each offering something real and each costing something real.
 
 Therapy offers room to explore them without requiring one perfect answer.
 
@@ -53,13 +53,13 @@ Therapy offers room to explore them without requiring one perfect answer.
 
 ## When the choice arrives before you are ready
 
-Sometimes the decision is not planned.
+Sometimes the decision isn’t yours to make.
 
 A layoff, burnout, or sudden change in your industry can unsettle much more than your income.
 
-Work may have provided identity, structure, status, community, competence, and a sense of being needed. Losing it—or realizing you cannot keep doing what you have been doing—can bring fear, grief, shame, anger, or disorientation even when you have substantial financial resources.
+Work may have provided identity, structure, status, community, competence, and a sense of being needed. Losing it—or realizing you can’t keep doing what you’ve been doing—can bring fear, grief, shame, anger, or disorientation even when the money is fine.
 
-You may know intellectually that the numbers are okay and still feel terrified.
+You can know the numbers are fine and still be terrified.
 
 You may wonder:
 
@@ -68,13 +68,13 @@ You may wonder:
 - *Does stepping back mean I failed?*
 - *What am I supposed to do now?*
 
-This may be the first time you have had to consider your financial position not only as protection against disaster, but as something you can actively use.
+This may be the first time you’ve had to think of your financial position not as protection against disaster, but as something you can actually spend.
 
 Perhaps you already have room to pause, recover, reduce your expenses, care for family, return to school, take a sabbatical, or wait before making another major commitment.
 
-Knowing that options exist does not automatically make them feel real—or feel safe.
+Knowing the options exist doesn’t make them feel real, or safe.
 
-Therapy can help you understand what has been lost, what remains available, and what this interruption may make possible, without rushing you toward reinvention before you are ready.
+Therapy can help you understand what has been lost, what remains available, and what this interruption may make possible, without rushing you toward reinvention before you’re ready.
 
 ---
 
@@ -84,9 +84,9 @@ Money can carry the emotional weight of earlier experiences.
 
 You may have lived through poverty, instability, illness, divorce, betrayal, religious pressure, family conflict, job loss, or times when survival depended on being exceptionally responsible.
 
-Even after your circumstances change, your sense of safety may not change with them.
+Your circumstances can change without your sense of safety changing with them.
 
-Financial success does not automatically resolve:
+Money doesn’t automatically resolve:
 
 - fear of dependence
 - difficulty trusting other people
@@ -108,7 +108,7 @@ The aim is not to dismiss realistic concerns. It is to understand more clearly h
 
 Financial planning can help you understand what is financially possible. Coaching can help you set goals and create a plan.
 
-Financial therapy offers room for uncertainty, contradiction, grief, fear, and questions without immediate answers.
+Financial therapy makes room for uncertainty, contradiction, grief, fear, and questions that don’t have immediate answers.
 
 This work may help you:
 
@@ -120,7 +120,7 @@ This work may help you:
 - reconnect with curiosity and agency
 - create small experiments rather than trying to predict an entire future
 
-The goal is not to prescribe retirement, continued work, or any particular kind of life. It is to help you understand the choices you have and what you want them to support.
+The goal isn’t to prescribe retirement, continued work, or any particular kind of life. It’s to help you see the choices you have and decide what you want them to support.
 
 ---
 
@@ -146,15 +146,17 @@ I am here to help you explore the emotional, relational, identity, and meaning q
 
 You should not have to spend therapy time explaining the logic of financial independence or defending the desire for a life that does not center paid employment.
 
-I have longstanding familiarity with personal finance and the financial independence community, including the books, blogs, forums, and questions that have shaped it.
+My familiarity with this world isn’t academic. I spent years deep in frugality culture—*The Tightwad Gazette*, *Your Money or Your Life*, real pride in making a very small income work—before I understood that frugality alone couldn’t build the life I wanted for my children. A later career in software engineering, and years inside the financial independence community, put me close to the books, the blogs, the forums, and the arguments that have shaped it.
 
-I understand that early retirement can make room for a rich life, that substantial resources do not eliminate fear, and that financial freedom can raise questions no calculator can answer.
+I’m also on a planned sabbatical right now: a smaller version of the same experiment, and a standing reminder that stepping back from work raises questions no spreadsheet answers.
+
+I understand that early retirement can make room for a rich life, that having money doesn’t eliminate fear, and that financial freedom raises questions no calculator can answer.
 
 Your financial choices will not be romanticized or resented. They will be treated as part of your actual life: meaningful, complicated, and worthy of thoughtful exploration.
 
-Here, you do not have to translate your financial reality, minimize the options you have created, or apologize for having them.
+You don’t have to translate your financial reality here, minimize the options you’ve built, or apologize for having them.
 
-You do not have to justify why a financially fortunate situation can still feel frightening. And you do not need to know exactly what you want before we begin.
+You don’t have to justify why a fortunate situation still feels frightening. And you don’t need to know what you want before we begin.
 
 You can read more about my background and therapeutic approach [on the About page](/about/).
 
