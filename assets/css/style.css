@@ -339,6 +339,14 @@ section {
   margin-bottom: 0;
 }
 
+.post-image {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+  margin: 1.5rem auto;
+}
+
 .image-caption {
   font-size: 0.9rem;
   color: #666;

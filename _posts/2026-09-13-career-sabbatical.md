@@ -50,7 +50,7 @@ The core intention I wrote down was:
 
 **Live in a way that replaces pressure with flow, and builds trust in myself.**
 
-I wanted to understand better how I work, how I feel alive. I wanted to go deeply into a few things that mattered. I wanted to spend meaningful time with my parents and stay curious about them. I wanted movement to be part of most days. And I wanted a lot of the rest to remain available rather than mandatory.
+I wanted to understand better how I work, how I feel alive. I wanted to go deeply into a few things that mattered. I wanted to spend meaningful time with my parents. I wanted movement to be part of most days. And I wanted a lot of the rest to remain available rather than mandatory.
 
 I wrote: **These are invitations, not obligations.**
 
@@ -76,7 +76,11 @@ I started learning shorthand, and now my whiteboards have been taken over by obs
 
 And I started learning violin, which was not on the original list. I’ve been drawn to strings for years and had vaguely imagined trying violin “someday.” During a ketamine-assisted psychotherapy training this summer, I had an experience of music that left me wanting to engage with it differently—to play with sound, to be inside the music. So I rented a violin.
 
-![A rented violin and a beginner method book on a music stand](/assets/images/violin.jpg)
+<img
+  class="post-image"
+  src="/assets/images/violin.jpg"
+  alt="A rented violin and a beginner method book on a music stand"
+>
 
 I quickly discovered that violin is not an instrument I should teach myself, so I found a teacher. It has been wonderfully fun. I’m approaching practice differently than I did music as a kid, when music was tangled up with obligation and being a good girl and doing what teachers and parents expected. Right now I am approaching it as a kind of mindfulness practice. What does it feel like to play an A-major scale badly, again and again? What is it like to move my fingers in this deeply unintuitive way? What is it like to be a beginner?
 
