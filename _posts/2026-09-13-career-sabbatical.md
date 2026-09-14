@@ -98,7 +98,7 @@ So I spent a good portion of the drive overthinking all of this. Somewhere under
 
 I want **deep client work**. I want the possibility of knowing people over time and being part of meaningful change in their lives. I take the long-term responsibility of that seriously. That is a large part of why I’m planning an every-other-week practice structure: I want to build a container I can realistically keep offering for years.
 
-I want to keep **[writing](/blog/) and [speaking](/speaking/)**. I love putting ideas together, noticing connections and trying to make them useful to other people, presenting live and seeing how the ideas land. That gives me a way to contribute more broadly than I can one client at a time. And there is a cost to it. Writing publicly involves vulnerability, exposure, sometimes disagreement, sometimes the suspicion that I have spent several hours explaining something nobody particularly needed. I think I want to choose it anyway.
+I want to keep **[writing](/blog/){:target="_blank" rel="noopener"} and [speaking](/speaking/){:target="_blank" rel="noopener"}**. I love putting ideas together, noticing connections and trying to make them useful to other people, presenting live and seeing how the ideas land. That gives me a way to contribute more broadly than I can one client at a time. And there is a cost to it. Writing publicly involves vulnerability, exposure, sometimes disagreement, sometimes the suspicion that I have spent several hours explaining something nobody particularly needed. I think I want to choose it anyway.
 
 I want **margin**. Not whatever scraps happen to remain after the important things are scheduled, but actual space around the edges: space for creativity to emerge, for the care and feeding of this highly sensitive nervous system, for husband and children and aging parents, for travel, and for life to happen without every unexpected need becoming a scheduling problem.
 
@@ -106,7 +106,7 @@ I suspect my best work comes more from a sense of abundance than from scraps. I 
 
 I want room for **bounded projects**: groups, intensives, trainings, collaborations, legacy book projects, things I haven’t encountered yet. I want space to test and pursue some of these creative bubblings-up. I like the idea of doing work that matters but still has a beginning and an end.
 
-And I want to keep **following sparks within the clinical path I’ve chosen**. That is largely how I got here. In grad school and afterward, I paid attention to the things that felt especially alive to me: existential work, post-religious folks, [ART](/blog/accelerated-resolution-therapy), NARM, [ketamine-assisted psychotherapy](/kap/), [gifted and neurodivergent clients](/blog/giftedness/). Lots of things are interesting, but I am learning to focus on my tippy-top favorites. 
+And I want to keep **following sparks within the clinical path I’ve chosen**. That is largely how I got here. In grad school and afterward, I paid attention to the things that felt especially alive to me: existential work, post-religious folks, [ART](/blog/accelerated-resolution-therapy){:target="_blank" rel="noopener"}, NARM, [ketamine-assisted psychotherapy](/kap/){:target="_blank" rel="noopener"}, [gifted and neurodivergent clients](/blog/giftedness/){:target="_blank" rel="noopener"}. Lots of things are interesting, but I am learning to focus on my tippy-top favorites. 
 
 ## Still in the middle
 
