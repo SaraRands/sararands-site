@@ -8,7 +8,7 @@ tags: [sabbatical, career, career transition, work design, creativity, financial
 
 A colleague asked if my sabbatical was a “gap year for grownups.” I laughed, but I heard the questions underneath the joke. 
 
-Clients, fellow therapists, friends have asked more directly. What exactly am I doing? What motivated it? Why seven months? What do you even *do* on a sabbatical if you’re not in academia?
+Clients, fellow therapists, and friends have asked more directly. What exactly am I doing? What motivated it? Why seven months? What do you even *do* on a sabbatical if you’re not in academia?
 
 I’m about halfway through now, so this seems like a good time to try to answer. 
 
@@ -28,7 +28,7 @@ There were things regular life kept pushing into the future. The biggest was int
 
 I also wanted time to think about the practice I was building. The default path after licensure would have been good enough: fill a caseload, open a practice, keep going. But I know therapists who have worked with some clients for decades. If I wanted to build something that could last, it seemed worth pausing to be sure about what I’m building, before momentum built it for me.
 
-There was a real cost to stopping. I care about my clients. Ending therapy relationships is a big deal, and I knew this from the other side. The previous year, my own therapist had taken a sabbatical. I was genuinely happy for her--even inspired, as it turns out--but I still felt a twinge of loss. I knew some of my own clients would feel some loss too. At the same time, this was the natural transition point, before I built the practice I hope to sustain for a long time.
+There was a real cost to stopping. I care about my clients. Ending therapy relationships is a big deal, and I knew this from the other side. The previous year, my own therapist had taken a sabbatical. I was genuinely happy for her---even inspired, as it turns out---but I still felt a twinge of loss. I knew some of my own clients would feel some loss too. At the same time, this was the natural transition point, before I built the practice I hope to sustain for a long time.
 
 Why seven months? Again, mostly intuition. A summer didn’t feel like enough. The rhythms of the therapy calendar offered some natural bookends, and reopening in January made sense. But mostly, seven months felt like enough room to actually shift gears.
 
@@ -98,7 +98,7 @@ So I spent a good portion of the drive overthinking all of this. Somewhere under
 
 I want **deep client work**. I want the possibility of knowing people over time and being part of meaningful change in their lives. I take the long-term responsibility of that seriously. That is a large part of why I’m planning an every-other-week practice structure: I want to build a container I can realistically keep offering for years.
 
-I want to keep **writing and speaking**. I love putting ideas together, noticing connections and trying to make them useful to other people, presenting live and seeing how the ideas land. That gives me a way to contribute more broadly than I can one client at a time. And there is a cost to it. Writing publicly involves vulnerability, exposure, sometimes disagreement, sometimes the suspicion that I have spent several hours explaining something nobody particularly needed. I think I want to choose it anyway.
+I want to keep **[writing](/blog/) and [speaking](/speaking/)**. I love putting ideas together, noticing connections and trying to make them useful to other people, presenting live and seeing how the ideas land. That gives me a way to contribute more broadly than I can one client at a time. And there is a cost to it. Writing publicly involves vulnerability, exposure, sometimes disagreement, sometimes the suspicion that I have spent several hours explaining something nobody particularly needed. I think I want to choose it anyway.
 
 I want **margin**. Not whatever scraps happen to remain after the important things are scheduled, but actual space around the edges: space for creativity to emerge, for the care and feeding of this highly sensitive nervous system, for husband and children and aging parents, for travel, and for life to happen without every unexpected need becoming a scheduling problem.
 
