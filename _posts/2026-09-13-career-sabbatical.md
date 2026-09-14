@@ -106,7 +106,7 @@ I suspect my best work comes more from a sense of abundance than from scraps. I 
 
 I want room for **bounded projects**: groups, intensives, trainings, collaborations, legacy book projects, things I haven’t encountered yet. I want space to test and pursue some of these creative bubblings-up. I like the idea of doing work that matters but still has a beginning and an end.
 
-And I want to keep **following sparks within the clinical path I’ve chosen**. That is largely how I got here. In grad school and afterward, I paid attention to the things that felt especially alive to me: existential work, post-religious folks, [ART](/blog/accelerated-resolution-therapy){:target="_blank" rel="noopener"}, NARM, [ketamine-assisted psychotherapy](/kap/){:target="_blank" rel="noopener"}, [gifted and neurodivergent clients](/blog/giftedness/){:target="_blank" rel="noopener"}. Lots of things are interesting, but I am learning to focus on my tippy-top favorites. 
+And I want to keep **following sparks** within the clinical path I’ve chosen. That is largely how I got here. In grad school and afterward, I paid attention to the things that felt especially alive to me: existential work, post-religious folks, [ART](/blog/accelerated-resolution-therapy){:target="_blank" rel="noopener"}, NARM, [ketamine-assisted psychotherapy](/kap/){:target="_blank" rel="noopener"}, [gifted and neurodivergent clients](/blog/giftedness/){:target="_blank" rel="noopener"}. Lots of things are interesting, but I am learning to focus on my tippy-top favorites. 
 
 ## Still in the middle
 
