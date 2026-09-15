@@ -2,7 +2,7 @@
 layout: post
 title: "Hyper-Independence: The Loneliness of Being the Competent One"
 description: "Some gifted adults learn to connect through competence and usefulness. But admiration is not the same as being known, and it can become deeply lonely."
-tags: [giftedness, hyperindependence]
+tags: [giftedness, hyper-independence]
 ---
 
 Some people learn early that being capable is a reliable way to connect.
@@ -93,7 +93,7 @@ The painful answer may be that being needed has felt safer than needing.
 
 If competence has become central to safety and connection, other people's mistakes can carry more emotional weight than they seem to deserve.
 
-A forgotten detail, a poorly handled task, or a misunderstanding may not register as an ordinary human misstep. It may evoke [the old experience of being surrounded by people who cannot be relied upon](/2026-08-16-trauma-neurodivergence-why-not-both/).
+A forgotten detail, a poorly handled task, or a misunderstanding may not register as an ordinary human misstep. It may evoke [the old experience of being surrounded by people who cannot be relied upon](/blog/trauma-neurodivergence-why-not-both/).
 
 The response may be irritation, contempt, disappointment, or a quick decision that the person is no longer worth trusting.
 
@@ -111,7 +111,7 @@ People who are comfortable giving help may be surprisingly uncomfortable receivi
 
 They may reject assistance because it will not be done correctly. They may struggle to delegate, explain too much, or redo the task later. They may say they want support while making it nearly impossible for another person to offer it successfully.
 
-This is not always [perfectionism](/2026-08-02-gifted-and-average/). Sometimes it is a problem of trust.
+This is not always [perfectionism](/gifted-and-average/). Sometimes it is a problem of trust.
 
 Depending on someone means accepting that they may:
 
@@ -182,7 +182,7 @@ A therapist may be impressed by a gifted client's insight, competence, vocabular
 
 All of that can be genuine.
 
-But [useful therapy](/2026-07-26-gifted-informed-therapy/) also makes room for the person who does not yet know.
+But [useful therapy](/gifted-informed-therapy/) also makes room for the person who does not yet know.
 
 A therapist can appreciate competence without assuming it means the client needs less care. They can tolerate questions and corrections without competing. They can survive ordinary misattunements and participate in repair.
 

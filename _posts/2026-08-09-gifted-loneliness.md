@@ -123,7 +123,7 @@ Being more visible about your real interests also helps compatible people recogn
 
 I think of Shel Silverstein's poem "Masks." Two people with blue skin both hide it, then spend their lives looking for someone like themselves—only to pass each other without knowing.
 
-It is a perfect image for the cost of successful [masking](/2026-08-16-trauma-neurodivergence-why-not-both/). When you work hard not to look strange, the people who might recognize and delight in your particular kind of strangeness may not be able to find you.
+It is a perfect image for the cost of successful [masking](/trauma-neurodivergence-why-not-both/). When you work hard not to look strange, the people who might recognize and delight in your particular kind of strangeness may not be able to find you.
 
 Letting more of yourself show can require courage, especially if you learned early to carefully edit what you communicated. But it is difficult for the other weirdos to recognize you while you are working hard not to look weird.
 

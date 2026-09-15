@@ -35,7 +35,7 @@ Like an understimulated border collie that gets into trouble, a gifted mind with
 
 Left without a sufficiently interesting problem, a gifted brain may find one. It can spend three hours researching the optimal way to organize a closet, develop an entire theory of why someone put a period at the end of a text, or decide that what began as "I should probably go to bed" is actually an excellent time to reconsider its career, marriage, political philosophy, and relationship to mortality.
 
-It may pour its intelligence into anxiety. (Anxiety is, among other things, cognitively stimulating.) It may become preoccupied with existential questions that feel less like philosophy and more like being trapped in a room with an alarm nobody else can hear. It may [protect the identity of being smart](/2026-08-02-gifted-and-average/) by demanding perfection before attempting anything new and difficult. Or it may manufacture a complicated problem out of whole cloth, because that is what minds do when nothing else is on offer.
+It may pour its intelligence into anxiety. (Anxiety is, among other things, cognitively stimulating.) It may become preoccupied with existential questions that feel less like philosophy and more like being trapped in a room with an alarm nobody else can hear. It may [protect the identity of being smart](/gifted-and-average/) by demanding perfection before attempting anything new and difficult. Or it may manufacture a complicated problem out of whole cloth, because that is what minds do when nothing else is on offer.
 
 Much of this is rumination: thinking that feels like problem-solving but does not resolve anything, and tends to leave the person feeling worse rather than better.
 
@@ -57,7 +57,7 @@ Meanwhile, the body is communicating in a quieter language: a tightening in the 
 
 But emotions do not disappear because we fail to notice them. They keep shaping attention, decisions, relationships, and behavior. Unacknowledged emotions act like an undertow: powerful, mostly invisible, and capable of pulling us somewhere we did not consciously choose.
 
-Even people who identify themselves mostly with their brain still have emotions, and still have bodies that register them. Without [enough room to notice the emotional and physical layers of experience](/2026-07-26-gifted-informed-therapy/), those layers may steer the person silently.
+Even people who identify themselves mostly with their brain still have emotions, and still have bodies that register them. Without [enough room to notice the emotional and physical layers of experience](/gifted-informed-therapy/), those layers may steer the person silently.
 
 ## Mindfulness can be boring
 

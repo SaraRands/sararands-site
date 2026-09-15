@@ -2,7 +2,7 @@
 layout: post
 title: "When Calm Isn't Regulation: Gifted Dysregulation That Looks Logical"
 description: "Gifted adults do not always look visibly dysregulated. Under stress, intelligence can become rigid—cut off from emotion, curiosity, and important information."
-tags: [giftedness, emotions]
+tags: [giftedness, emotions, intellectualizing]
 ---
 
 When people imagine emotional dysregulation, they often picture something visible: crying, yelling, panic, impulsivity, or losing control.
@@ -15,7 +15,7 @@ A person may become more articulate, more analytical, and more certain. They may
 
 And they may have very little access to what is happening emotionally inside them.
 
-This is not only a problem for people who are [generally disconnected from their emotions](/2026-09-20-gifted-intellectualizing/). Someone can be quite in touch with what they feel most of the time and lose that access under threat. The capacity is there. It goes offline exactly when it would be most useful.
+This is not only a problem for people who are [generally disconnected from their emotions](/gifted-intellectualizing/). Someone can be quite in touch with what they feel most of the time and lose that access under threat. The capacity is there. It goes offline exactly when it would be most useful.
 
 For [gifted adults](/blog/giftedness/), intelligence can make this state especially difficult to recognize. The mind is still working—sometimes impressively. But it is working with incomplete information.
 
@@ -91,7 +91,7 @@ This can create the familiar claim that one person is "logical" while someone el
 
 Giftedness can strengthen this protective pattern because the argument may be genuinely sophisticated. A person can construct a highly coherent explanation while remaining unaware that their perspective has narrowed.
 
-This is not exclusively male. [Women whose safety, identity, or belonging has depended on competence](/2026-09-06-hyper-independence/) can develop the same style. The central issue is not gender but the belief that reason requires disconnection from emotion.
+This is not exclusively male. [Women whose safety, identity, or belonging has depended on competence](/hyper-independence/) can develop the same style. The central issue is not gender but the belief that reason requires disconnection from emotion.
 
 ## The cost of being cut off
 
