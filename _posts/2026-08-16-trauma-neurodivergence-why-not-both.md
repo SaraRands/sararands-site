@@ -93,7 +93,7 @@ Watching a baby struggle can feel uncomfortable. You do not leave the baby there
 
 The goal is not the absence of distress. The goal is supported, tolerable distress that allows capacity to grow.
 
-Some discomfort signals that something is wrong. Some is the ordinary feeling of stretching beyond what is easy. [Good support requires curiosity about which is which.](/autism-driving/)
+Some discomfort signals that something is wrong. Some is the ordinary feeling of stretching beyond what is easy. [Good support requires curiosity about which is which.](/blog/autism-driving/)
 
 ## Why therapists cannot be certain about origin stories
 
@@ -115,7 +115,7 @@ The more trauma training I have done, the more comfortable I have become using t
 
 In my experience, yes.
 
-I have seen—and personally experienced—that trauma-focused and bottom-up approaches such as the **NeuroAffective Relational Model (NARM)**, [**Accelerated Resolution Therapy (ART)**](/accelerated-resolution-therapy/), and EMDR help neurodivergent clients become more aware of bodily experience, more emotionally fluent, less governed by shame, and more flexible in the ways they respond to themselves and other people.
+I have seen—and personally experienced—that trauma-focused and bottom-up approaches such as the **NeuroAffective Relational Model (NARM)**, [**Accelerated Resolution Therapy (ART)**](/blog/accelerated-resolution-therapy/), and EMDR help neurodivergent clients become more aware of bodily experience, more emotionally fluent, less governed by shame, and more flexible in the ways they respond to themselves and other people.
 
 That is a major reason I pursued this training. I was not primarily looking to become a general trauma specialist. I wanted more powerful tools for helping gifted and neurodivergent clients access the emotional layer of their experience and live from more of their full humanity.
 

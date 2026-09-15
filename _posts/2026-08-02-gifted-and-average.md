@@ -101,7 +101,7 @@ I think of a talented artist who illustrated a children's book and could not enj
 
 Avoidance can protect the identity. You cannot discover that you are an average musician if you never take lessons. You cannot be rejected on a date if you never ask anyone out. You cannot write a mediocre first draft if you keep researching the book instead of beginning it.
 
-This is [perfectionism](/trauma-neurodivergence-why-not-both/), though it does not always look like the tidy, high-achieving version. Sometimes perfectionism looks like a person who never starts. Gifted underachievement is often described as a motivation problem. It may be closer to a protection problem.
+This is [perfectionism](/blog/trauma-neurodivergence-why-not-both/), though it does not always look like the tidy, high-achieving version. Sometimes perfectionism looks like a person who never starts. Gifted underachievement is often described as a motivation problem. It may be closer to a protection problem.
 
 The cost is that protecting the identity of being gifted can prevent the person from building a life.
 
@@ -148,7 +148,7 @@ you can ask:
 - What holds my attention?
 - What kind of work feels meaningful?
 - Where do my interests and abilities meet something other people need?
-- What [relationships](/gifted-loneliness/) make me more alive?
+- What [relationships](/blog/gifted-loneliness/) make me more alive?
 - What am I willing to practice, even when I am not immediately good at it?
 - What kind of ordinary days would I be glad to live repeatedly?
 

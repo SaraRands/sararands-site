@@ -48,7 +48,7 @@ Giftedness also shapes connection. Some gifted people grow up feeling peculiar o
 
 Equal worth does not mean that every relationship offers the same kind of connection. For someone who has rarely experienced a good cognitive fit, finding it can feel like discovering that a part of themselves they considered excessive is actually welcome.
 
-That kind of [friendship is worth being deliberate about](/gifted-loneliness/), and it is often something therapy can help a person pursue rather than quietly conclude is unavailable.
+That kind of [friendship is worth being deliberate about](/blog/gifted-loneliness/), and it is often something therapy can help a person pursue rather than quietly conclude is unavailable.
 
 ## Intelligence as one part of a whole person
 
@@ -58,13 +58,13 @@ Neither approach offers much integration. A healthier message might be:
 
 > Yes, intelligence is a real and meaningful part of how you are wired. It matters in some settings and not in others. It does not make you more worthy, and it does not exempt you from developing the rest of yourself.
 
-Therapy can help loosen an identity organized around being impressive. The goal is not to pressure someone to live up to their potential. It is to stop protecting that identity at the expense of a fuller life—which often means [making peace with being average at most things](/gifted-and-average/).
+Therapy can help loosen an identity organized around being impressive. The goal is not to pressure someone to live up to their potential. It is to stop protecting that identity at the expense of a fuller life—which often means [making peace with being average at most things](/blog/gifted-and-average/).
 
 ## Work, burnout, and uneven functioning
 
 Gifted adults may need complexity, autonomy, novelty, or meaningful work. They may become depleted in environments that require chronic repetition, conformity, or intellectual underuse.
 
-At the same time, giftedness can overlap with [ADHD, autism](/trauma-neurodivergence-why-not-both/), sensory sensitivity, perfectionism, and executive-functioning difficulties. When high ability occurs alongside a disability or neurodevelopmental difference, the combination is often called twice-exceptional, or 2e. A person may be highly capable in one domain and need genuine support in another.
+At the same time, giftedness can overlap with [ADHD, autism](/blog/trauma-neurodivergence-why-not-both/), sensory sensitivity, perfectionism, and executive-functioning difficulties. When high ability occurs alongside a disability or neurodevelopmental difference, the combination is often called twice-exceptional, or 2e. A person may be highly capable in one domain and need genuine support in another.
 
 This can be confusing both internally and externally. Other people may assume that someone who can solve an unusually difficult problem should also be able to manage paperwork, keep a consistent routine, tolerate a chaotic workplace, or complete every ordinary task with ease.
 

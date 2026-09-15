@@ -69,7 +69,7 @@ Alexithymia is not a diagnosis. It is a dimensional trait, present by degree rat
 
 It is also not quite the same as what I have been describing. Ask someone whose mind converts feeling into analysis what they are feeling, and they may honestly not be able to say. From the outside those look identical. But the emotion is not absent or unreachable—it was overwritten before it could register. That is a difference in speed rather than a deficit, and it responds to different work.
 
-The capacity underneath both is interoception: the sense of what is happening inside the body. It can be practiced. In my experience it improves with sustained attention, and with approaches like [ART](/accelerated-resolution-therapy/) that work below the level of explanation.
+The capacity underneath both is interoception: the sense of what is happening inside the body. It can be practiced. In my experience it improves with sustained attention, and with approaches like [ART](/blog/accelerated-resolution-therapy/) that work below the level of explanation.
 
 None of this means alexithymia is never worth addressing. The question is whether it is costing this particular person something. Someone who simply does not narrate feelings much, and whose life and relationships are working, is in a different position from someone whose body has become the only part still doing the talking.
 
@@ -150,9 +150,9 @@ That does not mean nothing is happening. It may simply mean this is a less-pract
 
 If you are bad at volleyball, you do not expect to become good after trying it twice. You practice tracking the ball, positioning your body, and responding at the right moment. Emotional awareness also develops through repeated attention.
 
-Meditation has been useful to me in part because [my brain is fast, while my body and nervous system often need slow](/gifted-mind-sensitive-nervous-system/). The practice is not about eliminating thought. It is about becoming quiet enough to hear information that thought can otherwise drown out.
+Meditation has been useful to me in part because [my brain is fast, while my body and nervous system often need slow](/blog/gifted-mind-sensitive-nervous-system/). The practice is not about eliminating thought. It is about becoming quiet enough to hear information that thought can otherwise drown out.
 
-[Therapy can provide another place to practice.](/gifted-informed-therapy/) A therapist can help slow down an experience, notice shifts in the body, identify the emotion underneath the explanation, and build enough agency to remain present without becoming overwhelmed or immediately turning the feeling into a conclusion.
+[Therapy can provide another place to practice.](/blog/gifted-informed-therapy/) A therapist can help slow down an experience, notice shifts in the body, identify the emotion underneath the explanation, and build enough agency to remain present without becoming overwhelmed or immediately turning the feeling into a conclusion.
 
 The goal is not to become less intelligent or less analytical.
 

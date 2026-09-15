@@ -111,7 +111,7 @@ People who are comfortable giving help may be surprisingly uncomfortable receivi
 
 They may reject assistance because it will not be done correctly. They may struggle to delegate, explain too much, or redo the task later. They may say they want support while making it nearly impossible for another person to offer it successfully.
 
-This is not always [perfectionism](/gifted-and-average/). Sometimes it is a problem of trust.
+This is not always [perfectionism](/blog/gifted-and-average/). Sometimes it is a problem of trust.
 
 Depending on someone means accepting that they may:
 
@@ -182,7 +182,7 @@ A therapist may be impressed by a gifted client's insight, competence, vocabular
 
 All of that can be genuine.
 
-But [useful therapy](/gifted-informed-therapy/) also makes room for the person who does not yet know.
+But [useful therapy](/blog/gifted-informed-therapy/) also makes room for the person who does not yet know.
 
 A therapist can appreciate competence without assuming it means the client needs less care. They can tolerate questions and corrections without competing. They can survive ordinary misattunements and participate in repair.
 
