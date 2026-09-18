@@ -11,7 +11,7 @@ And now we own real estate together. It’s absurd, really.
 
 Oun wedding cake had a topper that said **So Lucky**. We absolutely are. We won the Bumble lottery.
 
-And yet this is a common story. Plenty of folks have won some version of the online dating lottery. [By 2017, meeting online was the most common way United States couples met](https://news.stanford.edu/stories/2019/08/online-dating-popular-way-u-s-couples-meet). I know so many people who have found wonderful relationships in midlife.
+And yet this is a common story. Plenty of folks have won some version of the online dating lottery. [By 2017, meeting online was the most common way United States heterosexual couples met](https://news.stanford.edu/stories/2019/08/online-dating-popular-way-u-s-couples-meet). I know so many people who have found wonderful relationships in midlife.
 
 We are lucky. 
 

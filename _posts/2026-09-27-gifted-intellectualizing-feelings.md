@@ -19,9 +19,7 @@ Imagine that something unsettling happens in a close relationship.
 
 Before you have fully noticed the tightness in your chest or the sinking sensation in your stomach, your mind is already working. It is explaining what happened, identifying the other person's motives, connecting the event to previous experiences, predicting what will happen next, and deciding what should be done.
 
-This thinking may be perceptive and useful.
-
-But it might not be.
+This thinking may be perceptive and useful. But it might not be.
 
 Emotions are powerful. They influence what we notice, which memories become available, how we interpret ambiguity, and how certain we feel about our conclusions. A gifted mind can produce a sophisticated and highly persuasive explanation while fear, anger, hurt, or shame is quietly organizing the whole argument.
 
@@ -63,13 +61,13 @@ A person may understand their history in remarkable detail but struggle to ident
 
 ## A word about alexithymia
 
-There is a term for persistent difficulty identifying and describing feelings: alexithymia. It is worth knowing and worth holding loosely.
+There is a term for persistent difficulty identifying and describing feelings: **alexithymia**. It is worth knowing and worth holding loosely.
 
-Alexithymia is not a diagnosis. It is a dimensional trait, present by degree rather than by threshold. It is also elevated in autistic adults, and there is a research thread arguing that some difficulties commonly attributed to autism may track alexithymia instead.
+Alexithymia is not a diagnosis. It is a trait. It is also elevated in autistic adults, and there is a research thread arguing that some difficulties commonly attributed to autism may track alexithymia instead.
 
 It is also not quite the same as what I have been describing. Ask someone whose mind converts feeling into analysis what they are feeling, and they may honestly not be able to say. From the outside those look identical. But the emotion is not absent or unreachable—it was overwritten before it could register. That is a difference in speed rather than a deficit, and it responds to different work.
 
-The capacity underneath both is interoception: the sense of what is happening inside the body. It can be practiced. In my experience it improves with sustained attention, and with approaches like [ART](/blog/accelerated-resolution-therapy/) that work below the level of explanation.
+The capacity underneath both is **interoception**: the sense of what is happening inside the body. It can be practiced. In my experience it improves with sustained attention, and with approaches like [ART](/blog/accelerated-resolution-therapy/) that work below the level of explanation.
 
 None of this means alexithymia is never worth addressing. The question is whether it is costing this particular person something. Someone who simply does not narrate feelings much, and whose life and relationships are working, is in a different position from someone whose body has become the only part still doing the talking.
 

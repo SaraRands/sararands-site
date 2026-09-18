@@ -11,7 +11,7 @@ Some [gifted](/blog/giftedness/) minds are a little like that.
 
 They need difficult, personally meaningful work—something interesting enough to absorb all that cognitive energy.
 
-But some gifted people are also what Elaine Aron called highly sensitive: they take in sensory and emotional input more deeply and are more easily overwhelmed by it. For them, the nervous system may simultaneously need quiet, slowness, and less input.
+But some gifted people are also what [Elaine Aron called highly sensitive](https://hsperson.com/): they take in sensory and emotional input more deeply and are more easily overwhelmed by it. For them, the nervous system may simultaneously need quiet, slowness, and less input.
 
 I see this combination often in my clients. And I know it from inside my own body.
 
@@ -21,7 +21,7 @@ The best kind of mental work is chosen, absorbing, and difficult enough that the
 
 My body has different needs.
 
-My nervous system benefits from quiet, pause, movement, time without screens, and stretches when nothing new is being fed into it. It likes meditation, Pilates, crocheting, dancing, watching the sun rise or set, and giving full attention to the person in front of me.
+My nervous system benefits from quiet, pause, movement, time without screens, and stretches when nothing new is being fed into it. It likes meditation, pilates, crocheting, dancing, watching the sun rise or set, and giving full attention to the person in front of me.
 
 The gifted mind needs exercise.
 
@@ -51,7 +51,9 @@ The point is not achievement. The point is giving the mind something it genuinel
 
 ## The body is not another problem for the mind to solve
 
-A fast mind can easily assume it is the whole person. It explains. It predicts. It connects ideas. It generates possibilities. It wants to turn every experience into something that can be understood, categorized, optimized, or fixed.
+A fast mind can easily assume it is the whole person. As Emo Philips said, “I used to think the brain was the most wonderful organ in my body. Then I realized who was telling me this.”
+
+The mind explains, predicts, connects ideas, generates possibilities. It wants to turn every experience into something that can be understood, categorized, optimized, or fixed.
 
 Meanwhile, the body is communicating in a quieter language: a tightening in the chest, a heaviness behind the eyes, a sudden wish to run away, a sense of warmth, a stomach that drops, fatigue that arrives before the mind agrees there is any reason to be tired. The mind can move so quickly that it begins interpreting the experience before the experience has fully registered.
 
@@ -73,7 +75,7 @@ Formal meditation is not the only way to practice mindfulness. Mindfulness can m
 
 The boredom is not necessarily a flaw. Sometimes it is the space through which quieter information arrives.
 
-For some people with [significant trauma histories](/blog/trauma-neurodivergence-why-not-both/), extended stillness can be overwhelming or dysregulating. Mindfulness may need to be brief, guided, movement-based, or approached with therapeutic support. If it starts to feel painful, stop; as with physical exercise, more is not always better.
+For some people with [significant trauma histories](/blog/trauma-neurodivergence-why-not-both/), extended stillness can be overwhelming or dysregulating. Mindfulness may need to be brief, guided, movement-based, or approached with therapeutic support. [If it starts to feel painful, stop; as with physical exercise, more is not always better.](https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/)
 
 The goal is not to prove that you can sit still. The goal is to create enough room for more of your experience to reach awareness.
 
@@ -101,9 +103,7 @@ A gentler response works better:
 
 > There, there, little brain. There you go, doing brain stuff. Now isn't the time for brain stuff. Now is time to rest. I promise that in the morning you can look at this threat and see if there's something to it.
 
-The brain is not wrong for doing what brains do.
-
-It is simply not the only part of you whose needs matter.
+The brain is not wrong for doing what brains do. It is simply not the only part of you whose needs matter.
 
 ## Organize life for both
 

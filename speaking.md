@@ -28,6 +28,17 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 
 ---
 
+## Upcoming Talks
+
+### How to Care about Everything without Carrying Everything: Reflections on Politics, the News, and the State of the World
+* Salt Lake Oasis
+    * Sunday, October 4, 2026
+    * 11 am
+    * Parker Theatre Studio
+        North Building
+        3601 S State Street
+        South Salt Lake
+
 ## Talks
 
 ### Navigating the Void: Faith Transitions Through an Existential Lens

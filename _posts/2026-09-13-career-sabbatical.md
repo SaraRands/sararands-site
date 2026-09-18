@@ -80,7 +80,7 @@ And I started learning violin, which was not on the original list. I’ve been d
 
 I quickly discovered that violin is not an instrument I should teach myself, so I found a teacher. It has been wonderfully fun. I’m approaching practice differently than I did music as a kid, when music was tangled up with obligation and being a good girl and doing what teachers and parents expected. Right now I am approaching it as a kind of mindfulness practice. What does it feel like to play an A-major scale badly, again and again? What is it like to move my fingers in this unintuitive way? What is it like to be a beginner?
 
-Of course, plenty of the sabbatical is much more ordinary. I play a dumb phone game many afternoons. I still spend more time on Reddit than I want to, reading the same human dramas I have been reading for more than a decade. Sometimes I don’t walk or do Pilates or eat the way I intended. 
+Of course, plenty of the sabbatical is much more ordinary. I play a dumb phone game many afternoons. I still spend more time on Reddit than I want to, reading the same human dramas I have been reading for more than a decade. Sometimes I don’t walk or do pilates or eat the way I intended. 
 
 And meanwhile, quite a lot of what matters to me is happening.
 
