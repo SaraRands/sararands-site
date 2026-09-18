@@ -39,6 +39,8 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
         3601 S State Street
         South Salt Lake
 
+---
+
 ## Talks
 
 ### Navigating the Void: Faith Transitions Through an Existential Lens
