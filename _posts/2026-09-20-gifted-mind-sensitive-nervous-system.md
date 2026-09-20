@@ -51,7 +51,9 @@ The point is not achievement. The point is giving the mind something it genuinel
 
 ## The body is not another problem for the mind to solve
 
-A fast mind can easily assume it is the whole person. As Emo Philips said, “I used to think the brain was the most wonderful organ in my body. Then I realized who was telling me this.”
+A fast mind can easily assume it is the whole person. 
+
+As Emo Philips said, “I used to think the brain was the most wonderful organ in my body. Then I realized who was telling me this.”
 
 The mind explains, predicts, connects ideas, generates possibilities. It wants to turn every experience into something that can be understood, categorized, optimized, or fixed.
 
@@ -65,7 +67,7 @@ Even people who identify themselves mostly with their brain still have emotions,
 
 Many people do not meditate because meditation is boring.
 
-Yes. It is boring.
+Yup. It is boring.
 
 But meditation's job is not to exercise the mind. One of its jobs is to stop feeding the mind long enough for the rest of the person to become audible.
 
@@ -75,7 +77,7 @@ Formal meditation is not the only way to practice mindfulness. Mindfulness can m
 
 The boredom is not necessarily a flaw. Sometimes it is the space through which quieter information arrives.
 
-For some people with [significant trauma histories](/blog/trauma-neurodivergence-why-not-both/), extended stillness can be overwhelming or dysregulating. Mindfulness may need to be brief, guided, movement-based, or approached with therapeutic support. [If it starts to feel painful, stop; as with physical exercise, more is not always better.](https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/)
+For some people with significant trauma histories, extended stillness can be overwhelming or dysregulating. Mindfulness may need to be brief, guided, movement-based, or approached with therapeutic support. [If it starts to feel painful, stop; as with physical exercise, more is not always better.](https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/)
 
 The goal is not to prove that you can sit still. The goal is to create enough room for more of your experience to reach awareness.
 

@@ -31,7 +31,7 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 ## Upcoming Talks
 
 ### How to Care about Everything without Carrying Everything: Reflections on Politics, the News, and the State of the World
-* Salt Lake Oasis
+* [Salt Lake Oasis](https://www.saltlakeoasis.org/events/4-Oct-2026)
     * Sunday, October 4, 2026
     * 11 am
     * Parker Theatre Studio
