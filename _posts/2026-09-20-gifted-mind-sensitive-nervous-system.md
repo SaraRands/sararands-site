@@ -9,7 +9,7 @@ A smart working dog needs something to do. Without enough exercise and stimulati
 
 Some [gifted](/blog/giftedness/) minds are a little like that.
 
-They need difficult, personally meaningful work—something interesting enough to absorb all that cognitive energy.
+They need difficult, personally meaningful work: something interesting enough to absorb all that cognitive energy.
 
 But some gifted people are also what [Elaine Aron called highly sensitive](https://hsperson.com/): they take in sensory and emotional input more deeply and are more easily overwhelmed by it. For them, the nervous system may simultaneously need quiet, slowness, and less input.
 
@@ -31,11 +31,9 @@ Building a life that makes room for both is more complicated than it sounds.
 
 ## Give the working dog a job
 
-Like an understimulated border collie that gets into trouble, a gifted mind without enough meaningful engagement is likely to find stimulation somehow, even if it is destructive.
+Like an understimulated border collie that gets into trouble, a gifted mind without enough meaningful engagement is likely to find stimulation somehow, even if it is destructive. 
 
-Left without a sufficiently interesting problem, a gifted brain may find one. It can spend three hours researching the optimal way to organize a closet, develop an entire theory of why someone put a period at the end of a text, or decide that what began as "I should probably go to bed" is actually an excellent time to reconsider its career, marriage, political philosophy, and relationship to mortality.
-
-It may pour its intelligence into anxiety. (Anxiety is, among other things, cognitively stimulating.) It may become preoccupied with existential questions that feel less like philosophy and more like being trapped in a room with an alarm nobody else can hear. It may [protect the identity of being smart](/blog/gifted-and-average/) by demanding perfection before attempting anything new and difficult. Or it may manufacture a complicated problem out of whole cloth, because that is what minds do when nothing else is on offer.
+It may pour its intelligence into anxiety. (Anxiety is cognitively stimulating in all the wrong ways.) It may become preoccupied with existential questions that feel less like philosophy and more like being trapped in a room with an alarm nobody else can hear. It may [protect the identity of being smart](/blog/gifted-and-average/) by demanding perfection before attempting anything new and difficult. Or it may manufacture a complicated problem out of whole cloth, because that is what minds do when nothing else is on offer.
 
 Much of this is rumination: thinking that feels like problem-solving but does not resolve anything, and tends to leave the person feeling worse rather than better.
 
@@ -57,7 +55,7 @@ As Emo Philips said, “I used to think the brain was the most wonderful organ i
 
 The mind explains, predicts, connects ideas, generates possibilities. It wants to turn every experience into something that can be understood, categorized, optimized, or fixed.
 
-Meanwhile, the body is communicating in a quieter language: a tightening in the chest, a heaviness behind the eyes, a sudden wish to run away, a sense of warmth, a stomach that drops, fatigue that arrives before the mind agrees there is any reason to be tired. The mind can move so quickly that it begins interpreting the experience before the experience has fully registered.
+Meanwhile, the body is communicating in a quieter language: a tightening in the chest, a heaviness behind the eyes, a sudden wish to run away, a sense of warmth, a stomach that drops, fatigue that arrives before the mind agrees there is any reason to be tired. [The mind can move so quickly that it begins interpreting the experience before the experience has fully registered.](/blog/gifted-intellectualizing-feelings)
 
 But emotions do not disappear because we fail to notice them. They keep shaping attention, decisions, relationships, and behavior. Unacknowledged emotions act like an undertow: powerful, mostly invisible, and capable of pulling us somewhere we did not consciously choose.
 
