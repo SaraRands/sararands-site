@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Intellectualizing Feelings: When a Gifted Mind Gets There First"
+title: "When Thinking Is Faster Than Feeling"
+seo_title: "Gifted Adults, Intellectualization, and Fast Thinking | Sara Rands"
 description: "For some gifted adults, the mind analyzes an experience before the emotion registers. How to tell intellectualization from a fast mind, and what helps."
 tags: [giftedness, emotions, intellectualizing]
 ---
@@ -13,7 +14,7 @@ Emotional and bodily awareness may be less practiced.
 
 This does not mean gifted adults have fewer feelings. It means the mind may begin explaining what happened before the emotional and bodily experience has fully registered.
 
-## When thought gets there first
+## When the mind makes a story before emotion registers
 
 Imagine that something unsettling happens in a close relationship.
 
@@ -21,88 +22,88 @@ Before you have fully noticed the tightness in your chest or the sinking sensati
 
 This thinking may be perceptive and useful. But it might not be.
 
-Emotions are powerful. They influence what we notice, which memories become available, how we interpret ambiguity, and how certain we feel about our conclusions. A gifted mind can produce a sophisticated and highly persuasive explanation while fear, anger, hurt, or shame is quietly organizing the whole argument.
+Emotions are powerful. They influence what we notice, which memories become available, how we interpret ambiguity, and how certain we feel about our conclusions. A fast, intelligent mind can produce a sophisticated and persuasive explanation while fear, anger, hurt, or shame is quietly organizing the whole argument.
 
-The person may not look obviously upset. They may sound calm, logical, and unusually certain. Their intelligence is still working—but it may be working within a narrowed, rigid emotional frame.
+The person may not look obviously upset. They may sound calm, logical, and unusually certain. Their intelligence is still working, but it may be working within a narrowed, rigid emotional frame.
 
-## Intellectualization is not always a defense
+## The body, the feeling, and the story
 
-Therapists have a word for this pattern: intellectualization.
+I find it useful to separate an emotional experience into three related pieces:
 
-Intellectualization means using thought to keep feeling at a distance.
-
-The important word is "using." Thinking becomes a defense when it has a job to do—when it is holding something away. It is not a defense when a person simply thinks fast.
-
-From the outside, those look identical.
-
-A therapist cannot tell, from the analysis alone, whether a client is working through something or steering around it. But the analysis is the part you can see, and visible things are easy to name. That is how an ordinary way of thinking gets turned into a symptom.
-
-My default is to assume that a fast mind is a fast mind. A few things help me tell the difference:
-
-- **Does the thinking generate or circle?** Defensive thinking tends to produce new versions of the same position. Natural cognitive speed tends to get somewhere.
-- **What happens when the pace slows?** If emotion becomes available once there is room, the thinking was not blocking anything. If slowing produces blankness or alarm, something may be being held at a distance.
-- **Is it costing anything?** Defenses are expensive to maintain. Thinking that coexists with emotional access is usually not defending against much.
-
-Telling a gifted person that their ordinary way of thinking is a defense can reproduce the exact injury many of them arrived with.
-
-It is also sometimes accurate. A gifted client can be genuinely skilled at drawing a therapist into an interesting conversation that goes nowhere near the thing. Both possibilities need to stay on the table.
-
-## Uneven development is still development
-
-Giftedness is often associated with asynchronous development: different capacities developing at different rates.
-
-A child may be able to discuss philosophy, understand complex systems, or read far beyond grade level while still having an ordinary child's capacity for frustration, relationships, and emotional regulation. Cognitive development does not automatically bring every other part of the person along with it.
-
-Over time, the cognitive pathway may become increasingly strong because it is used so often. Emotional awareness, bodily attention, and the ability to remain present with uncertainty may receive much less practice.
-
-That can continue into adulthood.
-
-A person may understand their history in remarkable detail but struggle to identify what they feel during a conflict. They may be able to explain their relationship patterns while remaining disconnected from what they want. They may recognize an emotion only after it has become a firm conclusion, a physical symptom, a sudden reaction, or an elaborate case against someone they love.
-
-## A word about alexithymia
-
-There is a term for persistent difficulty identifying and describing feelings: **alexithymia**. It is worth knowing and worth holding loosely.
-
-Alexithymia is not a diagnosis. It is a trait. It is also elevated in autistic adults, and there is a research thread arguing that some difficulties commonly attributed to autism may track alexithymia instead.
-
-It is also not quite the same as what I have been describing. Ask someone whose mind converts feeling into analysis what they are feeling, and they may honestly not be able to say. From the outside those look identical. But the emotion is not absent or unreachable—it was overwritten before it could register. That is a difference in speed rather than a deficit, and it responds to different work.
-
-The capacity underneath both is **interoception**: the sense of what is happening inside the body. It can be practiced. In my experience it improves with sustained attention, and with approaches like [ART](/blog/accelerated-resolution-therapy/) that work below the level of explanation.
-
-None of this means alexithymia is never worth addressing. The question is whether it is costing this particular person something. Someone who simply does not narrate feelings much, and whose life and relationships are working, is in a different position from someone whose body has become the only part still doing the talking.
-
-Insight is valuable. But insight about emotion is not always the same as experiencing and integrating emotion.
-
-## Three parts of an emotional experience
-
-It can help to separate an emotional experience into three related parts:
-
-1. **The bodily experience.** Tightness, heat, heaviness, agitation, numbness, a racing heart, or an impulse to move toward or away from something.
+1. **The bodily experience.** Tightness, heat, heaviness, agitation, numbness, a racing heart, or an impulse to move toward or away from something. The ability to notice internal bodily signals is called **interoception**.
 2. **The emotion.** Fear, anger, sadness, hurt, shame, joy, disgust, longing, or another feeling we recognize and name.
 3. **The story or meaning.** *That jerk cut me off. She does not respect me. I am going to be rejected. He did that deliberately. This relationship is no longer safe.*
 
 These parts interact, and they do not always arrive in a tidy order. But distinguishing them can create useful space.
 
-The bodily experience is real. The emotion is real. The first story the mind produces may or may not be accurate.
+The bodily experience is real. The emotion is real. 
 
-When the story arrives quickly, it can intensify the emotion, which then generates more evidence for the story. A fast mind can build this loop with impressive speed.
+The first story the mind produces may or may not be accurate.
 
-## Feel first, interpret later
+When you have a very fast mind, the story can show up instantaneously, sometimes so quickly it feels like observable fact. 
 
-The goal is to change the sequence.
+This happens in all kinds of minds. But a fast, analytical mind may be especially good at building a persuasive story before the underlying emotion has fully registered.
 
-First, slow down enough to notice and make room for the emotional experience. Later, when there is greater access to perspective and flexibility, bring the thinking mind back in.
+Then the story intensifies the emotion, which generates more evidence for the story, which strengthens the emotion, and so on.
 
-A useful practice for creating that pause is RAIN, an acronym coined by meditation teacher Michele McDonald and later adapted by psychologist and meditation teacher [Tara Brach](https://www.tarabrach.com/rain/):
+## When thinking comes more naturally
+
+Giftedness is often associated with asynchronous development: different capacities developing at different rates.
+
+A child may be able to discuss philosophy, understand complex systems, or read far beyond grade level while still having an ordinary child's capacity for frustration, relationships, and emotional regulation. Cognitive development does not automatically bring every other part of the person along with it.
+
+And the things we use become the things we get good at.
+
+If you have spent decades thinking---reading, analyzing, noticing patterns, solving problems---that pathway is well developed. Emotional and bodily awareness may have gotten much less practice.
+
+I see this in myself in my earliest memories. Preschool me thought *Mister Rogers’ Neighborhood* was super boring. Mister Rogers wanted to talk about feelings. I wanted to learn to read, so I watched *The Electric Company* instead. 
+
+There can be real strengths in being mind-first. Thinking can help us step back from an emotional reaction, understand complexity, anticipate consequences, and respond deliberately instead of impulsively. When we teach young children emotional regulation, we are helping them develop more capacity between feelings and actions.
+
+I don’t treat a mind-first style as inherently unhealthy. For some people, this is just the language they are most fluent in.
+
+## Intellectualization: When thinking is a way of avoiding feeling
+
+Sometimes thinking does the work of keeping emotions at a distance. This is called **intellectualization**. Sometimes a person can explain an experience beautifully while disconnected from what it’s like to have that experience.
+
+But I don’t find it useful to begin with deciding if someone is “intellectualizing.” I would rather start with **how this way of being is working**. If someone is analytical, emotionally subdued, and living a life that’s working, I think that’s just another way of being a human.
+
+I become more interested when something isn’t working. 
+
+Maybe the feelings are “leaking out” as chronic irritability, depression, passive aggression, or anger.
+
+Sometimes people don’t notice an emotion until they completely shut down. It can be a little like a sneaker wave, almost undetectable until suddenly it has submerged everything. 
+
+Or maybe the cost shows up relationally. Sometimes a person gets outwardly rational and calm, but becomes more disconnected from their partner. 
+
+Sometimes the body makes it clear what’s going on emotionally. John and Julie Gottman’s research on couples found that a person who looks detached or even calm during a conflict may actually be physiologically flooded: their heart rate is elevated and their nervous system is in a threat response. 
+
+The distinction between thinking and intellectualization matters, especially for gifted people who have gotten a lifetime of messages that the way they naturally are in the world is foreign, intense, different, or just wrong. [Therapy should not add to that wound.](/blog/gifted-informed-therapy/)
+
+## A word about alexithymia
+
+Alexithymia is the term for difficulty identifying and describing emotions. I sometimes talk about it with clients, especially with autistic folks, or when difficulty accessing feelings is creating problems in daily life or relationships.
+
+It overlaps quite a bit with what I’m describing here. For me the label doesn’t matter as much as the practical question: is this way of being causing problems? Would having more access to emotions help?
+
+## Slowing down enough to notice what’s there
+
+The goal is not to force yourself to feel something. It is to slow things down enough to notice what is actually there.
+
+For people who are much more practiced at thinking than feeling, emotions may not be super accessible. Paying attention to the body can feel awkward, unfamiliar, and maybe a little pointless at first. 
+
+But we can get curious. This is one thing I like about NARM. The goal is not to target emotions. It is to build enough safety, curiosity, present-moment awareness and agency that whatever emotion may be going on has room to emerge. 
+
+One practice that can help create this kind of pause is RAIN, an acronym coined by meditation teacher Michele McDonald and later adapted by psychologist and meditation teacher [Tara Brach](https://www.tarabrach.com/rain/):
 
 - **Recognize** what is happening.
 - **Allow** the experience to be present.
 - **Investigate** with interest and care.
 - **Nurture** with self-compassion.
 
-RAIN does not require immediately explaining why the emotion is there. The first task is simply to recognize the experience and let it exist without suppressing it, solving it, or acting on it.
+RAIN isn’t about figuring out the reason for an emotion. The first job is simply to recognize the experience and let it exist without suppressing it, solving it, or acting on it.
 
-You might notice:
+Maybe:
 
 > My jaw is tight. My chest feels hot. I think anger is here.
 
@@ -110,7 +111,7 @@ Or:
 
 > I feel a dropping sensation in my stomach. Something in me feels threatened.
 
-The investigation is gentle rather than prosecutorial:
+Then curiosity:
 
 - What is this emotion trying to protect?
 - What does it seem to want?
@@ -118,15 +119,15 @@ The investigation is gentle rather than prosecutorial:
 - Is there something I need?
 - Does this response feel familiar?
 
-Nurturing might mean offering yourself reassurance, placing a hand over the place where you feel the emotion, asking for support, or simply staying present without criticizing yourself for having the reaction.
+In therapy I might ask something even simpler: *What is it like to share that right now?* Or: *As you reflect on that now, what do you notice?* Maybe an emotion appears, and maybe it doesn’t. We slow down experience enough to notice whatever is actually there.
 
-## Then let the mind return
+## Then let the mind come back
 
 Making room for an emotion does not mean treating it as the complete truth.
 
 Emotions provide information about our experience, needs, values, history, and perception of a situation. They do not give us infallible information about another person's motives or about what is objectively happening.
 
-After some of the emotional activation has shifted, the mind can return with better questions:
+After some of the emotional activation has shifted, the mind can return with better questions---what I call fact-checking:
 
 - What are the observable facts?
 - What assumptions did I make?
@@ -136,22 +137,24 @@ After some of the emotional activation has shifted, the mind can return with bet
 - What response aligns with my values?
 - What would support the relationship I actually want?
 
-This is where intelligence becomes an enormous resource. Instead of constructing the strongest possible case for one emotionally compelling story, the mind can hold several possibilities and evaluate them with greater flexibility.
+Intelligence becomes an enormous resource here. Instead of constructing the strongest possible case for one emotionally compelling story, the mind can hold several possibilities and flexibly evaluate them.
 
-The aim is not to choose reason over emotion. It is to allow both forms of information to participate.
+The aim is not to choose reason over emotion. It is to allow both kinds of data to exist.
 
-## Emotional access is a skill
+## Emotional access takes practice
 
 For someone who has spent decades becoming highly skilled at thinking, slowing down to notice the body may initially feel awkward, unproductive, or even boring.
 
-That does not mean nothing is happening. It may simply mean this is a less-practiced capacity.
+Of course it does.
 
-If you are bad at volleyball, you do not expect to become good after trying it twice. You practice tracking the ball, positioning your body, and responding at the right moment. Emotional awareness also develops through repeated attention.
+If you are bad at volleyball, you do not expect to become good after trying it twice. You practice tracking the ball, positioning your body, and responding at the right moment. 
+
+Emotional awareness works like that too. You practice recognizing a physical sensation. You practice letting an emotion briefly exist. Your system slowly becomes accustomed to a new way of being.
 
 Meditation has been useful to me in part because [my brain is fast, while my body and nervous system often need slow](/blog/gifted-mind-sensitive-nervous-system/). The practice is not about eliminating thought. It is about becoming quiet enough to hear information that thought can otherwise drown out.
 
-[Therapy can provide another place to practice.](/blog/gifted-informed-therapy/) A therapist can help slow down an experience, notice shifts in the body, identify the emotion underneath the explanation, and build enough agency to remain present without becoming overwhelmed or immediately turning the feeling into a conclusion.
+[Therapy can provide another place to practice.](/blog/gifted-informed-therapy/) A therapist can help slow down an experience with you, notice shifts in the body, identify the emotion underneath the explanation, and build the capacity to remain present without becoming overwhelmed or immediately turning the feeling into a conclusion.
 
 The goal is not to become less intelligent or less analytical.
 
-It is to gain access to more of yourself—and then let your intelligence work with the whole picture.
+It is to gain access to more of yourself, and then let your intelligence work with the whole picture.
