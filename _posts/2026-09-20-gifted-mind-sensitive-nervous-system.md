@@ -33,7 +33,7 @@ Building a life that makes room for both is more complicated than it sounds.
 
 Like an understimulated border collie that gets into trouble, a gifted mind without enough meaningful engagement is likely to find stimulation somehow, even if it is destructive. 
 
-It may pour its intelligence into anxiety. (Anxiety is cognitively stimulating in all the wrong ways.) It may become preoccupied with existential questions that feel less like philosophy and more like being trapped in a room with an alarm nobody else can hear. It may [protect the identity of being smart](/blog/gifted-and-average/) by demanding perfection before attempting anything new and difficult. Or it may manufacture a complicated problem out of whole cloth, because that is what minds do when nothing else is on offer.
+The mind may pour its intelligence into anxiety. (Anxiety is cognitively stimulating in all the wrong ways.) It may wrestle with big questions about meaning, purpose, and mortality, but from a place of panic rather than curious philosophical contemplation. It may [protect the identity of being smart](/blog/gifted-and-average/) by demanding perfection before attempting anything new and difficult. Or it may manufacture a complicated problem out of whole cloth, because that is what minds do when nothing else is on offer.
 
 Much of this is rumination: thinking that feels like problem-solving but does not resolve anything, and tends to leave the person feeling worse rather than better.
 
@@ -77,17 +77,17 @@ The boredom is not necessarily a flaw. Sometimes it is the space through which q
 
 For some people with significant trauma histories, extended stillness can be overwhelming or dysregulating. Mindfulness may need to be brief, guided, movement-based, or approached with therapeutic support. [If it starts to feel painful, stop; as with physical exercise, more is not always better.](https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/)
 
-The goal is not to prove that you can sit still. The goal is to create enough room for more of your experience to reach awareness.
+The goal is to create enough room to notice what is happening in all levels of experience, in the body and emotions as well as the mind.
 
 ## Not all boredom is the same
 
 There is a difference between boredom imposed by poor fit and boredom chosen on purpose.
 
-The first kind happens when a person is trapped in a classroom or workplace. The mind is underused, but the person is still required to sit there and behave. That kind of boredom can feel like being mentally underfed while someone insists you finish chewing.
+The first kind happens when a person is trapped in a classroom or workplace. The mind is underused, but the person is still required to sit there and behave. That kind of boredom can feel like being trapped, and may echo many similar experiences from younger school years. Resentment can develop when you are chronically stuck and blocked without agency to change it.
 
 Chosen boredom is different. It is the decision not to fill every open space. No podcast during the walk. No phone in the checkout line. No new article before bed.
 
-Gifted people may need less boredom imposed by poor environmental fit and more boredom chosen in service of the whole person.
+Gifted people benefit from less boredom imposed by poor environmental fit and more boredom chosen in service of the whole person.
 
 ## Sometimes the brain needs to be tucked back into bed
 
