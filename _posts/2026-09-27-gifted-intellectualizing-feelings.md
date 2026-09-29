@@ -121,13 +121,15 @@ Then curiosity:
 
 In therapy I might ask something even simpler: *What is it like to share that right now?* Or: *As you reflect on that now, what do you notice?* Maybe an emotion appears, and maybe it doesn’t. We slow down experience enough to notice whatever is actually there.
 
+Nurturing looks saying kind words of self-compassion to yourself. You have just been with yourself in an unfamiliar experience; good job, you! It might look like connecting your experience to the experience of all the other humans, instead of seeing yourself as alone and uniquely horrible in your struggles. It might look like putting a hand on your heart or showing nurturing care to yourself by actions as well as thoughts. 
+
 ## Then let the mind come back
 
 Making room for an emotion does not mean treating it as the complete truth.
 
 Emotions provide information about our experience, needs, values, history, and perception of a situation. They do not give us infallible information about another person's motives or about what is objectively happening.
 
-After some of the emotional activation has shifted, the mind can return with better questions---what I call fact-checking:
+After some of the emotional activation has shifted, the mind can return with better questions---what I call **fact-checking**:
 
 - What are the observable facts?
 - What assumptions did I make?
