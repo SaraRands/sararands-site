@@ -78,9 +78,9 @@ Other work takes longer. Complex trauma, identity, relationships, grief, major l
 
 I don't assume therapy should be brief, and I don't assume it should continue indefinitely.
 
-My goal is to **work myself out of a job**: not by rushing you out the door, but by helping you develop more capacity, understanding, and freedom in your own life. If long-term therapy continues to be meaningful and useful to you, I'm comfortable with that too.
+My goal is to **work myself out of a job** by helping you develop more capacity, understanding, and freedom in your own life. 
 
-What I don't want is for us to keep rehashing the same material simply because continuing therapy has become the default. If you're stuck in significant distress and our work isn't helping, I want us to talk about that honestly and consider whether a different approach or another clinician might serve you better.
+If long-term therapy is meaningful and useful to you, I'm comfortable with that. But I don't want us to keep rehashing the same material just because therapy has become the default. If you're stuck in significant distress and our work isn't helping, let's talk about that honestly and consider whether a different approach or another clinician might serve you better.
 
 ---
 
@@ -106,9 +106,7 @@ We'll also talk about next steps and, if it feels like a good fit, schedule a fo
 
 ### What to bring
 
-You don't need to bring anything specific to your first session. If you have thoughts, questions, or topics you want to make sure we discuss, you are welcome to bring notes. Some people find it helpful to bring a journal, water bottle, fidgets, or other items that help them feel comfortable and grounded.
-
-There is no need to dress formally or prepare in a particular way. Come as you are.
+You don't need to bring anything specific to your first session. If you have thoughts, questions, or topics you want to make sure we discuss, you are welcome to bring notes. Some people find it helpful to bring a journal, water bottle, fidgets, or other items that help them feel comfortable and grounded. 
 
 ### Privacy
 
