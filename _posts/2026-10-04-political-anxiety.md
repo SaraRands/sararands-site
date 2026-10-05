@@ -5,7 +5,7 @@ subtitle: "Reflections on politics, the news, and the state of the world"
 seo_title: "Political Anxiety: How to Care Without Carrying Everything"
 description: "History, mindfulness, and practical tools for coping with political anxiety, plus ways to act that don't require you to suffer to prove you care."
 og_image: /assets/images/og-care-about-everything.jpg
-tags: [politics, political anxiety, doomscrolling, dialectical thinking, radical acceptance, mindfulness, history, community, citizenship]
+tags: [politics, political anxiety, anxiety, doomscrolling, dialectical thinking, radical acceptance, mindfulness, history, community, citizenship]
 ---
 
 *This post is adapted from a [talk I gave at Salt Lake Oasis](/speaking/) on October 4, 2026.*
@@ -15,6 +15,10 @@ tags: [politics, political anxiety, doomscrolling, dialectical thinking, radical
 * TOC
 {:toc}
 
+
+
+
+---
 
 
 
