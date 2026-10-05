@@ -71,7 +71,7 @@ And that’s not to say that apocalypses never happen. Clearly they do.
 
 In the religious culture I grew up in, I lived through about a dozen [predicted ends-of-the-world](https://en.wikipedia.org/wiki/Predictions_and_claims_for_the_Second_Coming) by age 40, and I had the food storage to prove it. 
 
-![Boxes upon boxes of whole wheat](/assets/images/wheat.jpg){: style="max-width: 300px; display: block; margin: 0 auto;"}
+![Boxes upon boxes of whole wheat](/assets/images/wheat.jpg){: style="max-width: 200px; display: block; margin: 0 auto;"}
 
 But it leads me to be skeptical of the end of the world as the expected outcome of the crisis of the day, even if the news anchors want me to believe that.
 
@@ -304,7 +304,7 @@ In recent elections, younger people have been about 30 percentage points less li
 
 If you’re not sure if you’re registered, find out today. In Utah, that’s at [vote.utah.gov](https://vote.utah.gov/). The deadline to register is October 23. Or you can vote in person on Election Day if you bring two forms of ID.
 
-I’ll tell you a secret. If you don’t vote, I kind of don’t want to hear your complaints about how things are. I mean, I’m a pro and I’ll never let on, but now you know that I’m secretly judging.
+I’ll tell you a secret. <span style="font-size: 0.85em;">If you don’t vote, I kind of don’t want to hear your complaints about how things are.</span> <span style="font-size: 0.7em;">I mean, I’m a pro and I’ll never let on,</span> <span style="font-size: 0.55em;">but now you know that I’m secretly judging.</span>
 
 ### 🧰 How else can I act?
 
