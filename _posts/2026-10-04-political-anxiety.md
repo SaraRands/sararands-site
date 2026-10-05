@@ -36,7 +36,7 @@ But I do want to argue for **dialectical thinking.** That’s a fancy phrase for
 
 I’ll make this point multiple times here. Two things can be true: The world is on fire---and what else? 
 
-## How accurate is the picture?
+## 1. How accurate is the picture?
 
 Again, this isn’t to gaslight. There are real things to be concerned about.
 
@@ -71,11 +71,11 @@ And that’s not to say that apocalypses never happen. Clearly they do.
 
 In the religious culture I grew up in, I lived through about a dozen [predicted ends-of-the-world](https://en.wikipedia.org/wiki/Predictions_and_claims_for_the_Second_Coming) by age 40, and I had the food storage to prove it. 
 
-![Boxes upon boxes of whole wheat](/assets/images/wheat.jpg){: width="400"}
+![Boxes upon boxes of whole wheat](/assets/images/wheat.jpg){: width="200"}
 
 But it leads me to be skeptical of the end of the world as the expected outcome of the crisis of the day, even if the news anchors want me to believe that.
 
-And that’s part of why I’m working on this sampler, to remind myself about the way worrisome things typically turn out.
+And that’s part of why I’m working on this sampler, to remind myself about the way worrisome things typically turn out:
 
 ![Cross stitch that says: Sorry for being so anxious earlier. I had no idea everything would be fine.](/assets/images/sampler.jpg){: width="500"}
 
@@ -107,7 +107,7 @@ Quitting the news entirely may be too extreme for some, but **everyone can curat
 
 If the doomscrolling keeps pulling you in, be curious about that. How is it serving you? Slow down the process. [Check in with your body](/blog/gifted-intellectualizing-feelings/) at different parts of the cycle; what are you feeling? 
 
-## Historical perspective
+## 2. Historical perspective
 
 Two nuances before I dive in. 
 
@@ -161,7 +161,7 @@ Those 1941 people were created from the same DNA as we are. They weren’t brave
 
 Why not us?
 
-## The amount of suffering we evolved to carry
+## 3. The amount of suffering we evolved to carry
 
 One reason this is so hard to carry is that we never evolved to carry the weight of all the world’s problems.
 
@@ -193,7 +193,7 @@ We live in the gap between those rings, between caring and being able to affect 
 
 But we do have the power to help **uniquely in our own sphere**. Your child needs you in a way that no one else can replace. Our family, our partner, our work, our community, our citizenship. Fulfilling the commitments we have made in our lives is something no one else can do for us, and makes a big impact on the world. And there are some seasons of life where fulfilling just these commitments takes all of our energy.
 
-## Pain versus suffering: Ideas from mindfulness traditions
+## 4. Pain versus suffering: Ideas from mindfulness traditions
 
 Those of you who have dabbled in Buddhist-adjacent spaces will recognize some of these ideas. 
 
@@ -215,7 +215,7 @@ This idea is related to the Buddhist concept of **dependent origination**: there
 
 Radical acceptance allows you to act in the present and respond to the world as it is, without being distracted by what should be but isn’t. You can only act in the real world, not the made-up world we imagine should be.
 
-## Where do our institutions come from?
+## 5. Where do our institutions come from?
 
 So if we are trying to accept the world as it is, let’s talk some more about how the world got to be the way it is.
 
@@ -255,7 +255,14 @@ It’s on us to keep it.
 
 We aren’t exempt from our turn in the wrestle.
 
-Back to the arc of the moral universe idea. [Obama reflected on this last year](https://www.instagram.com/reels/DPMlxpej_km/):
+Back to the arc of the moral universe idea. [Obama reflected on this last year](https://www.instagram.com/reel/DPMlxpej_km/):
+
+<div style="max-width: 400px; margin: 1.5em auto;">
+  <iframe src="https://www.instagram.com/reel/DPMlxpej_km/embed"
+    width="100%" height="700" frameborder="0" scrolling="no"
+    loading="lazy" allowtransparency="true"
+    title="Barack Obama on the arc of the moral universe"></iframe>
+</div>
 
 > The arc of the moral universe is long, but it bends towards justice. Except **it doesn’t bend on its own---it bends because we pull it in the direction of justice**. 
 >
@@ -263,7 +270,7 @@ Back to the arc of the moral universe idea. [Obama reflected on this last year](
 >
 > That’s one of my convictions that I try to act on every single day. It’s a leap of faith that I think is worth making.
 
-## What’s my part?
+## 6. What’s my part?
 
 Mother Jones, a labor organizer in the late 19th and early 20th century, called the “grandmother of all agitators” (what an awesome tagline), said something I think about in this context:
 
@@ -323,7 +330,7 @@ There are also less formal ways to make a difference that people tend to dismiss
 
 **Sharing your voice**, whether in writing or speaking, especially in ways that are less likely to trigger defensiveness in others, helps shape the opinions of people in your community.
 
-And **building community** helps a lot. The communities that have the most influence politically tend to be the most organized. And crucially, it helps our mental health when we are part of a community. We can give and receive support and know that others have our backs. For those of you who participate in [Salt Lake Oasis](https://www.saltlakeoasis.com/) or other local communities---look at you, building community. Go us!
+And **building community** helps a lot. The communities that have the most influence politically tend to be the most organized. And crucially, it helps our mental health when we are part of a community. We can give and receive support and know that others have our backs. For those of you who participate in [Salt Lake Oasis](https://www.saltlakeoasis.org/) or other local communities---look at you, building community. Go us!
 
 ### 🧰 Resist polarization and tribalism
 
