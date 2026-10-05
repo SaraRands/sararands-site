@@ -36,8 +36,6 @@ But I do want to argue for **dialectical thinking.** That’s a fancy phrase for
 
 I’ll make this point multiple times here. Two things can be true: The world is on fire---and what else? 
 
-\* TOC {:toc}
-
 ## 1. How accurate is the picture?
 
 Again, this isn’t to gaslight. There are real things to be concerned about.
