@@ -28,19 +28,6 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
 
 ---
 
-## Upcoming Talks
-
-### How to Care about Everything without Carrying Everything: Reflections on Politics, the News, and the State of the World
-* [Salt Lake Oasis](https://www.saltlakeoasis.org/events/4-Oct-2026)
-    * Sunday, October 4, 2026
-    * 11 am
-    * Parker Theatre Studio
-        North Building
-        3601 S State Street
-        South Salt Lake
-
----
-
 ## Talks
 
 ### Navigating the Void: Faith Transitions Through an Existential Lens
@@ -54,6 +41,13 @@ Research on the faith transition experience and how existential therapy provides
 
 - [**Mormon Mental Health Association Conference, 2024**](https://mormonmentalhealthassoc.org/product/2024-mmha-conference-friday-session-8-when-it-isnt-a-faith-crisis-duplicate-1/)  
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/21-apr-2024)
+
+---
+
+### How to Care about Everything without Carrying Everything: Reflections on Politics, the News, and the State of the World
+History, mindfulness, and practical tools for coping with political anxiety, plus ways to act that don't require you to suffer to prove that you care.
+- [Salt Lake Oasis](https://www.saltlakeoasis.org/events/4-Oct-2026)
+- [Read the written version on my blog](/blog/political-anxiety/) 
 
 ---
 
