@@ -71,7 +71,7 @@ And that’s not to say that apocalypses never happen. Clearly they do.
 
 In the religious culture I grew up in, I lived through about a dozen [predicted ends-of-the-world](https://en.wikipedia.org/wiki/Predictions_and_claims_for_the_Second_Coming) by age 40, and I had the food storage to prove it. 
 
-![Boxes upon boxes of whole wheat](/assets/images/wheat.jpg){: width="200"}
+![Boxes upon boxes of whole wheat](/assets/images/wheat.jpg){: style="max-width: 400px; display: block; margin: 0 auto;"}
 
 But it leads me to be skeptical of the end of the world as the expected outcome of the crisis of the day, even if the news anchors want me to believe that.
 
