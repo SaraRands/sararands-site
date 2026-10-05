@@ -10,6 +10,14 @@ tags: [politics, political anxiety, doomscrolling, dialectical thinking, radical
 
 *This post is adapted from a [talk I gave at Salt Lake Oasis](/speaking/) on October 4, 2026.*
 
+**In this post:**
+
+* TOC
+{:toc}
+
+
+
+
 It feels like the mood of the last decade or so has been the famous “This is Fine” meme. In the meme, a cartoon dog sits at a table surrounded by flames, sipping his coffee, telling himself: “*This is fine*.”
 
 I’m not a political expert. I am a [therapist](/), and like every therapist I know, I’ve sat with dozens of people for many hours after elections and tragedies, in distress about the state of the world. I feel humble and a little audacious speaking about a topic so big. 
@@ -35,12 +43,6 @@ This was first written by Theodore Parker, an abolitionist minister, in 1853. An
 But I do want to argue for **dialectical thinking.** That’s a fancy phrase for the therapist cliché: ***Two things can be true***. This is a tool that gets us out of black-and-white thinking and into the kind of thinking that helps us stay flexible, curious, and able to actually engage with the world in a way that gives us a shot at improving things, instead of being paralyzed and hopeless.
 
 I’ll make this point multiple times here. Two things can be true: The world is on fire---and what else? 
-
-**In this post:**
-
-* TOC
-{:toc}
-
 
 ## 1. How accurate is the picture?
 
