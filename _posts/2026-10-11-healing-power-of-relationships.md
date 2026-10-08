@@ -2,6 +2,7 @@
 title: "On Luck, Love, and Healing"
 seo_title: "Healthy Relationships, Healing & Midlife Love | Sara Rands"
 description: "Seven years after meeting my husband on Bumble, I’m thinking about how healthy relationships support healing, and how healing can make love more possible."
+og_image: "assets/images/so-lucky-og.jpg"
 tags: [relationships, dating, love]
 ---
 
@@ -10,6 +11,8 @@ Seven years ago this week, my husband and I were internet strangers who matched 
 And now we own real estate together. It’s absurd, really. 
 
 Oun wedding cake had a topper that said **So Lucky**. We absolutely are. We won the Bumble lottery.
+
+![Wedding cake with topper that says: So Lucky](/assets/images/so-lucky-og.jpg)
 
 And yet this is a common story. Plenty of folks have won some version of the online dating lottery. [By 2017, meeting online was the most common way United States heterosexual couples met](https://news.stanford.edu/stories/2019/08/online-dating-popular-way-u-s-couples-meet). I know so many people who have found wonderful relationships in midlife.
 
@@ -57,7 +60,7 @@ Our patterns can be deep and surprisingly hard to see from the inside. If we wan
 
 ## Worth wanting
 
-I see a lot of understandable cynicism about love and relationships. Some people have built rich, connected lives and are genuinely happier single. I believe them. But I also think about people who do want a parnter and have been hurt or discouraged enough that they wonder if what they want is worth wanting. 
+I see a lot of understandable cynicism about love and relationships. Some people have built rich, connected lives and are genuinely happier single. I believe them. But I also think about people who do want a partner and have been hurt or discouraged enough that they wonder if what they want is worth wanting. 
 
 Dating can be demoralizing. Certainly online dating can be. Heartbreak is real. Vulnerability is risky.
 
