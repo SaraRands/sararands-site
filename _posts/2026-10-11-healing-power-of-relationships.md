@@ -2,7 +2,7 @@
 title: "On Luck, Love, and Healing"
 seo_title: "Healthy Relationships, Healing & Midlife Love | Sara Rands"
 description: "Seven years after meeting my husband on Bumble, I’m thinking about how healthy relationships support healing, and how healing can make love more possible."
-og_image: "assets/images/so-lucky-og.jpg"
+og_image: assets/images/so-lucky-og.jpg
 tags: [relationships, dating, love]
 ---
 
@@ -10,7 +10,7 @@ Seven years ago this week, my husband and I were internet strangers who matched 
 
 And now we own real estate together. It’s absurd, really. 
 
-Oun wedding cake had a topper that said **So Lucky**. We absolutely are. We won the Bumble lottery.
+Our wedding cake had a topper that said **So Lucky**. We absolutely are. We won the Bumble lottery.
 
 ![Wedding cake with topper that says: So Lucky](/assets/images/so-lucky-og.jpg)
 
