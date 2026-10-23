@@ -54,4 +54,37 @@ Modern brain imaging research shows that changes from certain practices: things 
 * Healthy relationships
 * Psychedelics
 
-(Psychedelics is is an exciting up-and-coming field. In the Oasis presentation I did not get into the details because of the legal, medical, and psychological risks. There is a great deal of positive research about the therapeutic benefits, especially when paired with psychotherapy, and my hope is that the legal landscape changes as a result of this reseach.)
+(Psychedelics is is an exciting up-and-coming field. In the Oasis presentation I did not get into the details because of the legal, medical, and psychological risks. There is a great deal of positive research about the therapeutic benefits, especially when paired with psychotherapy, and my hope is that the legal landscape changes as a result of this reseach. Oh and also I do [ketamine-assisted psychotherapy] (/kap/) which I’ll get into in Part 2 of this post.)
+
+**Don’t try everything I’m going to talk about here.** You can’t. It’s too much. My brain likes being thorough and covering as much of the territory as I can see; I like giving options.
+
+Instead, notice what resonates with you at an emotional level, or what sparks curiosity. What are 1-3 things you might be interested in trying?
+
+Healing isn’t just one path. There are many, abundant paths to healing. I’ll talk about the do-it-yourself practices in Part 1, and the therapy practices in Part 2. 
+
+## Journaling
+
+Journaling has many research-backed benefits: it reduces stress and anxiety, helps people process difficult emotions, increases emotional regulation, alleviates depression, boosts self-awareness, improves problem solving, and helps you get to know who you are.
+
+And I know this from the inside. Journaling is a big part of my own healing story. I’ve been an avid journaler since my English undergrad days in the early 90s. After a break while raising children, I returned to the practice in midlife. Writing helped me gain the clarity I needed to make many difficult but ultimately life-giving life transitions in my 40s. I actually did not have my own therapist until relatively late in this process; journaling was my main practice I had for seeing my situation clearly and gaining the courage and confidence to change things.
+
+Journaling helped me to access and connect to both logic and my emotions. It helped me slow down and record the facts about what was happening, and also gave time for my my emotions to show up so I could connect to those. This is what is called **Wise Mind** (a concept from Dialectical Behavior Therapy developed by Marsha Linehan): accessing both logic and emotions, and connecting to Wise Mind helps us make good decisions.
+
+This is not what I call (for my LDS or formerly LDS clients) “I, Nephi”-style journaling. The goal of writing is not to set a good example for your descendants or to showcase your righteousness. This writing is for your eyes only. Cultivate radical honesty and vulnerability with yourself here in this safe space. 
+
+There are lots of different ways to journal: longhand, or electronically. Research does support the benefits of writing by hand. But I also like the idea of not being too rigid here. Try longhand writing, but if that doesn’t work for you for whatever reason, try electronic. I do both. I like [Penzu](https://penzu.com) for electronic journaling. I’ve used them for over 10 years now. When I was doubting my own experience, the search function was helpful for me to see patterns happening over time. And sometimes electronic versions are easier to keep private than a paper notebook.
+
+For some, journaling has been a negative experience in the past. Perhaps a family member has invaded privacy in a journal. But like I said, there are many paths to healing. If this one doesn’t work for you, pick another one.
+
+I want to highlight three different sub-types of journaling:
+
+### Pennebaker Journaling
+
+
+
+### Morning Pages
+
+
+
+### Gratitude Journaling
+
