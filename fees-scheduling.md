@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Fees & Scheduling | Sara Rands, CMHC | Salt Lake City"
-description: "Private-pay therapy in Salt Lake City and across Utah. Fees, every-other-week scheduling, superbills for out-of-network benefits, and what to expect."
+description: "Private-pay therapy in-person in Murray, Utah, and via telehealth across Utah. Fees, every-other-week scheduling, superbills for out-of-network benefits, and what to expect."
 permalink: /fees-scheduling/
 og_image: /assets/images/og-fees-tight.jpg
 og_image_alt: "An open notebook with a pen, a cup of coffee, and dried flowers on a wooden table"
@@ -18,8 +18,8 @@ Here are the practical details of working with me: fees, scheduling, insurance, 
 
 I am a **private-pay therapist**.
 
-- **Individual therapy:** $200 for 53 minutes
-- **Initial intake:** $285 for 75 minutes
+- **Individual therapy:** $200 for 55 minutes
+- **Initial intake:** $285
 - **Accelerated Resolution Therapy (ART):** $300 for up to 80 minutes
 - **Ketamine-Assisted Psychotherapy (KAP):** separate structure and pricing, described below
 
@@ -51,7 +51,19 @@ The time between appointments gives you room to live your life, experiment, inte
 
 If you need **weekly support during a difficult stretch, telehealth sessions are available on the alternate weeks.**
 
-During my regular clinical weeks, sessions are available both **in person in Salt Lake City and by telehealth**. I provide therapy to adults who are physically located in Utah at the time of the session.
+During my regular clinical weeks, sessions are available both **in person in Murray, Utah, and by telehealth**. I provide therapy to adults who are physically located in Utah at the time of the session.
+
+---
+
+## Office location
+
+My office is located at:
+
+**Sara Rands, CMHC**
+5411 S Vine Street, Suite 3
+Murray, UT 84107
+
+[View location and get directions on Google Maps](https://maps.app.goo.gl/AVpXj3H7uTdTvkMA7)
 
 ---
 
@@ -125,7 +137,7 @@ When scheduling reopens, working together will begin like this:
 
 ---
 
-{% include availability.html heading="A note about availability" intro="Fees and policies on this page reflect my practice as it will reopen. I am currently on sabbatical and not accepting new therapy clients." %}
+{% include availability.html heading="Opening in January" %}
 
 ---
 

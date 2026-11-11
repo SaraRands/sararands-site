@@ -1,9 +1,7 @@
 <aside class="newsletter-signup{% if include.compact %} newsletter-compact{% endif %}">
-  <h3>{{ include.heading | default: "Words, occasionally, in your inbox" }}</h3>
+  <h3>{{ include.heading | default: "Subscribe to this newsletter-shaped thing" }}</h3>
   {% unless include.compact %}
-    <p>I write about giftedness, sensitivity, trauma, and life transitions.
-       Every month or so I email a note with new writing, talks, and whatever else
-       I've been thinking about.</p>
+    <p>Sometimes I write things. Sometimes I have news about talks or about my therapy practice. Subscribe and I'll send you an email when there's something to share.</p>
   {% endunless %}
 
   <form action="https://buttondown.com/api/emails/embed-subscribe/sararands"

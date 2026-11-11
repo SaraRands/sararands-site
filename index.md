@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Therapy for Gifted & Neurodivergent Adults | Salt Lake City"
-description: "Salt Lake City therapist for gifted, highly sensitive, and neurodivergent adults. In-person in SLC and telehealth across Utah. NARM, ART, and KAP."
+description: "Salt Lake City therapist for gifted, highly sensitive, and neurodivergent adults in-person in Murray, Utah, near Salt Lake City. Telehealth across Utah. NARM, ART, and KAP."
 og_image: /assets/images/og-home.jpg
 ---
 
@@ -10,7 +10,7 @@ og_image: /assets/images/og-home.jpg
 # Therapy for Gifted, Analytical, and Neurodivergent Adults
 *For people who understand a lot about themselves, and still find that insight isn’t enough*
 
-**Reopening for new clients in January 2027.** In person in Salt Lake City and online throughout Utah. [Join the notification list.](https://forms.gle/LYfkRtGKZ2CkXWqD6)
+**Opening my private practice in January 2027.** In-person therapy in Murray, Utah, and telehealth throughout Utah. [Join the notification list.](https://forms.gle/LYfkRtGKZ2CkXWqD6)
 
 ---
 
@@ -118,7 +118,7 @@ As a 20-year breast cancer survivor, I also offer support for people navigating 
 
 ---
 
-{% include availability.html heading="A note about availability" intro="I am currently on sabbatical, making room for rest, writing, continued training, and an intentional transition into the next chapter of my work." %}
+{% include availability.html heading="Opening in January" %}
 
 ---
 

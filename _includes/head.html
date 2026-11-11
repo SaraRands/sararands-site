@@ -1,5 +1,5 @@
 <!-- _includes/head.html -->
- 
+
 <!-- Google tag -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-NSJSX3ZS"></script>
 <script>
@@ -26,7 +26,7 @@
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:image" content="{{ page_image }}">
-<meta property="og:image:alt" content="{{ page.og_image_alt | default: 'Sara Rands, CMHC — therapy for gifted, highly sensitive, and neurodivergent adults in Salt Lake City, Utah' }}">
+<meta property="og:image:alt" content="{{ page.og_image_alt | default: 'Sara Rands, CMHC — therapy for gifted, highly sensitive, and neurodivergent adults in Murray, Utah' }}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
@@ -67,8 +67,9 @@
       "description": "Utah therapist for gifted, highly sensitive, neurodivergent, and analytical adults navigating trauma, identity, financial independence, career change, and major life transitions.",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Salt Lake City",
+        "addressLocality": "Murray",
         "addressRegion": "UT",
+        "postalCode": "84107",
         "addressCountry": "US"
       },
       "hasCredential": [
@@ -133,8 +134,8 @@
       "@id": "https://www.sararands.com/#therapy-service",
       "name": "Psychotherapy for gifted, highly sensitive, and neurodivergent adults",
       "serviceType": "Psychotherapy",
-      "description": "Attachment-focused, neurodiversity-affirming individual therapy for adults, offered in person in Salt Lake City and by telehealth throughout Utah.",
-      "provider": { "@id": "https://www.sararands.com/#person" },
+      "description": "Attachment-focused, neurodiversity-affirming individual therapy for adults, offered in person in Murray, Utah, and by telehealth throughout Utah.",
+      "provider": { "@id": "https://www.sararands.com/#practice" },
       "areaServed": {
         "@type": "State",
         "name": "Utah"
@@ -143,9 +144,39 @@
         "@type": "Audience",
         "audienceType": "Adults 18 and older"
       }
+    },
+    {
+      "@type": "MedicalBusiness",
+      "@id": "https://www.sararands.com/#practice",
+      "name": "Sara Rands, CMHC",
+      "url": "https://www.sararands.com/",
+      "telephone": "+1-801-252-5317",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5411 S Vine Street, Suite 3",
+        "addressLocality": "Murray",
+        "addressRegion": "UT",
+        "postalCode": "84107",
+        "addressCountry": "US"
+      },
+      "hasMap": "https://maps.app.goo.gl/AVpXj3H7uTdTvkMA7",
+      "areaServed": {
+        "@type": "State",
+        "name": "Utah"
+      },
+      "founder": {
+        "@id": "https://www.sararands.com/#person"
+      },
+      "employee": {
+        "@id": "https://www.sararands.com/#person"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/AVpXj3H7uTdTvkMA7"
+      ]
     }
   ]
 }
+
 </script>
 
 {%- if page.layout == 'post' %}

@@ -20,8 +20,8 @@
 
 {% if include.heading %}<h2>{{ include.heading }}</h2>{% endif %}
 
-<p>{{ include.intro | default: "I am currently on sabbatical and not accepting new therapy clients." }}</p>
+{% if include.intro %}<p>{{ include.intro }}</p>{% endif %}
 
 {% if include.note %}<p>{{ include.note }}</p>{% endif %}
 
-<p>I plan to reopen in private practice in {{ avail_reopen }}, seeing clients in person in Salt Lake City and online throughout Utah. If you&rsquo;d like to be notified when scheduling becomes available, you&rsquo;re welcome to <a href="{{ avail_waitlist }}">join the notification list</a>.</p>
+<p>I&rsquo;m opening my private practice in {{ avail_reopen }}, offering in-person therapy in Murray, Utah, and telehealth throughout Utah. If you&rsquo;d like to be notified when scheduling becomes available, you&rsquo;re welcome to <a href="{{ avail_waitlist }}">join the notification list</a>.</p>

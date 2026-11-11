@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Therapy for Cancer Survivors | Salt Lake City, Utah"
-description: "Therapy for cancer survivors navigating fear of recurrence, medical trauma, and identity change — from a 20-year survivor. Salt Lake City and Utah telehealth."
+description: "Therapy for cancer survivors navigating fear of recurrence, medical trauma, and identity change — from a 20-year survivor. In person in Murray, Utah, and via telehealth statewide."
 og_image: /assets/images/og-cancer.jpg
 ---
 
@@ -115,10 +115,7 @@ I continue to advocate for better research, better tools, and better support for
 
 ---
 
-
----
-
-{% include availability.html heading="Cancer changes you. You don’t have to pretend otherwise." intro="The emotional realities of survivorship are often far more complex than the world expects them to be. I am currently on sabbatical and not accepting new therapy clients." %}
+{% include availability.html heading="Cancer changes you. You don’t have to pretend otherwise." intro="The emotional realities of survivorship are often far more complex than the world expects them to be." %}
 
 ---
 
