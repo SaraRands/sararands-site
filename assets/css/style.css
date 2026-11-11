@@ -379,3 +379,8 @@ section {
 }
 .newsletter-compact h3 { font-size: 1rem; margin-bottom: 0.6rem; }
 .newsletter-compact input[type="email"] { max-width: 260px; margin-bottom: 0.5rem; }
+
+a[href^="tel:"]::before,
+a[href^="tel:"]::after {
+  content: none !important;
+}

@@ -164,7 +164,7 @@ You can read more about my background and therapeutic approach [on the About pag
 
 ---
 
-{% include availability.html %}
+{% include availability.html heading="Opening in January" %}
 
 ---
 

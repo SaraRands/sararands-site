@@ -6,7 +6,7 @@ description: "Contact Sara Rands, CMHC. Opening January 2027 for in-person thera
 
 # Contact
 
-{% include availability.html heading="Therapy availability" %}
+{% include availability.html heading="Opening in January" %}
 
 ---
 
@@ -14,9 +14,9 @@ description: "Contact Sara Rands, CMHC. Opening January 2027 for in-person thera
 
 My new office is located at:
 
-**Sara Rands, CMHC**
-5411 S Vine Street, Suite 3
-Murray, UT 84107
+**Sara Rands, CMHC**  
+5411 S Vine Street, Suite 3  
+Murray, UT 84107  
 
 [View location and get directions on Google Maps](https://maps.app.goo.gl/AVpXj3H7uTdTvkMA7)
 

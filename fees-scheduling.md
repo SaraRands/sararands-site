@@ -57,11 +57,9 @@ During my regular clinical weeks, sessions are available both **in person in Mur
 
 ## Office location
 
-My office is located at:
-
-**Sara Rands, CMHC**
-5411 S Vine Street, Suite 3
-Murray, UT 84107
+**Sara Rands, CMHC**. 
+5411 S Vine Street, Suite 3. 
+Murray, UT 84107. 
 
 [View location and get directions on Google Maps](https://maps.app.goo.gl/AVpXj3H7uTdTvkMA7)
 
