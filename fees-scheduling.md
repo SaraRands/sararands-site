@@ -132,10 +132,9 @@ Your privacy matters. If we happen to see each other outside of the office, I wi
 
 Getting started is straightforward, and you can complete the entire process online. No phone calls required.  
 
-1. **[Get started with therapy](https://forms.gle/QYjkAWwUzHNbpDbXA).** Complete a brief questionnaire about what brings you to therapy and what you're looking for.
-2. **I'll review your inquiry.** You can generally expect a response within one business day. If it sounds like we may work well together, I'll invite you to complete a more detailed history form through my secure client portal.
-3. **Share some background.** I'll review your history and may ask you to complete an additional questionnaire to help determine whether my practice is a good fit for your needs.
-4. **Schedule your intake.** Once we've established that we're likely a good fit, you'll receive access to available intake appointments and complete the consent and other onboarding paperwork.  
+1. **Complete a brief online questionnaire.** [Get started with therapy](https://forms.gle/QYjkAWwUzHNbpDbXA). Tell me a little about what brings you to therapy and what you're looking for.
+2. **I'll review your inquiry.** You can generally expect a response within one business day. If it sounds like we may work well together, I'll invite you to my secure client portal.
+3. **Schedule your first appointment.** Through the portal, you can choose an available intake appointment and complete your intake paperwork before we meet.  
 
 I don't offer introductory consultation calls. Instead, this process helps us determine whether working together makes sense before scheduling. Our first appointment is an opportunity for both of us to explore that further.
 
