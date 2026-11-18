@@ -37,6 +37,10 @@ If you choose to use out-of-network benefits, we'll discuss diagnosis openly and
 
 KAP is priced differently because more than one provider is involved. My fee covers the preparation session, my presence throughout the medicine session, and the integration work afterward. The medical evaluation and prescription are handled separately through [Symmetry Counseling](https://symcounseling.com/ketamine-services/) and their medical prescriber, and the medication itself is filled at your pharmacy. I'll walk you through the full cost picture before you commit to anything.
 
+### Good Faith Estimates
+
+If you're not using insurance, you're entitled to a Good Faith Estimate of your treatment costs. If your bill exceeds that estimate by $400 or more, you may have the right to dispute it. Learn more at [cms.gov/nosurprises](https://cms.gov/nosurprises/).
+
 ---
 
 ## Every-other-week sessions
@@ -126,12 +130,14 @@ Your privacy matters. If we happen to see each other outside of the office, I wi
 
 ## Getting started
 
-When scheduling reopens, working together will begin like this:
+Getting started is straightforward, and you can complete the entire process online. No phone calls required.
 
 1. **Complete a brief online inquiry.** You'll tell me a little about what brings you to therapy and what you're looking for.
-2. **I'll review it for fit.** If it sounds like we may work well together, I'll send you the intake paperwork through my secure client portal.
-3. **Complete the intake paperwork.** This gives me more context before we meet and lets us use the intake session well.
-4. **Schedule your intake.** Once I've reviewed your paperwork, you'll receive access to available intake appointments.
+2. **I'll review your inquiry.** You can generally expect a response within one business day. If it sounds like we may work well together, I'll invite you to complete a more detailed history form through my secure client portal.
+3. **Share some background.** I'll review your history and may ask you to complete an additional questionnaire to help determine whether my practice is a good fit for your needs.
+4. **Schedule your intake.** Once we've established that we're likely a good fit, you'll receive access to available intake appointments and complete the consent and other onboarding paperwork.  
+
+I don't offer introductory consultation calls. Instead, this process helps us determine whether working together makes sense before scheduling. Our first appointment is an opportunity for both of us to explore that further.
 
 ---
 
