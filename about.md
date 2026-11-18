@@ -144,6 +144,8 @@ Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist s
 - **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com); NARM Master’s Training in progress
 - **Completed the 2025–2026 [Polaris Insight Center Ketamine-Assisted Psychotherapy (KAP) Training Cohort](https://training.polarisinsight.com/cohort)**; advanced certification in progress
 
+---
+
 {% include fees-summary.html %}
 
 ---

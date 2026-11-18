@@ -150,4 +150,5 @@ If you’re interested in a conversation, interview, or community talk, [feel fr
 I’m always open to projects that feel aligned.
 
 ---
+
   {% include newsletter.html %}  

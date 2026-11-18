@@ -160,6 +160,8 @@ You don’t have to justify why a fortunate situation still feels frightening. A
 
 You can read more about my background and therapeutic approach [on the About page](/about/).
 
+---
+
 {% include fees-summary.html %}
 
 ---

@@ -111,6 +111,8 @@ You can also read a personal reflection on my 20-year survivorship milestone on 
 
 I continue to advocate for better research, better tools, and better support for survivors, especially younger ones, whose needs are often overlooked.
 
+---
+
 {% include fees-summary.html %}
 
 ---
