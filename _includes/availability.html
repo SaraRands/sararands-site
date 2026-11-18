@@ -1,27 +1,26 @@
+
 {%- comment -%}
   _includes/availability.html
-  Single source of truth for the reopening date, the waitlist link, and where Sara practices.
-  In January 2027, edit the two assigns below and every page updates at once.
+  Shared invitation to begin therapy.
+  Update the Google Form URL below to change it site-wide.
 
   Usage:
     {% include availability.html %}
-    {% include availability.html heading="A note about availability" %}
-    {% include availability.html intro="Custom opening sentence for this page." %}
-    {% include availability.html note="One extra paragraph before the reopening line." %}
-
-  Params (all optional):
-    heading  renders an <h2> above the block
-    intro    replaces the default sabbatical sentence with page-specific wording
-    note     inserts an extra paragraph between the intro and the reopening line
+    {% include availability.html heading="Custom heading" %}
+    {% include availability.html intro="Custom introduction." %}
+    {% include availability.html note="Additional information." %}
 {%- endcomment -%}
 
-{%- assign avail_reopen = "January 2027" -%}
-{%- assign avail_waitlist = "https://forms.gle/LYfkRtGKZ2CkXWqD6" -%}
+{%- assign avail_form = "https://forms.gle/QYjkAWwUzHNbpDbXA" -%}
 
-{% if include.heading %}<h2>{{ include.heading }}</h2>{% endif %}
+<h2>{{ include.heading | default: "Interested in working together?" }}</h2>
 
 {% if include.intro %}<p>{{ include.intro }}</p>{% endif %}
 
 {% if include.note %}<p>{{ include.note }}</p>{% endif %}
 
-<p>I&rsquo;m opening my private practice in {{ avail_reopen }}, offering in-person therapy in Murray, Utah, and telehealth throughout Utah. If you&rsquo;d like to be notified when scheduling becomes available, you&rsquo;re welcome to <a href="{{ avail_waitlist }}">join the notification list</a>.</p>
+<p>I'm opening my private practice in January 2027, offering in-person therapy in Murray, Utah, and telehealth throughout Utah.</p>
+
+<p>Getting started is simple. Complete a brief questionnaire about what you're looking for, and I'll follow up within one business day.</p>
+
+<p><strong><a href="{{ avail_form }}">Get started with therapy</a></strong></p>
