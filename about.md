@@ -151,7 +151,3 @@ Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist s
 {% include availability.html
   heading="You don’t have to simplify yourself here."
 %}
-
----
-
-  {% include newsletter.html %}  

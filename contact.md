@@ -6,7 +6,7 @@ description: "Contact Sara Rands, CMHC. Opening January 2027 for in-person thera
 
 # Contact
 
-{% include availability.html heading="Opening in January" %}
+{% include availability.html %}
 
 ---
 
@@ -23,6 +23,9 @@ Murray, UT 84107
 Telehealth appointments are also available throughout Utah.
 
 **Phone:** [801-252-5317](tel:+18012525317)
+
+For new therapy clients, please use the [questionnaire](https://forms.gle/QYjkAWwUzHNbpDbXA) rather than calling. You can complete the entire process online, without a phone consultation.
+
 
 ---
 

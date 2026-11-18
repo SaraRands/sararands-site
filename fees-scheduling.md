@@ -100,11 +100,11 @@ If long-term therapy is meaningful and useful to you, I'm comfortable with that.
 
 ## Practice policies
 
-Because your appointment time is reserved for you, I ask for **48 hours' notice** if you need to cancel or reschedule. Late cancellations and missed appointments are charged a **$100 fee**.
+Because your appointment time is reserved for you, I ask for **48 hours' notice** if you need to cancel or reschedule. Late cancellations are charged **$100**, and missed appointments (no-shows) are charged **$150**.
 
-If you are more than 15 minutes late, the appointment is considered a no-show. If you miss an appointment without contacting me, I'll assume you no longer want your remaining standing appointments and will release them.
+If you are more than 15 minutes late, the appointment is considered a no-show. If you miss an appointment without contacting me, I'll reach out to check in. If I don't hear back within two business days, I'll release your future standing appointments to avoid additional fees. You're welcome to get back in touch to reschedule.
 
-Email is fine for logistics, brief updates, or something you want me to know before our next session. I am one person, not a crisis service, and I cannot provide emergency or on-demand clinical support between appointments.
+Once you're a client, the secure client portal is the best way to send me messages about your therapy. Email and text are best reserved for scheduling and other logistics. I generally respond within one business day, but I don't provide emergency or on-demand clinical support between appointments.
 
 ---
 
@@ -130,9 +130,9 @@ Your privacy matters. If we happen to see each other outside of the office, I wi
 
 ## Getting started
 
-Getting started is straightforward, and you can complete the entire process online. No phone calls required.
+Getting started is straightforward, and you can complete the entire process online. No phone calls required.  
 
-1. **Complete a brief online inquiry.** You'll tell me a little about what brings you to therapy and what you're looking for.
+1. **[Get started with therapy](https://forms.gle/QYjkAWwUzHNbpDbXA).** Complete a brief questionnaire about what brings you to therapy and what you're looking for.
 2. **I'll review your inquiry.** You can generally expect a response within one business day. If it sounds like we may work well together, I'll invite you to complete a more detailed history form through my secure client portal.
 3. **Share some background.** I'll review your history and may ask you to complete an additional questionnaire to help determine whether my practice is a good fit for your needs.
 4. **Schedule your intake.** Once we've established that we're likely a good fit, you'll receive access to available intake appointments and complete the consent and other onboarding paperwork.  
@@ -141,8 +141,4 @@ I don't offer introductory consultation calls. Instead, this process helps us de
 
 ---
 
-{% include availability.html heading="Opening in January" %}
-
----
-
-{% include newsletter.html %}
+{% include availability.html %}

@@ -116,7 +116,3 @@ I continue to advocate for better research, better tools, and better support for
 ---
 
 {% include availability.html heading="Cancer changes you. You don’t have to pretend otherwise." intro="The emotional realities of survivorship are often far more complex than the world expects them to be." %}
-
----
-
-{% include newsletter.html %}
