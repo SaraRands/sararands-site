@@ -10,7 +10,7 @@ og_image: /assets/images/og-home.jpg
 # Therapy for Gifted, Analytical, and Neurodivergent Adults
 *For people who understand a lot about themselves, and still find that insight isn’t enough*
 
-**Opening my private practice in January 2027.** In-person therapy in Murray, Utah, and telehealth throughout Utah. Interested in working together? [Get started with therapy](https://forms.gle/QYjkAWwUzHNbpDbXA).
+**Now accepting new clients for January 2027.** In-person therapy in Murray, Utah, and telehealth throughout Utah. Interested in working together? [Get started with therapy](https://forms.gle/QYjkAWwUzHNbpDbXA).
 
 ---
 

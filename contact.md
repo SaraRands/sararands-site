@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact Sara Rands, CMHC | Therapy & Speaking Inquiries"
-description: "Contact Sara Rands, CMHC. Opening January 2027 for in-person therapy in Murray, Utah, and telehealth throughout Utah. Speaking and professional inquiries welcome."
+description: "Contact Sara Rands, CMHC. Accepting new clients for January 2027 for in-person therapy in Murray, Utah, and telehealth throughout Utah. Speaking and professional inquiries welcome."
 ---
 
 # Contact
@@ -12,7 +12,7 @@ description: "Contact Sara Rands, CMHC. Opening January 2027 for in-person thera
 
 ## Office Location
 
-My new office is located at:
+My office is located at:
 
 **Sara Rands, CMHC**  
 5411 S Vine Street, Suite 3  
