@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Financial Therapy in Utah | Financial Independence & Burnout"
-description: "Financial therapy for financially capable adults facing FI, layoffs, burnout, and what comes next. In person in Murray, Utah, and via telehealth statewide."
+description: "Financial therapy for financially capable adults facing FI, layoffs, burnout, and what comes next. In person in Murray, Utah"
 og_image: /assets/images/og-financial-therapy.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Fees & Scheduling | Sara Rands, CMHC | Salt Lake City"
-description: "Private-pay therapy in-person in Murray, Utah, and via telehealth across Utah. Fees, every-other-week scheduling, superbills for out-of-network benefits, and what to expect."
+description: "Private-pay therapy in-person in Murray, Utah. Fees, every-other-week scheduling, superbills for out-of-network benefits, and what to expect."
 permalink: /fees-scheduling/
 og_image: /assets/images/og-fees-tight.jpg
 og_image_alt: "An open notebook with a pen, a cup of coffee, and dried flowers on a wooden table"
@@ -55,7 +55,7 @@ The time between appointments gives you room to live your life, experiment, inte
 
 If you need **weekly support during a difficult stretch, telehealth sessions are available on the alternate weeks.**
 
-During my regular clinical weeks, sessions are available both **in person in Murray, Utah, and by telehealth**. I provide therapy to adults who are physically located in Utah at the time of the session.
+During my regular clinical weeks, **sessions are primarily held in person at my Murray office**. Limited telehealth appointments may be available by arrangement for clients physically located in Utah. Telehealth can also be used occasionally when weather, illness, or other circumstances make meeting in person impractical.
 
 ---
 

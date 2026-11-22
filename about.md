@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About Sara Rands, CMHC | Therapist in Salt Lake City, Utah"
-description: "Sara Rands is a Salt Lake City therapist for gifted, highly sensitive, and neurodivergent adults in Murray, Utah, and via telehealth throughout Utah. NARM, ART, KAP, and financial therapy."
+description: "Sara Rands is a Salt Lake City therapist for gifted, highly sensitive, and neurodivergent adults in Murray, Utah. NARM, ART, KAP, and financial therapy."
 ---
 
 # Hi, I’m Sara.

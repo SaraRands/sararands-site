@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact Sara Rands, CMHC | Therapy & Speaking Inquiries"
-description: "Contact Sara Rands, CMHC. Accepting new clients for January 2027 for in-person therapy in Murray, Utah, and telehealth throughout Utah. Speaking and professional inquiries welcome."
+description: "Contact Sara Rands, CMHC. Accepting new clients for January 2027 for in-person therapy in Murray, Utah. Speaking and professional inquiries welcome."
 ---
 
 # Contact
@@ -20,7 +20,7 @@ Murray, UT 84107
 
 [View location and get directions on Google Maps](https://maps.app.goo.gl/AVpXj3H7uTdTvkMA7)
 
-Telehealth appointments are also available throughout Utah.
+I primarily see clients in person at my Murray office, with a small number of telehealth openings for clients elsewhere in Utah. 
 
 **Phone:** [801-252-5317](tel:+18012525317)
 

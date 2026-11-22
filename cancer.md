@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Therapy for Cancer Survivors | Salt Lake City, Utah"
-description: "Therapy for cancer survivors navigating fear of recurrence, medical trauma, and identity change — from a 20-year survivor. In person in Murray, Utah, and via telehealth statewide."
+description: "Therapy for cancer survivors navigating fear of recurrence, medical trauma, and identity change — from a 20-year survivor. In person in Murray, Utah."
 og_image: /assets/images/og-cancer.jpg
 ---
 
