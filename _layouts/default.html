@@ -163,7 +163,19 @@
       });
     </script>
 
-    <script data-goatcounter="https://sararands.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+    <script>
+      if (
+        navigator.globalPrivacyControl !== true &&
+        navigator.doNotTrack !== "1" &&
+        window.doNotTrack !== "1"
+      ) {
+        const script = document.createElement("script");
+        script.dataset.goatcounter =
+          "https://sararands.goatcounter.com/count";
+        script.async = true;
+        script.src = "https://gc.zgo.at/count.js";
+        document.head.appendChild(script);
+      }
+    </script>
   </body>
 </html>
