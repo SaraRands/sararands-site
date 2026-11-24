@@ -24,12 +24,18 @@ layout: default
       </p>
       <p class="blog-nav">
         <a href="/blog/"><strong>All Posts</strong></a>
-      </p>  
-        {% include newsletter.html %}  
+      </p>
+
+      {% include newsletter.html %}
+
+      <footer class="blog-site-footer">
+        <p>
+          © {{ site.time | date: '%Y' }} Sara Rands, CMHC<br>
+          <a href="{{ '/privacy/' | relative_url }}">Website Privacy</a>
+        </p>
+      </footer>    
     </section>
-
   </article>
-
 </div>
 
 <style>
@@ -48,8 +54,31 @@ layout: default
   line-height: 1.75;
 }
 
+.blog-privacy-link {
+  margin-top: 1.5rem;
+  font-size: 0.85rem;
+  color: #777;
+}
 .blog-nav {
   margin: 4rem 0 6rem;
+}
+.blog-site-footer {
+  margin-top: 4rem;
+  padding: 1.5rem 0 2rem;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  color: #888;
+  font-size: 0.8rem;
+}
+
+.blog-site-footer p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.blog-site-footer a {
+  color: inherit;
+  text-decoration: underline;
 }
 </style>
 
