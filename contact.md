@@ -12,20 +12,17 @@ description: "Contact Sara Rands, CMHC. Accepting new clients for January 2027 f
 
 ## Office Location
 
-My office is located at:
-
 **Sara Rands, CMHC**  
 5411 S Vine Street, Suite 3  
 Murray, UT 84107  
 
 [View location and get directions on Google Maps](https://maps.app.goo.gl/AVpXj3H7uTdTvkMA7)
 
-I primarily see clients in person at my Murray office, with a small number of telehealth openings for clients elsewhere in Utah. 
+I primarily see clients in person at my Murray office, with a small number of telehealth openings for clients in Utah. 
 
 **Phone:** [801-252-5317](tel:+18012525317)
 
-For new therapy clients, please use the [questionnaire](https://forms.gle/QYjkAWwUzHNbpDbXA) rather than calling. You can complete the entire process online, without a phone consultation.
-
+For new therapy clients, please use the [online questionnaire](https://forms.gle/QYjkAWwUzHNbpDbXA) rather than calling. 
 
 ---
 
@@ -33,13 +30,7 @@ For new therapy clients, please use the [questionnaire](https://forms.gle/QYjkAW
 
 ---
 
-## Ketamine-Assisted Psychotherapy (KAP)
-
-I anticipate continuing to collaborate with **Symmetry Counseling** in providing ketamine-assisted psychotherapy (KAP) in 2027. You can [read more about how I work with KAP](/kap/).
-
----
-
-## Speaking, Workshops & Media
+## [Speaking, Workshops & Media](/speaking/)
 
 I’m also available for:
 - podcasts and interviews
@@ -47,9 +38,8 @@ I’m also available for:
 - workshops and community talks
 - professional consultation and collaboration
 
-For speaking or media inquiries, feel free to reach out directly at:
-[**sara@sararands.com**](mailto:sara@sararands.com)
+For speaking or media inquiries, email me at [**sara@sararands.com**](mailto:sara@sararands.com).
 
 ---
 
-*Email is not appropriate for urgent or crisis concerns. If you are in crisis, contact local emergency services or call/text 988.*
+*I don't provide crisis services. If you are in crisis, call or text 988. In an emergency, call 911.*
