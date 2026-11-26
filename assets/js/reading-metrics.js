@@ -38,7 +38,7 @@
     reported.add(milestone);
 
     gc.count({
-      path: `${articlePath}:${milestone}`,
+      path: `${milestone}:${articlePath}`,
       title: "",
       referrer: "",
       event: true
