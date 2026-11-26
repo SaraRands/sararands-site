@@ -10,11 +10,15 @@ og_image: /assets/images/og-home.jpg
 # Therapy for Gifted, Analytical, and Neurodivergent Adults
 *Individual therapy for deep thinkers, highly sensitive people, and people in tech and other analytical professions.*
 
+<div class="home-availability" markdown="1">
+
 **Now accepting new clients for January 2027.**  
 In-person therapy in Murray, Utah.  
-Interested in working together?  
+Interested in working together?
 
 {% include get-started.html %}
+
+</div>
 
 ---
 

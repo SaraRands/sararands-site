@@ -430,3 +430,9 @@ a.therapy-button:focus-visible {
   line-height: 1.5;
   color: #666;
 }
+
+/* ---- Homepage Availability ---- */
+
+.home-availability {
+  text-align: center;
+}
