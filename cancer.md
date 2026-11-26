@@ -1,115 +1,116 @@
+
 ---
 layout: default
 title: "Therapy for Cancer Survivors | Salt Lake City, Utah"
-description: "Therapy for cancer survivors navigating fear of recurrence, medical trauma, and identity change — from a 20-year survivor. In person in Murray, Utah."
+description: "Therapy for cancer survivors navigating fear of recurrence, medical trauma, sexuality, relationships, and mortality. In Murray, Utah, with a fellow cancer survivor."
 og_image: /assets/images/og-cancer.jpg
 ---
 
 <div class="cancer-hero"></div>
 
-# Cancer changes everything—including who you are, and who you are becoming.
+# Therapy for Cancer Survivors
 
-Whether you’re newly diagnosed, years out from treatment, or somewhere quietly in the middle, cancer reshapes your relationship with your body, your future, your identity, and the people you love.
+I was 32 when I was diagnosed with stage 3C breast cancer. My children were 7, 5, and 3.
 
-Many survivors describe a similar paradox:
+After months of aggressive treatment, I was told I had a 50% chance of recurrence.
 
-**Treatment was brutal, but the emotional work afterward was even harder.**
+The question that mattered most to me was: *Will I get to raise my kids?*
 
-When the appointments end, when the support slows down, and when everyone else assumes you’re “back to normal,” a new terrain begins. The world moves forward. Your nervous system remains braced. The fear lingers in the background of everyday life.
+One of the things that surprised me about cancer was that the emotional work after treatment was harder than treatment itself. During treatment, I had regular contact with a wonderful medical team and an outpouring of support from my community. Then treatment ended, and I was left with that 50% number and no one willing to talk about it with me.
 
-This is not failure.  
-This is survivorship.
+When I reached my twentieth anniversary of diagnosis, my children were grown. I'd gotten what I'd longed for all along.
 
----
-
-## My Story
-
-I was 32 when I was diagnosed with stage IIIC breast cancer. My children were 7, 5, and 3. I had no family history, no screening tool available to me, and no sense that anything was wrong until I found a lump myself.
-
-I went through months of aggressive treatment believing it would save my life. When it ended, I was told I had a 50% chance of recurrence.
-
-That number lived inside me for years.
-
-I share this so you know I understand the emotional terrain from the inside: the vigilance, the grief, the disorientation, the identity shifts, the way the body remembers long after the world has moved on.
-
-I eventually became a 20-year survivor, but the path between those years was anything but simple. It was filled with meaning-making, fear, hope, rebuilding, and learning how to inhabit a life that had been fundamentally altered.
-
-This is the space I hold for survivors now.
+Now that I'm a therapist, working with people who have been affected by cancer is deeply meaningful to me.
 
 ---
 
-## The Emotional Realities of Cancer Survivorship
+## The things we can talk about
 
-Cancer affects everyone differently, but many people describe:
+Your experience of cancer may be very different from mine. You may be newly diagnosed, in treatment, living with metastatic cancer, or decades out from treatment.
 
-- struggling to trust their own body again  
-- feeling changed in ways others can’t see  
-- a sense that plans, identity, and the future now feel conditional  
-- a quiet fear that shows up unexpectedly: at the dentist, on a walk, in the shower  
-- exhaustion from being “the strong one”  
-- frustration or guilt about the expectation to feel grateful  
-- loneliness, even with loving people around  
-- difficulty carrying death anxiety because others can’t bear to hear it  
-- navigating meaning and purpose after everything cracks open  
-- changes in sexuality, desire, or connection, especially when your body no longer feels like your own  
-- difficulty feeling at home in a body affected by treatment, surgery, numbness, scars, or hormonal shifts  
-- specific medical moments that still feel sharp: needles, scans, smells, rooms, procedures  
+Some of the things you might want to explore in therapy:
 
-**Cancer also reshapes sexuality in ways people rarely talk about.**  
-Desire, pleasure, embodiment, and intimacy can all shift. For some, the body feels unfamiliar or unsafe. For others, connection feels different or frightening. Many survivors don’t know how to bring this up — or fear overwhelming their partner or even their therapist.
+- **Diagnosis and treatment.** The awful limbo of waiting for results, making high-stakes medical decisions with incomplete information, advocating for yourself, and dealing with the physical and emotional demands of treatment.
+- **Other people's responses to your cancer.** The people who showed up in extraordinary ways, the ones who disappeared, the unsolicited advice, and the well-intentioned but maddening comments. (Yes, people really told me I was lucky to get a free boob job.)
+- **Marriage and partnership.** Cancer may have brought you closer together or exposed problems in your relationship. It can be hard to find your way back to being romantic partners after months or years of being patient and caregiver. You may be rethinking what you want from your relationship altogether.
+- **Anger and regret.** About what happened to you, how you were treated, decisions you made, or what you've lost.
+- **Fear of recurrence.** Scanxiety, wondering whether it's just a backache or the beginning of the end, and figuring out how much attention to pay to your body.
+- **Life after treatment.** Adjusting to changes in your stamina, physical abilities, memory, or concentration. Figuring out what to return to and what to let go of when everyone expects life to go back to normal.
+- **Meaning and faith.** Perhaps your beliefs have been a tremendous source of comfort. Perhaps cancer upended your worldview. Perhaps you've grown in ways you value, or perhaps you'd really rather it never happened.
 
-You don’t have to hide any of this with me.  
-You don’t have to protect me from the difficult parts.
-
-I can hold the hardest worries: the recurrence fears, the grief of who you were before, the shifts in sexuality and identity, the moments of medical trauma that still live in your body, the parts of you still bracing for impact.
-
-This is a space where nothing is “too dark,” nothing needs to be softened, and nothing is off-limits.
+Some of these things are difficult to talk about with your people. Sometimes you're trying to work through your own feelings while also managing theirs. You don't need to worry about mine.
 
 ---
 
-## How I Work With Survivors
+## Living with uncertainty and mortality
 
-I work with people who want a therapist who:
+How do you plan your life when you might die in a year, or live to be 101, as my grandmother did?
 
-- understands cancer from lived experience  
-- can tolerate and hold death anxiety without minimizing it  
-- welcomes grief, fear, confusion, and uncertainty without rushing them away  
-- supports the identity reconstruction that survivorship demands  
-- understands the shifts in sexuality, desire, and embodiment that treatment often creates  
-- can work with the acute medical trauma moments that still feel raw  
-- offers warmth, anchor, presence, and depth  
-- works gently and without urgency, at the pace of your nervous system  
+I spent a lot of time pondering this. Living every day as if it were your last sounds beautiful until you realize that you need clean laundry tomorrow.
 
-My primary modality is [**NARM (NeuroAffective Relational Model)**](https://narmtraining.com/what-is-narm/), a gentle, present-moment, attachment-focused approach that helps people reconnect with agency, presence, and internal safety after overwhelming experiences.
+I eventually developed what I called Plan A and Plan B: figuring out what choices I could make now that I'd feel good about whether I got one more year or 60 more years.
 
-I also use [**ART (Accelerated Resolution Therapy)**](/blog/accelerated-resolution-therapy/) for survivors carrying specific medical trauma—frightening moments in the hospital, disturbing images, needle phobia, invasive procedures, or sensory imprints that remain long after treatment. ART is often surprisingly effective at easing the emotional charge around these memories and helping the nervous system update experiences that still feel emotionally immediate, without requiring you to retell them in detail.
+Cancer can bring up scary questions:
 
-And I offer [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for survivors navigating existential distress, medical trauma, spiritual crisis, or identity shifts. KAP can open new pathways into meaning, connection, and emotional flexibility that are often inaccessible through talk therapy alone, especially when grief or fear feel frozen. 
-In cancer and serious illness, ketamine has been shown in early studies to rapidly reduce depression and anxiety, with emerging work exploring its role in existential distress and end-of-life suffering. 
+- How do I prepare my children for the possibility of losing me?
+- How much of my time and energy do I want to spend on treatment?
+- Should I keep working? Retire? Do something entirely different?
+- What have I been telling myself I'll do someday? What am I waiting for?
+- How do I live with the knowledge that my time may be limited?
+- What does a good life look like under these circumstances?
 
-[Learn more about my approach](/about/) and training background.
+Sometimes thinking seriously about death is a rational response to your situation.
 
-You don’t have to be brave here.  
-You don’t have to be inspiring.  
-You don’t have to hold anything together.
-
-You get to have a place where you can fall apart, question everything, talk honestly about sexuality and embodiment, process medical trauma, and rebuild slowly—with someone who isn’t afraid of what you carry.
+Therapy can help you figure out which of your worries you can actually do something about, how to live with the ones you can't, and what you want to do with the time you have.
 
 ---
 
-## Advocacy & Writing
+## Your body, sexuality, and intimacy
 
-My survivorship experience led me to write about the gaps in early detection for young women and the limitations in our current systems. You can read my recent op-ed on KevinMD, and appearance on The Podcast with KevinMD:
+My cancer treatment included a bilateral mastectomy, chemotherapy, radiation, breast reconstruction gone terribly wrong, and surgical menopause at 33. There was a lot to grieve and a lot to figure out. I had to learn how to map my existing sense of sexuality onto a different body, and I had no language for what I was going through.
 
-**[Early-onset breast cancer: A survivor’s story - KevinMD](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)**
+When the medical priority has been keeping you alive, it can be hard to give these losses the attention they deserve. And the people around you may have their own ideas about what you should want for your body.
 
-[**Early detection fails when screening guidelines ignore young women - The Podcast by KevinMD**](https://kevinmd.com/2025/12/early-detection-fails-when-screening-guidelines-ignore-young-women-podcast.html)
+You can be grateful to be alive, have no regrets about your treatment decisions, and still miss the sexual pleasure you used to experience.
 
-You can also read a personal reflection on my 20-year survivorship milestone on my blog:
+Figuring out what feels good now can take time, experimentation, imagination, and a sense of play. There may be possibilities you haven't discovered yet.
 
-**[Twenty Years Later: What Cancer Taught Me](/blog/twenty-years-later/)**  
+I'm comfortable talking frankly about all of this and helping you navigate these changes with or without a partner.
 
-I continue to advocate for better research, better tools, and better support for survivors, especially younger ones, whose needs are often overlooked.
+---
+
+## What therapy can help with
+
+You're still the person you were before cancer, with all your strengths and quirks and psychological baggage. Some of the ways you've always handled stress may serve you well. But cancer can also take away some of the things you've relied on to get through hard times.
+
+You may also be dealing with depression, anxiety, PTSD, OCD, or other mental health concerns. Whether or not they're related to your cancer, working on them can improve your quality of life.
+
+Therapy can help you make sense of your reactions, put words to experiences you've had trouble expressing, process grief and anger, advocate for yourself, and figure out how you want to live given your new circumstances.
+
+I draw from several therapeutic approaches:
+
+- [**Accelerated Resolution Therapy (ART)**](/blog/accelerated-resolution-therapy/) can be particularly useful for distressing medical memories, frightening procedures, needle phobia, and other traumatic experiences. It can help reduce the distress associated with specific memories without requiring you to recount them in detail.
+- [**NARM (NeuroAffective Relational Model)**](https://narmtraining.com/what-is-narm/), my primary therapy modality, is useful for exploring your relationship with yourself and others, including longstanding patterns that cancer may have brought to the surface.
+- [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) may also be an option for people experiencing depression or existential distress, when medically appropriate.
+
+My own experience with cancer informs my work, but our conversations will be about your experience and what you want from therapy.
+
+We can't change your medical circumstances, but we can usually do a lot to improve your experience of living with them.
+
+You can read more about my background and therapeutic approach [on my About page](/about/).
+
+---
+
+## Writing and advocacy
+
+My experience with cancer at a young age has also led me to advocate for better early detection tools for younger women.
+
+- [Early-onset breast cancer: A survivor’s story — KevinMD](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)
+- [Early detection fails when screening guidelines ignore young women — The Podcast by KevinMD](https://kevinmd.com/2025/12/early-detection-fails-when-screening-guidelines-ignore-young-women-podcast.html)
+
+I've also written more personally about my experience:
+
+- [Twenty Years Later: What Cancer Taught Me](/blog/twenty-years-later/)
 
 ---
 
@@ -117,4 +118,4 @@ I continue to advocate for better research, better tools, and better support for
 
 ---
 
-{% include availability.html heading="Cancer changes you. You don’t have to pretend otherwise." intro="The emotional realities of survivorship are often far more complex than the world expects them to be." %}
+{% include availability.html heading="Getting started" %}
