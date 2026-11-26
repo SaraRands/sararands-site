@@ -13,7 +13,8 @@ og_image: /assets/images/og-home.jpg
 **Now accepting new clients for January 2027.**  
 In-person therapy in Murray, Utah.  
 Interested in working together?  
-[Get started with therapy](https://forms.gle/QYjkAWwUzHNbpDbXA).
+
+{% include get-started.html %}
 
 ---
 

@@ -172,18 +172,20 @@ You may have had an experience that changed how you see yourself or the world, a
 
 Psychedelic integration is available as part of individual therapy. You don't need to be interested in KAP.
 
+{% include author-credit.html %}
+
 ---
 
 ## Availability and fees
 
 I'm not scheduling KAP sessions yet. I'm working out the medical collaboration and will update this page with availability, fees, and scheduling details.
 
-If you're interested in KAP, please let me know when you [reach out about therapy](/contact/). Knowing there's interest will help me prioritize getting this set up.
+If you're interested in KAP, I'd love to know. Knowing there's interest will help me prioritize getting this set up.
 
 In the meantime, psychedelic integration is available as part of individual therapy.
 
 [Learn more about fees, scheduling, and working together.](/fees-scheduling/)
 
----
+--- 
 
-{% include newsletter.html %}
+{% include get-started.html %}

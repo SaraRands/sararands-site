@@ -21,6 +21,8 @@ When I reached my twentieth anniversary of diagnosis, my children were grown. I'
 
 Now that I'm a therapist, working with people who have been affected by cancer is deeply meaningful to me.
 
+{% include get-started.html %}
+
 ---
 
 ## The things we can talk about
@@ -110,6 +112,8 @@ My experience with cancer at a young age has also led me to advocate for better 
 I've also written more personally about my experience:
 
 - [Twenty Years Later: What Cancer Taught Me](/blog/twenty-years-later/)
+
+{% include author-credit.html %}
 
 ---
 

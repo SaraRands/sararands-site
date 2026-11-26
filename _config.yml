@@ -21,3 +21,4 @@ kramdown:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+therapy_intake_url: "https://forms.gle/QYjkAWwUzHNbpDbXA"

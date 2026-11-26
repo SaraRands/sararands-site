@@ -12,6 +12,8 @@ og_image: /assets/images/og-financial-therapy.jpg
 
 You've worked hard to build financial security, but having options isn't the same as knowing what to do with them. Your spreadsheets and simulations can tell you it's safe to quit, and quitting can still feel reckless.
 
+{% include get-started.html %}
+
 ---
 
 ## When the freedom finally arrives
@@ -76,6 +78,8 @@ In 2026, I took a seven-month [sabbatical](/blog/career-sabbatical/) between job
 A recurring theme in the FI community is how difficult it can be to talk openly about money. It can be hard to discuss your actual financial situation with friends or family, let alone express ambivalence or distress about circumstances other people envy. These are conversations I am comfortable having.
 
 You can read more about my background and therapeutic approach [on the About page](/about/).
+
+{% include author-credit.html %}
 
 ---
 

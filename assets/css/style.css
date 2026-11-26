@@ -31,7 +31,9 @@ h2 {
 
 /* ---- Accent Color ---- */
 :root {
-  --accent-color: #7a8c6e; /* soft sage green */
+  --accent-color: #65775a; /* accessible sage */
+  --accent-light: #7a8c6e; /* original sage */
+  --cta-color: #386960;    /* botanical teal */
 }
 
 a {
@@ -383,4 +385,48 @@ section {
 a[href^="tel:"]::before,
 a[href^="tel:"]::after {
   content: none !important;
+}
+
+/* ---- Primary Therapy CTA ---- */
+
+.therapy-cta {
+  clear: both;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+a.therapy-button {
+  display: inline-block;
+  box-sizing: border-box;
+  max-width: 100%;
+  padding: 0.9rem 2rem;
+  background-color: var(--cta-color);
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.15s ease;
+}
+
+a.therapy-button:hover {
+  background-color: #2d554e;
+  color: #fff;
+  text-decoration: none;
+}
+
+a.therapy-button:focus-visible {
+  outline: 3px solid var(--cta-color);
+  outline-offset: 4px;
+}
+
+/* ---- Clinical Author Credit ---- */
+
+.author-credit {
+  margin-top: 1.5rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: #666;
 }

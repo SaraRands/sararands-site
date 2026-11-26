@@ -22,7 +22,7 @@ I primarily see clients in person at my Murray office, with a small number of te
 
 **Phone:** [801-252-5317](tel:+18012525317)
 
-For new therapy clients, please use the [online questionnaire](https://forms.gle/QYjkAWwUzHNbpDbXA) rather than calling. 
+For new therapy clients, please use the [online questionnaire]({{ site.therapy_intake_url }}) rather than calling. 
 
 ---
 

@@ -11,14 +11,13 @@
     {% include availability.html note="Additional information." %}
 {%- endcomment -%}
 
-{%- assign avail_form = "https://forms.gle/QYjkAWwUzHNbpDbXA" -%}
-
 <h2>{{ include.heading | default: "Interested in working together?" }}</h2>
 
 {% if include.intro %}<p>{{ include.intro }}</p>{% endif %}
 
 {% if include.note %}<p>{{ include.note }}</p>{% endif %}
 
-<p>Now accepting new clients for January 2027, offering in-person therapy in Murray, Utah.  <br>
-  The first step is a brief questionnaire about what you're looking for. I'll follow up within one business day.  <br>
-<strong><a href="{{ avail_form }}">Get started with therapy.</a></strong></p>
+<p>Now accepting new clients for January 2027, offering in-person therapy in Murray, Utah.<br>
+The first step is a brief questionnaire about what you're looking for. I'll follow up within one business day.</p>
+
+{% include get-started.html %}

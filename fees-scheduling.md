@@ -40,6 +40,8 @@ KAP involves costs beyond my therapy fees. The medical evaluation and prescripti
 
 If you're not using insurance, you're entitled to a Good Faith Estimate of your treatment costs. If your bill exceeds that estimate by $400 or more, you may have the right to dispute it. Learn more at [cms.gov/nosurprises](https://cms.gov/nosurprises/).
 
+{% include get-started.html %}
+
 ---
 
 ## Every-other-week sessions
