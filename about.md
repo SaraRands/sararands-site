@@ -46,7 +46,7 @@ I'm heavily influenced by existential psychotherapy. In my first semester of gra
 
 I think about human suffering like reducing fractions. We can reduce out a lot of suffering out of our experience, and that's much of what we do in therapy. But eventually the fraction doesn't reduce any further. Some suffering is inherent in being human. Recognizing that can help us grieve and accept what we can't change.  
 
-I find comfort in knowing that humans have been grappling with these questions at least since the first hominids started burying their dead. And for over a century, very smart people have been writing about how to live in a world without religion. We're in good company in both our bewilderment and our awe at the whole strange business of being alive.
+I find comfort in knowing that humans have been grappling with these questions at least since the first hominids started burying their dead 100,000 years ago. And for over a century, very smart people have been writing about how to live in a world without religion. We're in good company in both our bewilderment and our awe at the whole strange business of being alive.
 
 And yeah, I read a lot. Too much, probably.
 
