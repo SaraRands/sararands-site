@@ -15,7 +15,7 @@ After months of aggressive treatment, I was told I had a 50% chance of recurrenc
 
 The question that mattered most to me was: *Will I get to raise my kids?*
 
-One of the things that surprised me about cancer was that the emotional work after treatment was harder than treatment itself. During treatment, I had regular contact with a wonderful medical team and an outpouring of support from my community. Then treatment ended, and I was left with that 50% number and no one willing to talk about it with me.
+One thing that surprised me about cancer was that the emotional work after treatment was harder than treatment itself. During treatment, I had regular contact with a wonderful medical team and an outpouring of support from my community. Then treatment ended, and I was left with that 50% number and no one willing to talk about it with me.
 
 When I reached my twentieth anniversary of diagnosis, my children were grown. I'd gotten what I'd longed for all along.
 
