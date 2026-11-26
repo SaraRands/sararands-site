@@ -1,100 +1,72 @@
 ---
 layout: default
-title: "Therapy for Gifted & Neurodivergent Adults | Salt Lake City"
-description: "Salt Lake City therapist for gifted, highly sensitive, and neurodivergent adults in-person in Murray, Utah, near Salt Lake City. NARM, ART, and KAP."
+title: "Therapy for Gifted, Analytical & Neurodivergent Adults | Salt Lake City"
+description: "In-person therapy in Murray, Utah, for gifted, highly sensitive, and neurodivergent adults, deep thinkers, and tech professionals. NARM, ART, and KAP."
 og_image: /assets/images/og-home.jpg
 ---
 
 <div class="hero-home"></div>
 
 # Therapy for Gifted, Analytical, and Neurodivergent Adults
-*For people who understand a lot about themselves, and still find that insight isn’t enough*
+*Individual therapy for deep thinkers, highly sensitive people, and people in tech and other analytical professions.*
 
 **Now accepting new clients for January 2027.** In-person therapy in Murray, Utah. Interested in working together? [Get started with therapy](https://forms.gle/QYjkAWwUzHNbpDbXA).
 
 ---
 
-## Many of the people I work with have always noticed more than the people around them.
+Some of the people I work with have spent much of their lives figuring things out. They're good at learning, resourceful when they encounter difficulties, and generally confident that if they don't know how to do something, they can learn.
 
-Some experience the world with unusual depth and precision, registering emotional and relational patterns that others move right past.
+It's unsettling when something in your life isn't working and, despite considerable time and effort, you can't figure out how to make it better.
 
-You may need quiet after a day with people, catch the shift in someone’s tone before they say anything, or find that noise, crowds, and constant input wear you down in ways that puzzle the people around you.
+For others, the difficulty is more longstanding. You may have wondered for years why certain things that seem easy for other people are so exhausting for you, while things other people find difficult come quite naturally. You may experience the world with an intensity that brings you both enormous pleasure and considerable frustration.
 
-Others grew up in their minds—reading early, thinking quickly, analyzing instinctively—often because it was the safest place to live.
+Sometimes it's both. You have a mind you quite enjoy, and there are aspects of your life that you'd like some help with.
 
-And many carry both **a fast-moving mind and a complex inner world.**
-
-Along the way, you may have learned to rely on competence, self-awareness, achievement, or self-control while keeping other parts of yourself carefully managed. You may have been described as “mature,” “gifted,” “perceptive,” or “too sensitive,” while quietly feeling different from the people around you in ways that were difficult to explain.
-
-Even when outwardly capable, many people I work with carry a persistent sense of disconnection—from themselves, from other people, or from a life that no longer feels fully their own.
-
-You might recognize yourself in phrases like:
-
-- *“I’ve always felt different, not in a bad way, just . . . different.”*
-- *“I’m good at many things, so choosing one feels impossible.”*
-- *“People think I’m put-together, but inside I feel lost.”*
-- *“My worth has always been tied to achievement.”*
-- *“I’m comfortable in my mind, but the rest of me feels harder to access.”*
-- *“I’ve never really known how to just be myself without editing.”*
-
-This includes [gifted and high-ability adults](/blog/gifted-informed-therapy/), highly sensitive people ([HSPs](https://hsperson.com/)), neurodivergent adults, former “gifted kids” who learned to make themselves smaller, and fellow therapists—people who spend so much of their lives supporting others that they need a place where they can finally be supported, seen, and held.
-
-You don’t have to simplify yourself here.
-Your depth is welcome.
+Before becoming a therapist, I spent six years as a software engineer. I have a particular fondness for curious, complicated people.
 
 ---
 
-## When the life you built no longer feels like yours
+## When something needs to change
 
-People often come to me in moments when life stops making sense—when the story they’ve lived no longer matches the story unfolding.
+Maybe you've been teaching for fifteen years. You're good at it, and you still love the moments when something clicks for a student. But you've started declining invitations on Friday nights because you can't bear the thought of another person needing something from you. You can make it to the end of this school year. You've made it to the end of a lot of school years. But you're finding it harder to recover over the summer, and when you imagine yourself teaching for another five years, you're not sure what will be left of the person who went into teaching in the first place.
 
-Sometimes the shift is sudden:
+Perhaps you're noticing some changes in your own functioning that are frankly frightening. You're sitting in front of work you know perfectly well how to do, you're acutely aware of the consequences of not doing it, and somehow you can't make yourself do it. You've always been able to summon the necessary effort before.
 
-- a breakup or divorce you didn’t see coming
-- career burnout, a layoff, or an industry shift that makes the old plan feel impossible
-- a diagnosis that rearranges everything
-- a loss that reshapes your world—of a person, a relationship, or a version of life you counted on
-- a moment when you realize you can’t keep going the way you have
+You'd love to have a richer social life, but you're relieved when someone cancels dinner plans. You look forward to a family vacation and then spend much of it wishing you could have a few hours alone. You watch other people go from a morning at work to lunch with friends to an evening concert, apparently enjoying all three. You'd enjoy all three, too, if they were on different days. You've spent years trying to determine whether you need to push yourself more or give yourself more latitude.
 
-Other times the change is quieter. You reach a milestone you worked years for and find yourself asking, *is that all there is?* You question beliefs you never expected to question. You spent your life being what others needed, and now you aren’t sure who you are. You worked hard to create options, and now the options themselves feel overwhelming.
+Sometimes the circumstances of your life change abruptly. A [cancer](/cancer/) diagnosis crashes through your life like an avalanche, displacing everything. Your spouse tells you they want a divorce, and you're trying to fathom what it would be like to come home to a house without your children half the week. You realize your days in your profession may be numbered, whether because of changes in your industry or because you simply can't keep doing this.
 
-Some describe it as hiking in earthquake country; the ground itself is shifting under your feet.
+Perhaps you're navigating a faith transition. Information you've encountered doesn't fit into the worldview you've spent decades piecing together. You pull on a thread and discover it's connected to practically everything: your marriage, your community, your understanding of what's right and wrong, your plans for your children, your sense of what you're doing here on earth. You're trying to figure out what's true while also trying to figure out how much of the life you've built you'll get to keep.
 
-You don’t have to navigate it alone.
+Maybe you've spent years working toward a future in which you'll have more freedom to do what you want. But the goalposts keep moving, and you're spending a lot of your actual life waiting for that future to arrive. Or you've reached a milestone you worked years for and find yourself asking, *is that all there is?* You'd like more connection, more energy, more interesting things to look forward to.
 
----
+You don't need to have exhausted every possible avenue before we begin working together. And you don't need to wait until things get considerably worse.
 
-## What can become possible
-
-You may already have tried very hard to change—through therapy, books, journaling, meditation, or years of trying to understand yourself. And still, things haven’t shifted.
-
-It can be hard to keep hoping after that.
-
-Sometimes the problem is the map, not your effort. Therapy can help you make sense of the territory and find new ways to move through it. Over time, what was once the knee-jerk reaction can become one option among several.
-
-Change might look like:
-
-- **Facing reality with more support.** A relationship that isn’t what you hoped, a body with limits, a career or identity that no longer fits, a diagnosis, or something important you cannot control. Acceptance can make room for grief, and for the possibilities that remain.
-- **Having better access to yourself.** Noticing emotions, body signals, needs, wants, and limits before your body has to shout, and learning how to use that information without assuming every feeling is telling you the truth.
-- **Holding old stories and strategies more lightly.** The ways you learned to analyze, achieve, please, withdraw, monitor the room, or handle everything yourself developed for reasons. The goal isn’t to get rid of them, but to have more choice about when they serve you, and more trust in your ability to decide.
-- **Having more room for life and connection.** Asking for help sooner. Letting safe people know more of you. Recovering from difficult moments more quickly. Having more energy for relationships, creativity, meaningful work, curiosity, rest, and whatever else matters to you.
-
-Sometimes change comes relatively quickly. And longstanding patterns around shame, relationships, identity, and self-trust can take more time to shift; a year and a half or two years of consistent therapy is not unusual. My goal is always to work myself out of a job: to help you carry what happens in therapy into a life with more freedom, connection, and choice.
+You get one life.
 
 ---
 
-## How I work
+## What working with me looks like
 
-My approach blends clarity, depth, and emotional attunement. I draw from:
+One of the unusual things about therapy is that it's a relationship in which you don't have to take care of the other person. You don't need to worry about upsetting me, impressing me, or being brave or inspiring. There is surprising power in simply telling another human being something you've been ashamed of for years and having that person continue to regard you warmly.
 
-- The [**NeuroAffective Relational Model (NARM)**](https://narmtraining.com/what-is-narm/) — for identity, agency, connection, attachment, and longstanding patterns
-- [**Accelerated Resolution Therapy (ART)**](/blog/accelerated-resolution-therapy/) — for trauma, emotional stuckness, and bridging the gap between what you understand intellectually and what your nervous system still carries
-- [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) — for depression, existential distress, depth, and meaning-making
-- A **neurodivergence-affirming lens**, honoring sensitivity, intensity, and complexity
-- My background in **English and computer science**, integrating story and system, metaphor and logic
+Sometimes our work is practical. If you're in a relationship where you're being harmed, or your mental health is deteriorating to the point that your livelihood is at risk, we need to focus on immediate circumstances. If your house is on fire, getting out of the house is the priority, not learning why the house caught fire. There will be time for that later.
 
-Clients often describe therapy with me as steady, grounding, and spacious,
-a place where nothing has to be forced, rushed, or minimized.
+Sometimes a new way of understanding something makes an enormous difference. Learning how OCD works, understanding how [giftedness](/blog/gifted-informed-therapy/) or neurodivergence shapes your experience, or developing a better understanding of emotions can change how you navigate your everyday life. I have a bookcase full of books I enthusiastically recommend, and I'm delighted when something you read or a practice you develop enables you to progress on your own.
+
+Other things are less amenable to intellectual understanding. You know what happened to you as a child wasn't your fault, but you still feel ashamed. You know it's unlikely that you'll have another car accident at that intersection, but you've been taking the long way home for years.
+
+I've sought out training in approaches like [Accelerated Resolution Therapy (ART)](/blog/accelerated-resolution-therapy/) and [ketamine-assisted psychotherapy (KAP)](/kap/) because they give us ways of working with emotional experiences that haven't shifted through understanding alone.
+
+Much of how I work is informed by the [NeuroAffective Relational Model (NARM)](https://narmtraining.com/what-is-narm/). We often begin with a deceptively simple question about what you want for yourself. Getting curious together about that question, and about what gets in the way, can take us to surprising depths. There can be something profoundly healing about feeling seen in places where you've rarely felt understood before. Over time, you may begin to see new possibilities, and choices that you intellectually knew you had may begin to feel like choices you can actually make.
+
+I also draw on mindfulness practices, which have been an important part of my own growth. Working with my emotions wasn't particularly intuitive for me. I've had to learn to slow down enough for them to register, and I have patience for others developing that capacity.
+
+I value therapy as a chance to step away from the business of living your life to examine it. What do you actually want? Are the things you're doing getting you there? What's getting in the way? We can think through different possibilities, feel our way into them, and sometimes come up with small experiments that give you more information than another month of thinking would.
+
+I enjoy working with people who take an active role in their own therapy. That might mean trying something we discussed and coming back to tell me what happened. It might mean noticing something about yourself during an ordinary Tuesday afternoon. It might mean telling me that something we're doing isn't helping. And sometimes it’s useful to see what happens when you stop trying quite so hard.
+
+And I particularly enjoy working with fellow therapists, who often bring both considerable psychological knowledge and a willingness to face difficult things about themselves. Understanding how humans function doesn't exempt any of us from the experience of being one.
 
 You can read more about my background, training, and therapeutic approach [on the About page](/about/).
 
@@ -102,9 +74,29 @@ Alongside my clinical work, I speak about living a connected, meaningful life wi
 
 ---
 
+## What can become possible
+
+You may find that experiences from your past begin to exert less influence on your present. You can hear irritation in your partner's voice without going into a panic. You can sit down together to discuss money and deal with the numbers that are actually in the spreadsheet rather than the financial insecurity you grew up with. You can disappoint someone you love without feeling that you've jeopardized the entire relationship.
+
+As you develop a better understanding of your own wiring, you may find it easier to arrange your life in ways that work for you. You can recognize your limitations without being ashamed of them, communicate your needs more clearly, and stop spending so much energy trying to make yourself function like somebody else.
+
+You may become better at noticing what's happening inside before it overwhelms you. Emotions, physical sensations, needs, and desires are all useful sources of information, though not every feeling is telling you the "truth." Having access to more of that information can help you make better decisions, understand other people, and stay connected to someone you love even when you're in the middle of a disagreement.
+
+Over time, you may get better at discerning which problems are worth spending your energy solving. There may be things you've resigned yourself to that are actually changeable, and things you've spent years trying to change that just aren't. Coming to terms with the latter can be painful, but it can free up energy for the former.
+
+You may become more comfortable making decisions without knowing how things will turn out. More able to make a mistake, learn something from it, and move on without conducting an indefinite postmortem. More able to be a disappointing, imperfect human being and still feel worthy of love and connection.
+
+Some of the changes may be apparent in ordinary moments. You're out hiking and you notice the texture of the leaves rather than mentally working through a problem. You're able to let someone comfort you instead of immediately going into problem-solving mode. You find yourself looking forward to things again.
+
+Sometimes change comes quickly. Other changes happen incrementally, two steps forward and one step back, as you take what you're learning in therapy out into the world. Longstanding patterns around shame, relationships, identity, and self-trust can take considerable time to shift; a year and a half or two years of consistent therapy is not unusual.
+
+My goal is to work myself out of a job. I'd like you to leave therapy with a richer understanding of yourself, more capacity to navigate whatever life hands you next, and more enjoyment of the life you're living now.
+
+---
+
 ## [Financial Therapy](/financial-therapy/)
 
-A place for thoughtful, financially capable adults to talk honestly about financial independence, burnout, layoffs, and what comes next when money has created real options—but not necessarily clarity.
+A place for thoughtful, financially capable adults to talk honestly about financial independence, burnout, layoffs, and what comes next when money has created real options, but not clarity.
 
 ---
 
