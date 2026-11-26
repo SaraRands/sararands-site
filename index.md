@@ -60,13 +60,13 @@ I've sought out training in approaches like [Accelerated Resolution Therapy (ART
 
 Much of how I work is informed by the [NeuroAffective Relational Model (NARM)](https://narmtraining.com/what-is-narm/). We often begin with a deceptively simple question about what you want for yourself. Getting curious together about that question, and about what gets in the way, can take us to surprising depths. There can be something profoundly healing about feeling seen in places where you've rarely felt understood before. Over time, you may begin to see new possibilities, and choices that you intellectually knew you had may begin to feel like choices you can actually make.
 
-I also draw on mindfulness practices, which have been an important part of my own growth. Working with my emotions wasn't particularly intuitive for me. I've had to learn to slow down enough for them to register, and I have patience for others developing that capacity.
+I also draw on mindfulness practices, which have been an important part of my own growth. Working with my emotions wasn't intuitive for me. I've had to learn to slow down enough for them to register, and I have patience for others developing that capacity.
 
 I value therapy as a chance to step away from the business of living your life to examine it. What do you actually want? Are the things you're doing getting you there? What's getting in the way? We can think through different possibilities, feel our way into them, and sometimes come up with small experiments that give you more information than another month of thinking would.
 
 I enjoy working with people who take an active role in their own therapy. That might mean trying something we discussed and coming back to tell me what happened. It might mean noticing something about yourself during an ordinary Tuesday afternoon. It might mean telling me that something we're doing isn't helping. And sometimes it’s useful to see what happens when you stop trying quite so hard.
 
-And I particularly enjoy working with fellow therapists, who often bring both considerable psychological knowledge and a willingness to face difficult things about themselves. Understanding how humans function doesn't exempt any of us from the experience of being one.
+And I enjoy working with fellow therapists, who often bring both considerable psychological knowledge and a willingness to face difficult things about themselves. Understanding how humans function doesn't exempt any of us from the experience of being one.
 
 You can read more about my background, training, and therapeutic approach [on the About page](/about/).
 
