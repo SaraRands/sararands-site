@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Therapy for Cancer Survivors | Salt Lake City, Utah"
