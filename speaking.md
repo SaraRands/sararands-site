@@ -1,34 +1,28 @@
 ---
 layout: default
-title: "Speaking & Workshops | Faith Transitions & Neurodiversity"
-description: "Talks and workshops on faith transitions, identity, neurodiversity, and building a meaningful life after major change. Featured on KevinMD."
+title: "Speaking & Media | Sara Rands, CMHC"
+description: "Talks on psychology, philosophy, emotional literacy, agency, mindfulness, neuroplasticity, and existential concerns. Breast cancer advocacy featured on KevinMD."
 ---
 
 # Speaking & Media
 <img src="{{ '/assets/images/speaking.jpg' | relative_url }}" alt="Sara speaking at Mormon Mental Health Association conference" class="speaking-img">
 
-My talks explore how people build meaningful, connected, psychologically flexible lives, especially after major shifts in identity, belief, health, or belonging. I’m especially interested in what helps thoughtful, complex people reconnect with agency, meaning, and emotional integration when the old roadmap no longer works.
-
-This page gathers some of the places I’ve spoken and the conversations I’ve been part of.
-
-## Topics I Speak About
-
-- faith transitions and identity reconstruction  
-- emotional integration for analytical and “in-their-head” people  
-- agency, psychological flexibility, and meaning-making  
-- neurodivergence, giftedness, and high sensitivity  
-- attachment, mindfulness, and relational healing  
-- existential resilience after major life disruption  
-- trauma, emotional stuckness, and nervous system healing  
-- cancer survivorship and medical trauma  
-- building a meaningful life without a prewritten script  
-- the intersection of psychology, spirituality, and culture  
+I consume an embarrassing amount of content, much of it about how to live a good life. Ideas from psychology, philosophy, history, and whatever else I'm reading often compost together until something emerges that I want to share.
 
 <div style="clear: both;"></div>
 
 ---
 
 ## Talks
+
+### How to Care about Everything without Carrying Everything: Reflections on Politics, the News, and the State of the World
+
+How accurate is the picture of the world we get from the news? What can we learn from previous generations who managed to live full lives in the midst of calamity? Drawing on history, psychology, and mindfulness, I explore how to keep our perspective, be engaged citizens, and live our own lives. We don't need to suffer to prove that we care.
+
+- [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/4-Oct-2026)
+- [Read the written version on my blog](/blog/political-anxiety/)
+
+---
 
 ### Navigating the Void: Faith Transitions Through an Existential Lens
 
@@ -37,79 +31,44 @@ This page gathers some of the places I’ve spoken and the conversations I’ve 
     title="Navigating the Void: Faith Transitions Through an Existential Lens" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Research on the faith transition experience and how existential therapy provides a helpful framework for rebuilding meaning and worldview.
+Religion offers reassuring answers to some of the most difficult questions of human existence. What happens when those answers are no longer available? Drawing on research into religious deconversion and Irvin Yalom's four ultimate existential concerns (death, freedom, isolation, and meaninglessness), I explore why leaving religion can be so profoundly disorienting, and what it takes to build a satisfying life on the other side.
 
 - [**Mormon Mental Health Association Conference, 2024**](https://mormonmentalhealthassoc.org/product/2024-mmha-conference-friday-session-8-when-it-isnt-a-faith-crisis-duplicate-1/)  
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/21-apr-2024)
+- **Utah Valley Oasis, November 2025** (video above)
 
 ---
 
-### How to Care about Everything without Carrying Everything: Reflections on Politics, the News, and the State of the World
-History, mindfulness, and practical tools for coping with political anxiety, plus ways to act that don't require you to suffer to prove that you care.
-- [Salt Lake Oasis](https://www.saltlakeoasis.org/events/4-Oct-2026)
-- [Read the written version on my blog](/blog/political-anxiety/) 
+### My Beef with the Buddha: Nuanced Mindfulness
+
+I'm a big fan of mindfulness, but I have a few bones to pick with the Buddha. Drawing on attachment research, trauma psychology, feminism, and my own experience at a silent meditation retreat, I explore what gets overlooked when equanimity and nonattachment become the highest ideals. Mindfulness is a wonderful part of a complete breakfast, but it's no substitute for healthy relationships, boundaries, or critical thinking.
+
+- [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/22-jun-2025)
 
 ---
 
 ### The Mental Health Benefits of Agency: Why Believing You Have Choices Matters
-Whatever the “truth” about free will, believing you have no meaningful choices leads to feeling stuck.
+
+Do we have free will? The philosophers can keep arm wrestling over that. But the felt experience of having choices turns out to matter a great deal for our mental health. From the ancient Stoics to William James, Viktor Frankl, and contemporary psychology, I trace how this idea keeps resurfacing and explore how we can expand our sense of agency within the real constraints of our lives.
+
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/15-feb-2026)
 
 ---
 
-### The Neuropathway Less Traveled: Practices for Healing and Growth
-Neuroplasticity and the many do-it-yourself and therapeutic practices that help people create meaningful change.
-
-- [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/26-oct-2025)
-
----
-
 ### Emotions for Overthinkers
-A practical and compassionate framework for thoughtful, analytical people who want to understand and work with emotions.
+
+Why do we have emotions in the first place, and what does it cost those of us who are really good at suppressing them? I explore the evolutionary purpose of emotions, the ways religion, culture, and upbringing shape our relationship with them, and practical tools for developing emotional literacy. Emotions are valuable data, but they're not the whole picture. We make better decisions when we have access to both reason and emotion.
 
 - [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/9-mar-2025)
 - **Utah Valley Oasis**
 
 ---
 
-### My Beef with the Buddha: Reclaiming Attachment and Connection
-A reflection on mindfulness, attachment, caregiving, and what gets lost when equanimity is the highest spiritual ideal.
+### The Neuropathway Less Traveled: Practices for Healing and Growth
 
-- [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/22-jun-2025)
+Why is it so hard to change, and what makes change possible? I explore the science of neuroplasticity and offer an extensive menu of options for psychological growth. We cover DIY practices like journaling, reading, and meditation; we also explore different types of therapy, including newer trauma therapies. (Please don't do all of the things; it's too much.) I hope you'll leave with a few things you're curious to try and a greater appreciation for your brain's capacity to change throughout your life.
 
----
-
-## Podcasts
-
-### ART and Trauma Therapy
-
-Accelerated Resolution Therapy: What it is, how it works, and why it can be so effective.  
-<div class="audio-wrapper">
-  <iframe style="border-radius:12px" loading="lazy" title="Podcast episode"
-    src="https://open.spotify.com/embed/episode/4XVjtAlt9rZ7aBlaS11m0p?utm_source=generator" 
-    width="100%" height="152" frameborder="0" allowfullscreen=""
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</div>
-
----
-
-### Online Dating & Dating Skills
-<div class="audio-wrapper">
-  <iframe style="border-radius:12px" loading="lazy" title="Podcast episode"
-    src="https://open.spotify.com/embed/episode/6sRR601kiVzBLdSuNEDHd6?utm_source=generator" 
-    width="100%" height="152" frameborder="0" allowfullscreen=""
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</div>
-
----
-
-### Faith Transitions and Existential Therapy
-<div class="audio-wrapper">
-  <iframe style="border-radius:12px" loading="lazy" title="Podcast episode"
-    src="https://open.spotify.com/embed/episode/7FghSp1V7Xtx0RolBAOFCj?utm_source=generator" 
-    width="100%" height="152" frameborder="0" allowfullscreen=""
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</div>
+- [**Salt Lake Oasis**](https://www.saltlakeoasis.org/events/26-oct-2025)
 
 ---
 
@@ -121,34 +80,24 @@ Accelerated Resolution Therapy: What it is, how it works, and why it can be so e
     title="Early detection fails when screening guidelines ignore young women" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="audio-wrapper">
-  <iframe style="border-radius:12px" loading="lazy" title="Podcast episode"
-    src="https://open.spotify.com/embed/episode/1osPgcLzptzw5b1O6LmocP" 
-    width="100%" height="152" frameborder="0" allowfullscreen=""
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</div>
-
----
-
 [**Early-onset breast cancer: a survivor’s story — KevinMD**](https://kevinmd.com/2025/11/early-onset-breast-cancer-a-survivors-story.html)  
-My experience as a stage 3C breast cancer survivor diagnosed at 32, and why younger women deserve better early detection tools.  
-
-For more personal reflections, see my [blog](/blog/).
+My experience as a stage 3C breast cancer survivor diagnosed at 32, and why younger women deserve better early detection tools.
 
 ---
 
 ## Side Project
 
 [**Utah Name Generator**](https://utahnames.sararands.com/)  
-The world needed better technology to create more unique Utah-style names. I heeded the call.   
+The world needed better technology to create more unique Utah-style names. I heeded the call.
+
+I presented the project at the 2026 Sunstone Symposium: [The Utah Name Generator: New Names Through Machine Learning](https://sunstone.org/product/236-the-utah-name-generator-new-names-through-machine-learning/).
 
 ---
 
 ## Inquiries
 
-If you’re interested in a conversation, interview, or community talk, [feel free to reach out](/contact/).  
-I’m always open to projects that feel aligned.
+For speaking invitations or other professional inquiries, feel free to email me at [sara@sararands.com](mailto:sara@sararands.com).
 
 ---
 
-  {% include newsletter.html %}  
+{% include newsletter.html %}
