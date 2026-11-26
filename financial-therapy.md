@@ -1,162 +1,79 @@
 ---
 layout: default
 title: "Financial Therapy in Utah | Financial Independence & Burnout"
-description: "Financial therapy for financially capable adults facing FI, layoffs, burnout, and what comes next. In person in Murray, Utah"
+description: "Financial therapy for financially capable adults navigating financial independence, layoffs, burnout, career transitions, and early retirement. In person in Murray, Utah."
 og_image: /assets/images/og-financial-therapy.jpg
 ---
 
 <div class="hero-financial-therapy"></div>
 
 # Financial Therapy
-*Individual therapy in Utah for adults navigating money, work, security, freedom, and what comes next*
+*For adults navigating financial independence, career transitions, and early retirement*
 
-You may be thoughtful, financially capable, and good with numbers—and still face questions the spreadsheet can’t answer.
-
-Financial therapy offers room to explore the emotional and existential dimensions of money, work, security, freedom, and enough.
+You've worked hard to build financial security, but having options isn't the same as knowing what to do with them. Your spreadsheets and simulations can tell you it's safe to quit, and quitting can still feel reckless.
 
 ---
 
 ## When the freedom finally arrives
 
-You planned carefully, postponed gratification, and built real financial security.
+Maybe you've reached the number you've been working toward for years. Maybe you're close. You expected that getting there would feel like freedom, but instead you hear yourself saying, *One more year.*
 
-Maybe you’ve reached the number you worked toward for years. Maybe you’re close. You expected that getting there would feel like freedom.
+The habits that got you here can make it surprisingly difficult to stop. You can keep running scenarios in pursuit of a level of certainty that doesn't exist. If you've spent decades feeling good about saving money, it can be difficult to start feeling good about spending it.
 
-Instead you hear yourself saying, *One more year.*
+And even if you're comfortable with the numbers, there's a whole other set of questions:
 
-The planning, discipline, and delayed gratification that helped you create options are real strengths. But those strengths can become rigid when fear takes over.
+- *What would I do on an ordinary Wednesday?*
+- *Where would I find people to spend time with?*
+- *Would I miss feeling competent and useful at work?*
+- *Who am I without my career?*
 
-Planning can become a search for certainty that doesn’t exist.  
-Discipline can make stopping feel irresponsible.  
-Delayed gratification can make it hard to notice that the future has arrived.  
-
-You can be financially ready and emotionally unprepared at the same time.
-
-The question may no longer be just:
-
-*Can I retire?*
-
-It may also be:
-
-- *What would I do on an ordinary Tuesday?*  
-- *Where would I find structure, connection, purpose, and a sense of being useful?*  
-- *Who would I be without my work?*  
-- *What do I want to do with this freedom?*
-
-Maybe you want to retire fully. Maybe you want a sabbatical, fewer hours, unpaid work that matters to you, more time for family, or a life that moves between contribution and rest.
-
-There may be several possible lives here, each offering something real and each costing something real.
-
-Therapy offers room to explore them without requiring one perfect answer.
+You may also find yourself questioning the assumption that the choices are to keep working or retire. You could take six months off, work part-time, go back to school, do interesting work for less pay, or spend more time with your family. There may be several versions of your life that you'd genuinely enjoy, and choosing one means giving up some of what the others would offer.
 
 ---
 
-## When the choice arrives before you are ready
+## Layoffs, burnout, and career change
 
-Sometimes the decision isn’t yours to make.
+Sometimes it's not a decision. You might have been planning to retire in a year anyway. But you didn't want your employer to make that decision for you.
 
-A layoff, burnout, or sudden change in your industry can unsettle much more than your income.
+Maybe you love software engineering and expected to spend another twenty years doing it. You may be fascinated by AI and at the same time fear that your hard-won expertise will no longer be valued in five years.
 
-Work may have provided identity, structure, status, community, competence, and a sense of being needed. Losing it—or realizing you can’t keep doing what you’ve been doing—can bring fear, grief, shame, anger, or disorientation even when the money is fine.
+If you've spent years measuring your career progress in total comp, taking a pay cut can feel like moving backwards, even if it would make little difference to your standard of living. And if you've taken pride in your ability to provide for your family, voluntarily walking away from a high-paying career can feel like a dereliction of duty. Your spouse, parents, or peers may see it that way, too.
 
-You can know the numbers are fine and still be terrified.
+You may have enough money to take a year off and still find yourself grinding LeetCode problems the week after a layoff. Getting another job in tech may be what you want, or it may be the only next step you've ever seriously considered.
 
-You may wonder:
-
-- *Why am I so frightened when the spreadsheet says I am safe?*
-- *Should I be trying harder to get back to what I had?*
-- *Does stepping back mean I failed?*
-- *What am I supposed to do now?*
-
-This may be the first time you’ve had to think of your financial position not as protection against disaster, but as something you can actually spend.
-
-Perhaps you already have room to pause, recover, reduce your expenses, care for family, return to school, take a sabbatical, or wait before making another major commitment.
-
-Knowing the options exist doesn’t make them feel real, or safe.
-
-Therapy can help you understand what has been lost, what remains available, and what this interruption may make possible, without rushing you toward reinvention before you’re ready.
+This may be the first time you've had to think of your savings not as protection against disaster, but as money you can actually spend. Perhaps you could afford to take several months off, be more selective about your next job, or consider doing something entirely different. The fact that you have those options doesn't necessarily mean you've ever seriously entertained them.
 
 ---
 
 ## Money and safety
 
-Money can carry the emotional weight of earlier experiences.
+Perhaps you grew up in a household where every dollar mattered. You can now easily afford a vacation, but you spend much of it mentally tallying what everything costs. Or you've accumulated enough money to withstand several fairly catastrophic life events, but you still find yourself preparing for increasingly unlikely disasters.
 
-You may have lived through poverty, instability, illness, divorce, betrayal, religious pressure, family conflict, job loss, or times when survival depended on being exceptionally responsible.
+Past experiences with poverty, financial instability, divorce, illness, or financial betrayal can continue to shape your relationship with money long after your circumstances have changed. You may understand perfectly well where your fears come from and still be unable to enjoy spending money or trust another person financially.
 
-Your circumstances can change without your sense of safety changing with them.
+This is an area where trauma therapy can be helpful. [Accelerated Resolution Therapy (ART)](/blog/accelerated-resolution-therapy/) can help reduce the emotional intensity of earlier experiences that continue to influence your financial decisions. [Ketamine-Assisted Psychotherapy (KAP)](/kap/) may also be worth exploring.
 
-Money doesn’t automatically resolve:
-
-- fear of dependence
-- difficulty trusting other people
-- fear of being exploited
-- guilt or shame about having money
-- the need to remain prepared for catastrophe
-- experiences of financial control or betrayal
-- traumatic memories connected to work, illness, caregiving, or loss
-
-Therapy can help explore both the present-day question and what it touches from the past.
-
-When appropriate, this work may include [**Accelerated Resolution Therapy (ART)**](/blog/accelerated-resolution-therapy/) for difficult or traumatic experiences. [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) may also support deeper work around identity, fear, grief, meaning, and transition.
-
-The aim is not to dismiss realistic concerns. It is to understand more clearly how present circumstances and earlier experiences may both be shaping your choices.
+The goal isn't to make you less financially cautious. Some of your concerns may be entirely warranted. But untangling the fears associated with past experiences from the risks you're facing now can help you make financial decisions with the full benefit of your reasoning abilities, rather than from a place of fear.
 
 ---
 
-## What financial therapy can offer
+## Financial therapy is not financial planning
 
-Financial planning can help you understand what is financially possible. Coaching can help you set goals and create a plan.
+I'm not here to tell you whether you have enough money to retire or how likely your financial plan is to work. You may already have two financial planners and several Monte Carlo simulations telling you that you're fine. The problem is that you don't feel fine. That's what therapy is for.
 
-Financial therapy makes room for uncertainty, contradiction, grief, fear, and questions that don’t have immediate answers.
+I provide individual psychotherapy for adults. I'm not a financial planner or career coach, and I don't provide investment, tax, or legal advice.
 
-This work may help you:
-
-- explore what money, work, security, and success mean to you
-- put language to feelings that have been difficult to discuss
-- recognize when fear has narrowed your thinking
-- notice options you have dismissed or overlooked
-- tolerate tradeoffs instead of searching for a risk-free choice
-- reconnect with curiosity and agency
-- create small experiments rather than trying to predict an entire future
-
-The goal isn’t to prescribe retirement, continued work, or any particular kind of life. It’s to help you see the choices you have and decide what you want them to support.
-
----
-
-## What this work is—and isn’t
-
-I provide **individual therapy** for adults. 
-
-Financial therapy with me is not:
-
-- financial planning or investment advice
-- tax, legal, retirement-distribution, or wealth-management advice
-- budgeting or debt-management coaching
-- résumé writing or job-search consulting
-- a substitute for a financial planner, accountant, attorney, or other qualified professional
-
-I am not here to tell you whether you can afford to retire, how to invest, or which option will produce the best financial outcome.
-
-I am here to help you explore the emotional, relational, identity, and meaning questions that remain after the projections have been run—and to help you see the information and options you already have with greater clarity and agency.
+I'm also not a financial coach. My focus isn't on helping you get out of debt, stick to a budget, or develop financial discipline. Many of the people I work with could now benefit from a little less financial discipline.
 
 ---
 
 ## A therapist who understands the conversation
 
-You should not have to spend therapy time explaining the logic of financial independence or defending the desire for a life that does not center paid employment.
+Before becoming a therapist, I spent years in frugality culture, taking pride in making a very small income work, until I recognized that frugality alone couldn't create the life I wanted for my children. I went back to school for computer science and spent six years working as a software engineer. Along the way, I became immersed in the financial independence community, reading many of the same books, blogs, and forums you probably have.
 
-My familiarity with this world is not academic. I spent years deep in frugality culture, taking real pride in making a very small income work—before recognizing that frugality alone could not create the life I wanted for my children. A later career in software engineering, and years inside the financial independence community, put me close to the books, the blogs, the forums, and the arguments that have shaped it.
+In 2026, I took a seven-month [sabbatical](/blog/career-sabbatical/) between jobs—essentially a mini-retirement—to explore some of these questions in my own life.
 
-I also took a [sabbatical](/blog/career-sabbatical/) in 2026—basically a mini-retirement—to explore some of these themes in my own life. This is territory I know from the inside.
-
-I understand that early retirement can make room for a rich life, that having money doesn’t eliminate fear, and that financial freedom raises questions no calculator can answer.
-
-Your financial choices will not be romanticized or resented. They will be treated as part of your actual life: meaningful, complicated, and worthy of thoughtful exploration.
-
-You don’t have to translate your financial reality here, minimize the options you’ve built, or apologize for having them.
-
-You don’t have to justify why a fortunate situation still feels frightening. And you don’t need to know what you want before we begin.
+A recurring theme in the FI community is how difficult it can be to talk openly about money. It can be hard to discuss your actual financial situation with friends or family, let alone express ambivalence or distress about circumstances other people envy. These are conversations I am comfortable having.
 
 You can read more about my background and therapeutic approach [on the About page](/about/).
 
