@@ -1,125 +1,64 @@
 ---
 layout: default
 title: "About Sara Rands, CMHC | Therapist in Salt Lake City, Utah"
-description: "Sara Rands is a Salt Lake City therapist for gifted, highly sensitive, and neurodivergent adults in Murray, Utah. NARM, ART, KAP, and financial therapy."
+description: "Sara Rands is a Salt Lake City therapist for gifted, analytical, highly sensitive, and neurodivergent adults in Murray, Utah. NARM, ART, KAP, and financial therapy."
 ---
 
 # Hi, I’m Sara.
 
 <img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Therapist Sara Rands, CMHC" class="portrait-img">
 
-I’m a therapist for people with fast-moving minds and complex inner worlds: the ones who’ve spent years trying to make sense of themselves in a world that prefers simpler stories. Many of my clients wonder whether they’re too sensitive, too intense, too analytical, or somehow “not built like everyone else.”
+I’m a therapist who particularly enjoys working with bright, curious, and analytical adults, including people who are gifted, highly sensitive, autistic, or have ADHD.
 
-I don’t see those traits as flaws.  
-I see them as strengths that the world often misunderstands.
-
-My work is about creating a space where you don’t have to translate yourself: a space where depth is welcomed, where curiosity is a virtue, and where the complexity of your inner world can finally breathe.
+I'm gifted and highly sensitive myself, and my previous career as a software engineer gave me six years of working with people whose minds I thoroughly enjoyed. One of the pleasures of my current career is that I still get to spend my days with cool people, figuring things out together.
 
 ---
 
 ## My Background
 
-Before I was a therapist, I lived many lives.
+Before I became a therapist, I did a lot of other things.
 
-I began as an English major who also studied German, psychology, music, education, philosophy, and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home birth but biology interfered (hi there, birth trauma!). I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette* and *Your Money or Your Life*, and for years I took pride in making a very small income work—until I realized frugality could only take us so far in creating the life I wanted for my children.
+I began as an English major who also studied German, psychology, music, education, philosophy, and religion. I worked as a substitute teacher, then became a stay-at-home mom, then a homeschooler until cancer interrupted that chapter. I tried to home birth but biology interfered (hey, birth trauma!). I breastfed babies for years, gardened, and baked four loaves of whole wheat bread every week. I was an earnest reader of *The Tightwad Gazette* and *Your Money or Your Life*, and for years I took pride in making a very small income work—until I realized frugality could only take us so far in creating the life I wanted for my children.
 
-I was also a devout, all-in Mormon, serving my local ward as organist for a decade and building life around my sense of God’s will. My faith transition was a years-long, complex process that disrupted meaning, identity, and relationships, and ultimately required rebuilding life from the ground up.
+I was also a devout, all-in Mormon, serving my local ward as organist for a decade and building life around my sense of God’s will. My faith transition took years and upended my worldview, my sense of identity, and many of my relationships.
 
-Later, I transcribed college courses for Deaf students, a job I loved. One day I transcribed a web programming course and thought, *I bet I could do that.*  
+Later, I transcribed college courses for Deaf students. One day I transcribed a web programming course and thought, *I bet I could do that.*
 
-I eventually went back to school for computer science, launched a six-year career in software engineering, collaborating with smart, curious, deeply analytical people solving interesting problems. I built a [Utah Baby Name Generator](https://utahnames.sararands.com/), a small side project for generating uniquely Utah-style names, because clearly, someone had to. During those years, I immersed myself in the financial independence community, especially its questions about enough, freedom, and what money is for. 
+I eventually went back to school for computer science and spent six years as a software engineer, working with smart people and solving interesting problems. I built a [Utah Baby Name Generator](https://utahnames.sararands.com/), a small side project for generating uniquely Utah-style names, because clearly, someone had to. During those years, I immersed myself in the financial independence community, especially its questions about enough, freedom, and what money is for.
 
-Eventually, I reached a place where I could choose not just what I was capable of, but what felt deeply meaningful.  
-That led me to become a therapist.
+Eventually, I was in a position where I no longer needed to earn a software engineer's salary. Remote work during COVID had taken much of the fun out of my job, and by the time we returned to the office, I'd remarried and moved. My new commute was doing my highly sensitive nervous system no favors. I started wondering what else I might do. One day, while journaling, I watched a bird flying outside and asked myself: *What could I do that would be as intuitive and joyful for me as flying is for that bird?*
 
-Along the way, I became a [cancer survivor](/cancer/), raised neurodivergent children, navigated divorce and remarriage, braved the dating apps, blended a family, and rebuilt my life—in small and large ways—more than once.
+Therapy came to mind, but I wasn't sure if someone who struggles to finish a sentence because her brain is already three tangents ahead would make a good therapist. So, borrowing from both *Designing Your Life* and my software engineering background, I designed a small experiment: I trained as a volunteer for Crisis Text Line. I enjoyed it, I was good at it, and I decided to apply to graduate school.
 
-All of this shapes how I sit with clients. **I know what it’s like to reorient yourself from the inside out.**  
-It helps me listen with nuance, hold complexity with care, and meet you where you are.
+Along the way, I became a [cancer survivor](/cancer/), raised neurodivergent children, braved the dating apps, blended a family, and rebuilt my life more than once.
 
 ---
 
-## How I Work {#how-i-work}
+## My Approach and Training {#how-i-work}
 
-My primary modality is [**NARM (NeuroAffective Relational Model)**](https://narmtraining.com/what-is-narm/): a gentle, present-moment, attachment-focused approach that helps you reconnect with agency, clarity, and self-compassion.
+My primary modality is [**NARM (NeuroAffective Relational Model)**](https://narmtraining.com/what-is-narm/), a present-focused, attachment-based approach particularly well suited to developmental trauma and longstanding patterns in how we relate to ourselves and others. I'm completed the NARM Master's Training and am finishing the remaining requirements for certification.
 
-NARM is especially supportive for people who:
+I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](/blog/accelerated-resolution-therapy/), which I use to work with traumatic memories and other experiences that continue to carry an emotional charge, sometimes long after we've made sense of them intellectually.
 
-- grew up feeling out of sync with their environment  
-- developed emotional independence early  
-- have complex or developmental trauma  
-- are analytical but disconnected from their body  
-- have done insight-based work but still feel stuck  
+I also provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) and have completed extensive training through Polaris Insight Center.
 
-I am also Master Certified in [**ART (Accelerated Resolution Therapy)**](/blog/accelerated-resolution-therapy/), a modality that can help reduce the emotional charge around difficult experiences and create greater alignment between intellectual understanding and emotional experience. I also provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) for clients seeking embodied, existential, or transformative work.
+I'm heavily influenced by existential psychotherapy. In my first semester of graduate school, I encountered Irvin Yalom's four existential concerns and immediately thought, *Why is no one in the post-religious community talking about this?!* It gave me language for much of what I'd experienced in leaving religion and rebuilding my worldview.
 
-And yeah, I read a lot. Too much, probably.  
+I think about human suffering a little like reducing fractions. There's a remarkable amount of suffering we can reduce, and that's much of what we do in therapy. But at some point, the fraction doesn't reduce any further. Some suffering is inherent in being human. Recognizing that can help us grieve and accept what we can't change.  
 
-I love weaving ideas from books, research, and podcasts into therapy when it supports your process. Many of my clients think in frameworks or metaphors, and having shared intellectual language can open new pathways into emotion, agency, and meaning.
+I find comfort in knowing that humans have been grappling with these questions at least since the first hominids started burying their dead. And for well over a century, very smart people have been writing about how to live in a world without religion. We're in good company in both our bewilderment and our awe at the whole strange business of being alive.
 
-That same combination of systems thinking and existential curiosity shapes my work in [**financial therapy**](/financial-therapy/). A healthy balance sheet can create options, but it cannot answer the bigger questions: What is enough? What is money for? What kind of life do you want?
+And yeah, I read a lot. Too much, probably.
 
-My approach isn’t about forcing a method onto you.  
-It’s about helping you reconnect with the parts of yourself that already know the way forward.
-
-Here’s what that looks like in practice:
-
-- **A strengths-based lens.** I look for what’s right with you, not what’s wrong.  
-- **A deeply respectful pace.** We move at the speed your system can genuinely tolerate, not the speed of your urgency or self-criticism.  
-- **Trauma-informed curiosity.** Where you are makes sense. Your strategies were intelligent. We work *with* your resistance, not against it.  
-- **Attachment awareness.** Both your early patterns and your present relationships matter, including the one we build in the room.  
-- **Neurodiversity-affirming support.** You don’t have to mask to be understood here.  
-- **Honoring complexity.** You don’t need a neat narrative before sharing your story; we allow things to unfold.  
-- **Mindfulness and present-time awareness.** Not as a performance, but as a way of noticing what’s happening now.  
-- **Gentle somatic awareness.** Not pressure to feel something in your body, just a slow reconnection to your internal experience, when and if it feels right.  
-- **Cognitive and skills-based tools when they help.** Sometimes a bit of CBT or a DBT skill supports nervous system stability and opens space for deeper work.  
-- **Agency as a north star.** Real change happens when you begin to feel your own capacity to choose.  
-- **Both/and thinking.** Most truths are dialectical; we make room for nuance and contradiction and “two things can be true.”  
-- **Your story as sacred space.** Even the parts that feel confusing or contradictory at first.
-
----
-
-## Who I Work With
-
-I provide individual therapy for adults (18+) who identify with any of the following:
-
-- gifted, bright, perceptive, or unusually analytical  
-- [highly sensitive](https://hsperson.com/)
-- neurodivergent (diagnosed or self-suspected)  
-- grew up in families where emotions weren’t understood, welcomed, or handled well  
-- people who want deep connection but feel unsure how to access it  
-- navigating major identity shifts or meaning questions  
-- [financially capable adults navigating career change, burnout, layoffs, financial independence, or questions about what comes next](/financial-therapy/)
-- [survivors of cancer or medical trauma](/cancer/)
-- people who have felt misunderstood in therapy or in life  
-- people told to “stop overthinking” or that they are “too sensitive”
-
-Many of my clients have spent years adapting themselves to environments that didn’t fully understand how they think, feel, or move through the world, and feel relieved to finally be in a space where they don’t have to shrink, mask, or over-explain themselves.
-
-I also work with therapists who want a place to set down their role and be met simply as a person, not as the helper.
-
----
-
-## What It’s Like to Work With Me
-
-Clients often say they appreciate my:
-
-- calm, grounded presence  
-- ability to sit comfortably with complexity  
-- nonlinear, exploratory thinking and communication style  
-- attunement to emotional, intellectual, and somatic nuance  
-- profound respect for neurodivergent ways of experiencing the world  
-- gentle sense of humor and love of puns 
-- deep curiosity about who they are becoming  
-
-My role isn’t to fix you.  
-My role is to accompany you as you rediscover parts of yourself that may have gone underground in the effort to survive.
+I love bringing ideas from books, research, and podcasts into therapy, and I love it when clients introduce me to something I haven't encountered before.
 
 ---
 
 ## Professional Bio
 
-Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist specializing in gifted adults, highly sensitive persons, and identity reconstruction. She practices NARM (NeuroAffective Relational Model) as her primary modality, is Master Certified in [ART (Accelerated Resolution Therapy)](/blog/accelerated-resolution-therapy/), provides [ketamine-assisted psychotherapy (KAP)](/kap/), and offers [financial therapy](/financial-therapy/) about the emotional and existential aspects of money. Her lived experience includes [cancer survivorship](/cancer/), faith transition, career reinvention, and raising neurodivergent children. Sara also [speaks](/speaking/) about how to live a meaningful, grounded, connected life when the built-in roadmap no longer works.
+Sara Rands, CMHC, is a therapist in Murray, Utah, specializing in work with gifted, highly sensitive, neurodivergent, and analytical adults. She primarily practices NARM (NeuroAffective Relational Model), is Master Certified in [ART (Accelerated Resolution Therapy)](/blog/accelerated-resolution-therapy/), and provides [ketamine-assisted psychotherapy (KAP)](/kap/). Her work is also influenced by existential psychotherapy.
+
+A former software engineer, Sara has particular interests in faith transitions, [cancer survivorship](/cancer/), [financial independence](/financial-therapy/), career reinvention, and the psychological challenges that accompany major life changes. She [writes](/blog/) and [speaks](/speaking/) about these topics and about building a meaningful life without a prewritten script.
 
 ---
 
@@ -141,7 +80,7 @@ Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist s
 ## Certifications
 
 - **Master Certified** in [Accelerated Resolution Therapy (ART)](/blog/accelerated-resolution-therapy/)
-- **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com); NARM Master’s Training in progress
+- **Level 2 Trained** in [NeuroAffective Relational Model (NARM)](https://narmtraining.com); Master's Training completed, advanced certification in progress
 - **Completed the 2025–2026 [Polaris Insight Center Ketamine-Assisted Psychotherapy (KAP) Training Cohort](https://training.polarisinsight.com/cohort)**; advanced certification in progress
 
 ---
@@ -151,5 +90,5 @@ Sara Rands, CMHC, is an attachment-focused, neurodiversity-affirming therapist s
 ---
 
 {% include availability.html
-  heading="You don’t have to simplify yourself here."
+  heading="Getting Started"
 %}
