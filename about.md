@@ -44,9 +44,9 @@ I also provide [**Ketamine-Assisted Psychotherapy (KAP)**](/kap/) and have compl
 
 I'm heavily influenced by existential psychotherapy. In my first semester of graduate school, I encountered Irvin Yalom's four existential concerns and immediately thought, *Why is no one in the post-religious community talking about this?!* It gave me language for much of what I'd experienced in leaving religion and rebuilding my worldview.
 
-I think about human suffering a little like reducing fractions. There's a remarkable amount of suffering we can reduce, and that's much of what we do in therapy. But at some point, the fraction doesn't reduce any further. Some suffering is inherent in being human. Recognizing that can help us grieve and accept what we can't change.  
+I think about human suffering like reducing fractions. We can reduce out a lot of suffering out of our experience, and that's much of what we do in therapy. But eventually the fraction doesn't reduce any further. Some suffering is inherent in being human. Recognizing that can help us grieve and accept what we can't change.  
 
-I find comfort in knowing that humans have been grappling with these questions at least since the first hominids started burying their dead. And for well over a century, very smart people have been writing about how to live in a world without religion. We're in good company in both our bewilderment and our awe at the whole strange business of being alive.
+I find comfort in knowing that humans have been grappling with these questions at least since the first hominids started burying their dead. And for over a century, very smart people have been writing about how to live in a world without religion. We're in good company in both our bewilderment and our awe at the whole strange business of being alive.
 
 And yeah, I read a lot. Too much, probably.
 
