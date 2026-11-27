@@ -172,8 +172,6 @@ You may have had an experience that changed how you see yourself or the world, a
 
 Psychedelic integration is available as part of individual therapy. You don't need to be interested in KAP.
 
----
-
 {% include author-credit.html %}
 
 ---

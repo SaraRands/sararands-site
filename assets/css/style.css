@@ -425,8 +425,10 @@ a.therapy-button:focus-visible {
 /* ---- Clinical Author Credit ---- */
 
 .author-credit {
-  margin-top: 1.5rem;
-  font-size: 0.85rem;
+  text-align: center;
+  margin: 1.25rem 0;
+  font-size: 0.8rem;
+  font-style: italic;
   line-height: 1.5;
   color: #666;
 }

@@ -79,8 +79,6 @@ A recurring theme in the FI community is how difficult it can be to talk openly 
 
 You can read more about my background and therapeutic approach [on the About page](/about/).
 
----
-
 {% include author-credit.html %}
 
 ---

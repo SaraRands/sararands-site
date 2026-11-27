@@ -113,8 +113,6 @@ I've also written more personally about my experience:
 
 - [Twenty Years Later: What Cancer Taught Me](/blog/twenty-years-later/)
 
---- 
-
 {% include author-credit.html %}
 
 ---
