@@ -105,24 +105,33 @@
 
   <body>
 
-    <header class="site-header">
-      <nav class="nav-left">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/about/' | relative_url }}">About</a>
-        <a href="{{ '/fees-scheduling/' | relative_url }}">Fees</a>
-        <a href="{{ '/financial-therapy/' | relative_url }}">Financial Therapy</a>
-        <a href="{{ '/cancer/' | relative_url }}">Cancer</a>
-        <a href="{{ '/kap/' | relative_url }}">Ketamine</a>
-        <a href="{{ '/speaking/' | relative_url }}">Speaking</a>
-        <a href="{{ '/blog/' | relative_url }}">Blog</a>
-        <a href="{{ '/contact/' | relative_url }}">Contact</a>
-      </nav>
+  <header class="site-header">
 
-      <div class="nav-right site-name">
-        <span><a href="{{ '/' | relative_url }}">Sara Rands, CMHC</a></span>
-      </div>
-    </header>
+    <div class="site-name">
+      <a href="{{ '/' | relative_url }}">
+        <span class="brand-text">Sara Rands<span class="brand-credentials">, CMHC</span></span>
+        <img
+          class="brand-shell"
+          src="{{ '/assets/images/favicon.png' | relative_url }}"
+          alt=""
+          width="56"
+          height="56">
+      </a>
+    </div>
 
+    <nav class="nav-left" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/fees-scheduling/' | relative_url }}">Fees</a>
+      <a href="{{ '/financial-therapy/' | relative_url }}">Financial Therapy</a>
+      <a href="{{ '/cancer/' | relative_url }}">Cancer</a>
+      <a href="{{ '/kap/' | relative_url }}">Ketamine</a>
+      <a href="{{ '/speaking/' | relative_url }}">Speaking</a>
+      <a href="{{ '/blog/' | relative_url }}">Blog</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+
+  </header>
 
     <!-- Page Content -->
     <main>
