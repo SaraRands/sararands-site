@@ -27,7 +27,7 @@ How accurate is the picture of the world we get from the news? What can we learn
 ### Navigating the Void: Faith Transitions Through an Existential Lens
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/rZRB3PweDhI"
+  <iframe width="560" height="315" loading="lazy" src="https://www.youtube-nocookie.com/embed/rZRB3PweDhI"
     title="Navigating the Void: Faith Transitions Through an Existential Lens" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -76,7 +76,7 @@ Why is it so hard to change, and what makes change possible? I explore the scien
 
 [**Early detection fails when screening guidelines ignore young women - The Podcast by KevinMD**](https://kevinmd.com/2025/12/early-detection-fails-when-screening-guidelines-ignore-young-women-podcast.html)
 <div class="video-wrapper">
-  <iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/9WH3ZzlGti0"
+  <iframe width="560" height="315" loading="lazy" src="https://www.youtube-nocookie.com/embed/9WH3ZzlGti0"
     title="Early detection fails when screening guidelines ignore young women" frameborder="0" allowfullscreen></iframe>
 </div>
 
