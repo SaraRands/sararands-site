@@ -15,7 +15,6 @@ package-lock.json
 
 # Ruby environment files (if using bundler)
 .bundle/
-Gemfile.lock
 
 # Logs and temp files
 *.log
