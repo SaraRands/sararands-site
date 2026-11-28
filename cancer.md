@@ -9,7 +9,7 @@ og_image: /assets/images/og-cancer.jpg
 
 # Therapy for Cancer Survivors
 
-I was 32 when I was diagnosed with stage 3C breast cancer. My children were 7, 5, and 3.
+I was 32 when I was diagnosed with stage 3C breast cancer. I had three young children.
 
 After months of aggressive treatment, I was told I had a 50% chance of recurrence.
 
